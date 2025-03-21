@@ -28,17 +28,17 @@ Agentic AI represents the next frontier in artificial intelligence, where system
 ## 🗂️ Repository Structure
 
 ### Open-Source Projects
-| Library | Description | Link |
-|---------|-------------|------|
-| Auto-GPT | An experimental open-source attempt to make GPT-4 fully autonomous | [Link](https://github.com/Significant-Gravitas/Auto-GPT) |
-| BabyAGI | An AI-powered task management system | [Link](https://github.com/yoheinakajima/babyagi) |
-| AgentGPT | Assemble, configure, and deploy autonomous AI Agents | [Link](https://github.com/reworkd/AgentGPT) |
-| SuperAGI | A dev-first open source autonomous AI agent framework | [Link](https://github.com/TransformerOptimus/SuperAGI) |
-| OpenAGI | An open-source AGI research platform | [Link](https://github.com/agiresearch/OpenAGI) |
-| MetaGPT | The Multi-Agent Framework | [Link](https://github.com/geekan/MetaGPT) |
-| MiniAGI | A minimal general-purpose autonomous agent | [Link](https://github.com/muellerberndt/mini-agi) |
-| GPT Engineer | Specify what you want it to build, the AI asks for clarification, and then builds it | [Link](https://github.com/gpt-engineer-org/gpt-engineer) |
-| AutoGen | Enable Next-Gen Large Language Model Applications | [Link](https://github.com/microsoft/autogen) |
+| Library | Description | GitHub |
+|---------|-------------|--------|
+| Auto-GPT | An experimental open-source attempt to make GPT-4 fully autonomous | <a href="https://github.com/Significant-Gravitas/Auto-GPT"><img src="https://github.com/Significant-Gravitas/Auto-GPT/raw/master/autogpt/media/images/photo.png" width="30"/></a> |
+| BabyAGI | An AI-powered task management system | <a href="https://github.com/yoheinakajima/babyagi"><img src="https://github.com/yoheinakajima/babyagi/raw/main/docs/babyagi-logo.png" width="30"/></a> |
+| AgentGPT | Assemble, configure, and deploy autonomous AI Agents | <a href="https://github.com/reworkd/AgentGPT"><img src="https://raw.githubusercontent.com/reworkd/AgentGPT/main/public/favicon.ico" width="30"/></a> |
+| SuperAGI | A dev-first open source autonomous AI agent framework | <a href="https://github.com/TransformerOptimus/SuperAGI"><img src="https://avatars.githubusercontent.com/u/133568608?s=200&v=4" width="30"/></a> |
+| OpenAGI | An open-source AGI research platform | <a href="https://github.com/agiresearch/OpenAGI"><img src="https://avatars.githubusercontent.com/u/129320113?s=200&v=4" width="30"/></a> |
+| MetaGPT | The Multi-Agent Framework | <a href="https://github.com/geekan/MetaGPT"><img src="https://raw.githubusercontent.com/geekan/MetaGPT/main/docs/resources/logo.svg" width="30"/></a> |
+| MiniAGI | A minimal general-purpose autonomous agent | <a href="https://github.com/muellerberndt/mini-agi"><img src="https://github.com/muellerberndt/mini-agi/raw/main/mini-agi.png" width="30"/></a> |
+| GPT Engineer | Specify what you want it to build, the AI asks for clarification, and then builds it | <a href="https://github.com/gpt-engineer-org/gpt-engineer"><img src="https://avatars.githubusercontent.com/u/131973559?s=200&v=4" width="30"/></a> |
+| AutoGen | Enable Next-Gen Large Language Model Applications | <a href="https://github.com/microsoft/autogen"><img src="https://raw.githubusercontent.com/microsoft/autogen/main/website/static/img/autogen-logo.svg" width="30"/></a> |
 
 ### Research Papers
 Explore groundbreaking research on:
