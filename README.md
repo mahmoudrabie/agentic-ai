@@ -165,6 +165,12 @@ Agentic AI represents the next frontier in artificial intelligence, where system
 | 🤖🔎🧠 Automated Hypothesis Validation with Agentic Sequential Falsifications | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7298706052458422272-E6lH?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BwDh4FalzR%2BK3n7sLmRHwYw%3D%3D) |
 | 🤖🔎🧠 Towards Google AI Co-Scientist | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7298007564053561345-3OBl?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BwDh4FalzR%2BK3n7sLmRHwYw%3D%3D) |
 
+# Networking
+| Research | Post |
+|----------|-----------|
+| ⚡📡 Agentic AI meets 6G: The Next Evolution in Networking | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7296221753217843200-K2G1?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3B5PTKEXxESRqMfkTy8OIRZg%3D%3D) |
+| ⚙️🌐 The IoT–AI Integration Architecture | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7296037801660157953-_Bb5?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3B5PTKEXxESRqMfkTy8OIRZg%3D%3D) |
+
 # Multimodal
 | Research | Post |
 |----------|-----------|
@@ -182,11 +188,22 @@ Agentic AI represents the next frontier in artificial intelligence, where system
 | 🤖🔎 VulnBot: Autonomous Penetration Testing with Multi-Agent Systems | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7298015268507701248-VhUt?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BwDh4FalzR%2BK3n7sLmRHwYw%3D%3D) |
 | ⚡🤖 Detecting Scam Websites Autonomously | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7297822257853165569-Xd9h?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
 
+# Prompt Engineering
+| Research | Post |
+|----------|-----------|
+| ⚡🤖 Self-Supervised Prompt Optimization Framework | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7296054239498297345-EWZR?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3B5PTKEXxESRqMfkTy8OIRZg%3D%3D) |
+
 # Smart Cities
 | Research | Post |
 |----------|-----------|
 | 🌆🤖 Responsible AI Hyper-Automation: Paving the Way for Sustainable Cities | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7298710933890064384-FkAZ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BwDh4FalzR%2BK3n7sLmRHwYw%3D%3D) |
 | ⚡🤖 LLM Agents for Smart City Management | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7296946959087501313-wRhi?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc&lipi=urn%3Ali%3Apage%3Ad_flagship3_publishing_post_edit%3BUZxk2Ud2QhWwfW%2Bch%2B1x5A%3D%3D) |
+| ⚡🏙️ AI Agent-Based Intelligent Urban Digital Twin | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7296030582436773888-3ZKT?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3B5PTKEXxESRqMfkTy8OIRZg%3D%3D) |
+
+# Ethics
+| Research | Post |
+|----------|-----------|
+| ⚖️🔍 Fairness Multi-Agent AI Framework | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7296042138474049536-O8_d?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3B5PTKEXxESRqMfkTy8OIRZg%3D%3D) |
 
 # Transportation
 | Research | Post |
