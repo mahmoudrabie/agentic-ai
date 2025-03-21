@@ -41,8 +41,8 @@ Agentic AI represents the next frontier in artificial intelligence, where system
 | AutoGen | Enable Next-Gen Large Language Model Applications | [Link](https://github.com/microsoft/autogen) |
 
 ### Research Papers
-| Post Title | Edition |
-|------------|---------|
+| Research | Edition |
+|----------|---------|
 | 🤖🩺✂🪡 SurgRAW: Multi-Agent Workflow with Chain-of-Thought Reasoning for Surgical Intelligence | [Edition 6](https://www.linkedin.com/pulse/agentic-ai-insights-edition-6-march-week-3-2025-mahmoud-rabie-obuuf/?trackingId=YVhAHjBTQu2G74PJ0bO4Ig%3D%3D) |
 | 🤖🩺 Multi-Agent Cognitive Intelligence for Non-Linear Mental Health Detection | [Edition 6](https://www.linkedin.com/pulse/agentic-ai-insights-edition-6-march-week-3-2025-mahmoud-rabie-obuuf/?trackingId=YVhAHjBTQu2G74PJ0bO4Ig%3D%3D) |
 | 🤖♟️ SPIN-Bench: Testing LLMs in Strategic Planning and Social Reasoning | [Edition 6](https://www.linkedin.com/pulse/agentic-ai-insights-edition-6-march-week-3-2025-mahmoud-rabie-obuuf/?trackingId=YVhAHjBTQu2G74PJ0bO4Ig%3D%3D) |
