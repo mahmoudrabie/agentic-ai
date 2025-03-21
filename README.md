@@ -45,10 +45,10 @@ Agentic AI represents the next frontier in artificial intelligence, where system
 # Healthcare
 | Research | Post Link |
 |----------|-----------|
-| 🤖🩺✂🪡 SurgRAW: Multi-Agent Workflow with Chain-of-Thought Reasoning for Surgical Intelligence | [Link](https://www.linkedin.com/pulse/surgraw-multi-agent-workflow-chain-thought-reasoning-surgical-intelligence-mahmoud-rabie-obuuf/?trackingId=YVhAHjBTQu2G74PJ0bO4Ig%3D%3D) |
-| 🤖🩺 Multi-Agent Cognitive Intelligence for Non-Linear Mental Health Detection | [Link](https://www.linkedin.com/pulse/multi-agent-cognitive-intelligence-non-linear-mental-health-detection-mahmoud-rabie-obuuf/?trackingId=YVhAHjBTQu2G74PJ0bO4Ig%3D%3D) |
-| 🤖💊 TXAGENT: Evidence-Grounded AI for Precision Therapeutics | [Link](https://www.linkedin.com/pulse/txagent-evidence-grounded-ai-precision-therapeutics-mahmoud-rabie-obuuf/?trackingId=YVhAHjBTQu2G74PJ0bO4Ig%3D%3D) |
-| 🤖🩻 GEMA-Score: Granular Explainable Multi-Agent Score for Radiology Report Evaluation | [Link](https://www.linkedin.com/pulse/gema-score-granular-explainable-multi-agent-score-radiology-report-evaluation-mahmoud-rabie-obuuf/?trackingId=YVhAHjBTQu2G74PJ0bO4Ig%3D%3D) |
+| 🤖🩺 SurgRAW: Multi-Agent Workflow with Chain-of-Thought Reasoning for Surgical Intelligence | [Link](https://www.linkedin.com/pulse/surgraw-multi-agent-workflow-chain-thought-reasoning-surgical-intelligence-mahmoud-rabie-obuuf/?trackingId=%2B%2BDllAQgR8OD6Tq%2FGcTzkw%3D%3D) |
+| 🤖🩺 Multi-Agent Cognitive Intelligence for Non-Linear Mental Health Detection | [Link](https://www.linkedin.com/pulse/multi-agent-cognitive-intelligence-non-linear-mental-health-detection-mahmoud-rabie-obuuf/?trackingId=%2B%2BDllAQgR8OD6Tq%2FGcTzkw%3D%3D) |
+| 🤖💊 TXAGENT: Evidence-Grounded AI for Precision Therapeutics | [Link](https://www.linkedin.com/pulse/txagent-evidence-grounded-ai-precision-therapeutics-mahmoud-rabie-obuuf/?trackingId=%2B%2BDllAQgR8OD6Tq%2FGcTzkw%3D%3D) |
+| 🤖🩻 GEMA-Score: Granular Explainable Multi-Agent Score for Radiology Report Evaluation | [Link](https://www.linkedin.com/pulse/gema-score-granular-explainable-multi-agent-score-radiology-report-evaluation-mahmoud-rabie-obuuf/?trackingId=%2B%2BDllAQgR8OD6Tq%2FGcTzkw%3D%3D) |
 | 🤖🩺 Multi-Agent Healthcare Assistant: Edge-Device AI for Privacy-Focused Health Management | [Link](https://www.linkedin.com/pulse/multi-agent-healthcare-assistant-edge-device-ai-privacy-focused-health-management-mahmoud-rabie-obuuf/?trackingId=YVhAHjBTQu2G74PJ0bO4Ig%3D%3D) |
 | 🤖🩺 MedR-Bench: Quantifying The Reasoning Abilities of LLMs on Real-world Clinical Cases | [Link](https://www.linkedin.com/pulse/medr-bench-quantifying-reasoning-abilities-llms-real-world-clinical-cases-mahmoud-rabie-obuuf/?trackingId=YVhAHjBTQu2G74PJ0bO4Ig%3D%3D) |
 | 🤖🧬 DrBioRight 2.0: An LLM-powered Chatbot for Cancer Functional Proteomics | [Link](https://www.linkedin.com/pulse/drbioright-2-0-llm-powered-chatbot-cancer-functional-proteomics-mahmoud-rabie-obuuf/?trackingId=YVhAHjBTQu2G74PJ0bO4Ig%3D%3D) |
@@ -57,8 +57,8 @@ Agentic AI represents the next frontier in artificial intelligence, where system
 # Reasoning
 | Research | Post Link |
 |----------|-----------|
-| 🤖♟️ SPIN-Bench: Testing LLMs in Strategic Planning and Social Reasoning | [Link](https://www.linkedin.com/pulse/spin-bench-testing-llms-strategic-planning-social-reasoning-mahmoud-rabie-obuuf/?trackingId=YVhAHjBTQu2G74PJ0bO4Ig%3D%3D) |
-| 🤖🔍 ReasonGraph: Visualizing and Analyzing LLM Reasoning Paths | [Link](https://www.linkedin.com/pulse/reasongraph-visualizing-analyzing-llm-reasoning-paths-mahmoud-rabie-obuuf/?trackingId=YVhAHjBTQu2G74PJ0bO4Ig%3D%3D) |
+| 🤖♟️ SPIN-Bench: Testing LLMs in Strategic Planning and Social Reasoning | [Link](https://www.linkedin.com/pulse/spin-bench-testing-llms-strategic-planning-social-reasoning-mahmoud-rabie-obuuf/?trackingId=%2B%2BDllAQgR8OD6Tq%2FGcTzkw%3D%3D) |
+| 🤖🔍 ReasonGraph: Visualizing and Analyzing LLM Reasoning Paths | [Link](https://www.linkedin.com/pulse/reasongraph-visualizing-analyzing-llm-reasoning-paths-mahmoud-rabie-obuuf/?trackingId=%2B%2BDllAQgR8OD6Tq%2FGcTzkw%3D%3D) |
 | 🤖🧠 Sketch-of-Thought: Efficient LLM Reasoning with Cognitive-Inspired Sketching | [Link](https://www.linkedin.com/pulse/sketch-thought-efficient-llm-reasoning-cognitive-inspired-sketching-mahmoud-rabie-obuuf/?trackingId=YVhAHjBTQu2G74PJ0bO4Ig%3D%3D) |
 | 🤖🧠 SYMBOLIC-MOE: Adaptive Skill-based Routing for Heterogeneous Reasoning | [Link](https://www.linkedin.com/pulse/symbolic-moe-adaptive-skill-based-routing-heterogeneous-reasoning-mahmoud-rabie-obuuf/?trackingId=YVhAHjBTQu2G74PJ0bO4Ig%3D%3D) |
 | 🤖🧠 System 1 to System 2: A Survey of Reasoning Large Language Models | [Link](https://www.linkedin.com/pulse/agentic-ai-insights-edition-5-march-week-2-2025-mahmoud-rabie-5lief/?trackingId=nT8oF%2BetSimzZi%2FB1SSw0Q%3D%3D) |
@@ -71,44 +71,44 @@ Agentic AI represents the next frontier in artificial intelligence, where system
 # Vision
 | Research | Post Link |
 |----------|-----------|
-| 🤖🎨 CoSTA*: Cost-Sensitive Toolpath Agent for Multi-turn Image Editing | [Link](https://www.linkedin.com/pulse/costa-cost-sensitive-toolpath-agent-multi-turn-image-editing-mahmoud-rabie-obuuf/?trackingId=YVhAHjBTQu2G74PJ0bO4Ig%3D%3D) |
+| 🤖🎨 CoSTA*: Cost-Sensitive Toolpath Agent for Multi-turn Image Editing | [Link](https://www.linkedin.com/pulse/costa-cost-sensitive-toolpath-agent-multi-turn-image-editing-mahmoud-rabie-obuuf/?trackingId=%2B%2BDllAQgR8OD6Tq%2FGcTzkw%3D%3D) |
 | 🤖🧠 FAST: Visual Agents As Fast and Slow Thinkers | [Link](https://www.linkedin.com/pulse/agentic-ai-insights-edition-5-march-week-2-2025-mahmoud-rabie-5lief/?trackingId=nT8oF%2BetSimzZi%2FB1SSw0Q%3D%3D) |
 
 # Code
 | Research | Post Link |
 |----------|-----------|
-| 🤖💻 SETUPAGENT: Automating Benchmark Generation for Code Agents | [Link](https://www.linkedin.com/pulse/setupagent-automating-benchmark-generation-code-agents-mahmoud-rabie-obuuf/?trackingId=YVhAHjBTQu2G74PJ0bO4Ig%3D%3D) |
+| 🤖💻 SETUPAGENT: Automating Benchmark Generation for Code Agents | [Link](https://www.linkedin.com/pulse/setupagent-automating-benchmark-generation-code-agents-mahmoud-rabie-obuuf/?trackingId=%2B%2BDllAQgR8OD6Tq%2FGcTzkw%3D%3D) |
 
 # Gaming
 | Research | Post Link |
 |----------|-----------|
-| 🤖🎮 VLM-Attention: Human-Aligned AI for StarCraft II | [Link](https://www.linkedin.com/pulse/vlm-attention-human-aligned-ai-starcraft-ii-mahmoud-rabie-obuuf/?trackingId=YVhAHjBTQu2G74PJ0bO4Ig%3D%3D) |
+| 🤖🎮 VLM-Attention: Human-Aligned AI for StarCraft II | [Link](https://www.linkedin.com/pulse/vlm-attention-human-aligned-ai-starcraft-ii-mahmoud-rabie-obuuf/?trackingId=%2B%2BDllAQgR8OD6Tq%2FGcTzkw%3D%3D) |
 | 🤖🧠 MASTER: A Multi-Agent System with LLM-Specialized MCTS | [Link](https://www.linkedin.com/pulse/agentic-ai-insights-edition-5-march-week-2-2025-mahmoud-rabie-5lief/?trackingId=nT8oF%2BetSimzZi%2FB1SSw0Q%3D%3D) |
 
 # Supply Chain
 | Research | Post Link |
 |----------|-----------|
-| 🤖📦 SustAI-SCM: Agentic AI for Sustainable Supply Chain Automation | [Link](https://www.linkedin.com/pulse/sustai-scm-agentic-ai-sustainable-supply-chain-automation-mahmoud-rabie-obuuf/?trackingId=YVhAHjBTQu2G74PJ0bO4Ig%3D%3D) |
+| 🤖📦 SustAI-SCM: Agentic AI for Sustainable Supply Chain Automation | [Link](https://www.linkedin.com/pulse/sustai-scm-agentic-ai-sustainable-supply-chain-automation-mahmoud-rabie-obuuf/?trackingId=%2B%2BDllAQgR8OD6Tq%2FGcTzkw%3D%3D) |
 
 # Foundation Models
 | Research | Post Link |
 |----------|-----------|
-| 🤖🧠 Society of HiveMind: Multi-Agent Optimization of Foundation Model Swarms | [Link](https://www.linkedin.com/pulse/society-hivemind-multi-agent-optimization-foundation-model-swarms-mahmoud-rabie-obuuf/?trackingId=YVhAHjBTQu2G74PJ0bO4Ig%3D%3D) |
+| 🤖🧠 Society of HiveMind: Multi-Agent Optimization of Foundation Model Swarms | [Link](https://www.linkedin.com/pulse/society-hivemind-multi-agent-optimization-foundation-model-swarms-mahmoud-rabie-obuuf/?trackingId=%2B%2BDllAQgR8OD6Tq%2FGcTzkw%3D%3D) |
 
 # Design
 | Research | Post Link |
 |----------|-----------|
-| 🤖📐 From Idea to CAD: A Language Model-Driven Multi-Agent System for Collaborative Design | [Link](https://www.linkedin.com/pulse/idea-cad-language-model-driven-multi-agent-system-collaborative-design-mahmoud-rabie-obuuf/?trackingId=YVhAHjBTQu2G74PJ0bO4Ig%3D%3D) |
+| 🤖📐 From Idea to CAD: A Language Model-Driven Multi-Agent System for Collaborative Design | [Link](https://www.linkedin.com/pulse/idea-cad-language-model-driven-multi-agent-system-collaborative-design-mahmoud-rabie-obuuf/?trackingId=%2B%2BDllAQgR8OD6Tq%2FGcTzkw%3D%3D) |
 
 # Testing
 | Research | Post Link |
 |----------|-----------|
-| 🤖🛠 ToolFuzz: Automated Agent Tool Testing | [Link](https://www.linkedin.com/pulse/toolfuzz-automated-agent-tool-testing-mahmoud-rabie-obuuf/?trackingId=YVhAHjBTQu2G74PJ0bO4Ig%3D%3D) |
+| 🤖🛠 ToolFuzz: Automated Agent Tool Testing | [Link](https://www.linkedin.com/pulse/toolfuzz-automated-agent-tool-testing-mahmoud-rabie-obuuf/?trackingId=%2B%2BDllAQgR8OD6Tq%2FGcTzkw%3D%3D) |
 
 # IoT
 | Research | Post Link |
 |----------|-----------|
-| 🤖🔍 MAS-LSTM: A Multi-Agent LSTM-Based Approach for Scalable Anomaly Detection in IIoT Networks | [Link](https://www.linkedin.com/pulse/mas-lstm-multi-agent-lstm-based-approach-scalable-anomaly-detection-iiot-networks-mahmoud-rabie-obuuf/?trackingId=YVhAHjBTQu2G74PJ0bO4Ig%3D%3D) |
+| 🤖🔍 MAS-LSTM: A Multi-Agent LSTM-Based Approach for Scalable Anomaly Detection in IIoT Networks | [Link](https://www.linkedin.com/pulse/mas-lstm-multi-agent-lstm-based-approach-scalable-anomaly-detection-iiot-networks-mahmoud-rabie-obuuf/?trackingId=%2B%2BDllAQgR8OD6Tq%2FGcTzkw%3D%3D) |
 
 # Robotics
 | Research | Post Link |
