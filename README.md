@@ -12,7 +12,7 @@
 
 ## 🌟 Overview
 
-Agentic AI represents the next frontier in artificial intelligence, where systems can autonomously plan, decide, and execute actions to achieve complex goals with minimal human intervention. This repository serves as your curated guide through the rapidly evolving landscape of autonomous AI systems.
+Agentic AI represents the next frontier in artificial intelligence, where systems can autonomously plan, decide, and execute actions to achieve complex goals with minimal human intervention. This repository serves as a comprehensive knowledge hub, curating cutting-edge research papers and developments across 25 specialized domains—from Healthcare and Reasoning to Security and Smart Cities. Each section provides direct links to detailed LinkedIn posts, offering insights into the latest advancements in autonomous AI systems and their real-world applications.
 
 ## 📚 Research Field
 
