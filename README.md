@@ -52,7 +52,7 @@ Agentic AI represents the next frontier in artificial intelligence, where system
 | 🤖🩺 Multi-Agent Healthcare Assistant: Edge-Device AI for Privacy-Focused Health Management | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7305433615364980738-2m0A?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3Bk%2B2n9a50QZ%2BRA9L96DOVUw%3D%3D) |
 | 🤖🩺 MedR-Bench: Quantifying The Reasoning Abilities of LLMs on Real-world Clinical Cases | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7304225248403456000-7bHA?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3Bk%2B2n9a50QZ%2BRA9L96DOVUw%3D%3D) |
 | 🤖🧬 DrBioRight 2.0: An LLM-powered Chatbot for Cancer Functional Proteomics | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7304127066713546752-NLgA?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3Bk%2B2n9a50QZ%2BRA9L96DOVUw%3D%3D) |
-| 🤖🩺 M3Builder: A Multi-Agent System for Automated Machine Learning in Medical Imaging | [Link](https://www.linkedin.com/pulse/agentic-ai-insights-edition-5-march-week-2-2025-mahmoud-rabie-5lief/?trackingId=nT8oF%2BetSimzZi%2FB1SSw0Q%3D%3D) |
+| 🤖🩺 M3Builder: A Multi-Agent System for Automated Machine Learning in Medical Imaging | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7303119626253557760-vO1n?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3B7z1uQnw0Sqe7IVj2wDMI5w%3D%3D) |
 
 # Reasoning
 | Research | Post |
@@ -61,10 +61,10 @@ Agentic AI represents the next frontier in artificial intelligence, where system
 | 🤖🔍 ReasonGraph: Visualizing and Analyzing LLM Reasoning Paths | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7306936095743606784-u7y_?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3Bk%2B2n9a50QZ%2BRA9L96DOVUw%3D%3D) |
 | 🤖🧠 Sketch-of-Thought: Efficient LLM Reasoning with Cognitive-Inspired Sketching | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7305618585488416769-I-zZ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3Bk%2B2n9a50QZ%2BRA9L96DOVUw%3D%3D) |
 | 🤖🧠 SYMBOLIC-MOE: Adaptive Skill-based Routing for Heterogeneous Reasoning | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7304698557888970752-HwgP?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3Bk%2B2n9a50QZ%2BRA9L96DOVUw%3D%3D) |
-| 🤖🧠 System 1 to System 2: A Survey of Reasoning Large Language Models | [Link](https://www.linkedin.com/pulse/agentic-ai-insights-edition-5-march-week-2-2025-mahmoud-rabie-5lief/?trackingId=nT8oF%2BetSimzZi%2FB1SSw0Q%3D%3D) |
-| 🤖🧠 LLM Post-Training: A Deep Dive into Reasoning Large Language Models | [Link](https://www.linkedin.com/pulse/agentic-ai-insights-edition-5-march-week-2-2025-mahmoud-rabie-5lief/?trackingId=nT8oF%2BetSimzZi%2FB1SSw0Q%3D%3D) |
-| 🤖🧠 Tree-of-Debate: Multi-Person Debate Trees Elicit Critical Thinking for Scientific Comparative Analysis | [Link](https://www.linkedin.com/pulse/agentic-ai-insights-edition-5-march-week-2-2025-mahmoud-rabie-5lief/?trackingId=nT8oF%2BetSimzZi%2FB1SSw0Q%3D%3D) |
-| 🤖🔧 OctoTools: Agentic Framework for Complex Reasoning | [Link](https://www.linkedin.com/pulse/agentic-ai-insights-edition-5-march-week-2-2025-mahmoud-rabie-5lief/?trackingId=nT8oF%2BetSimzZi%2FB1SSw0Q%3D%3D) |
+| 🤖🧠 System 1 to System 2: A Survey of Reasoning Large Language Models | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7303147523181875200-ol63?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3B7z1uQnw0Sqe7IVj2wDMI5w%3D%3D) |
+| 🤖🧠 LLM Post-Training: A Deep Dive into Reasoning Large Language Models | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7302723280149348356-EeFV?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3B7z1uQnw0Sqe7IVj2wDMI5w%3D%3D) |
+| 🤖🧠 Tree-of-Debate: Multi-Person Debate Trees Elicit Critical Thinking for Scientific Comparative Analysis | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7300573759181144064-hrr5?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3B7z1uQnw0Sqe7IVj2wDMI5w%3D%3D) |
+| 🤖🔧 OctoTools: Agentic Framework for Complex Reasoning | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7299621740970713089-TB0T?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3B7z1uQnw0Sqe7IVj2wDMI5w%3D%3D) |
 | 🤖🧠 Building Reasoning-Rich LLMs with 2.8M Challenging Questions | [Link](https://www.linkedin.com/pulse/agentic-ai-insights-edition-4-february-week-2025-mahmoud-rabie-y4hif/?trackingId=Uqx8P0TAT32mhuQ7IpeThg%3D%3D) |
 | ⚡🤖 Enhancing Reasoning to Adapt LLMs | [Link](https://www.linkedin.com/pulse/agentic-ai-insights-edition-4-february-week-2025-mahmoud-rabie-y4hif/?trackingId=Uqx8P0TAT32mhuQ7IpeThg%3D%3D) |
 
@@ -72,7 +72,7 @@ Agentic AI represents the next frontier in artificial intelligence, where system
 | Research | Post |
 |----------|-----------|
 | 🤖🎨 CoSTA*: Cost-Sensitive Toolpath Agent for Multi-turn Image Editing | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7306689384878108672--HVn?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3Bk%2B2n9a50QZ%2BRA9L96DOVUw%3D%3D) |
-| 🤖🧠 FAST: Visual Agents As Fast and Slow Thinkers | [Link](https://www.linkedin.com/pulse/agentic-ai-insights-edition-5-march-week-2-2025-mahmoud-rabie-5lief/?trackingId=nT8oF%2BetSimzZi%2FB1SSw0Q%3D%3D) |
+| 🤖🧠 FAST: Visual Agents As Fast and Slow Thinkers | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7302855371558207488-4GxE?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3B7z1uQnw0Sqe7IVj2wDMI5w%3D%3D) |
 
 # Code
 | Research | Post |
@@ -83,7 +83,7 @@ Agentic AI represents the next frontier in artificial intelligence, where system
 | Research | Post |
 |----------|-----------|
 | 🤖🎮 VLM-Attention: Human-Aligned AI for StarCraft II | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7305803544392065024-fE9T?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3Bk%2B2n9a50QZ%2BRA9L96DOVUw%3D%3D) |
-| 🤖🧠 MASTER: A Multi-Agent System with LLM-Specialized MCTS | [Link](https://www.linkedin.com/pulse/agentic-ai-insights-edition-5-march-week-2-2025-mahmoud-rabie-5lief/?trackingId=nT8oF%2BetSimzZi%2FB1SSw0Q%3D%3D) |
+| 🤖🧠 MASTER: A Multi-Agent System with LLM-Specialized MCTS | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7300004217635639296-F-4s?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3B7z1uQnw0Sqe7IVj2wDMI5w%3D%3D) |
 
 # Supply Chain
 | Research | Post |
@@ -113,50 +113,50 @@ Agentic AI represents the next frontier in artificial intelligence, where system
 # Robotics
 | Research | Post |
 |----------|-----------|
-| 🤖🚁 MARVEL: Multi-Agent Reinforcement Learning for Constrained Field-of-View Multi-Robot Exploration | [Link](https://www.linkedin.com/pulse/agentic-ai-insights-edition-5-march-week-2-2025-mahmoud-rabie-5lief/?trackingId=nT8oF%2BetSimzZi%2FB1SSw0Q%3D%3D) |
+| 🤖🚁 MARVEL: Multi-Agent Reinforcement Learning for Constrained Field-of-View Multi-Robot Exploration | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7303482003037839361-wlph?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3B7z1uQnw0Sqe7IVj2wDMI5w%3D%3D) |
 
 # Reward Modeling
 | Research | Post |
 |----------|-----------|
-| 🤖🏆 Agentic Reward Modeling: Integrating Human Preferences with Verifiable Correctness Signals | [Link](https://www.linkedin.com/pulse/agentic-ai-insights-edition-5-march-week-2-2025-mahmoud-rabie-5lief/?trackingId=nT8oF%2BetSimzZi%2FB1SSw0Q%3D%3D) |
+| 🤖🏆 Agentic Reward Modeling: Integrating Human Preferences with Verifiable Correctness Signals | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7302769863830233089-7nG6?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3B7z1uQnw0Sqe7IVj2wDMI5w%3D%3D) |
 
 # Visualization
 | Research | Post |
 |----------|-----------|
-| 🤖📊 METAL: A Multi-Agent Framework for Chart Generation with Test-Time Scaling | [Link](https://www.linkedin.com/pulse/agentic-ai-insights-edition-5-march-week-2-2025-mahmoud-rabie-5lief/?trackingId=nT8oF%2BetSimzZi%2FB1SSw0Q%3D%3D) |
+| 🤖📊 METAL: A Multi-Agent Framework for Chart Generation with Test-Time Scaling | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7302757238274674689-dTDv?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3B7z1uQnw0Sqe7IVj2wDMI5w%3D%3D) |
 
 # Framework
 | Research | Post |
 |----------|-----------|
-| 🤖🚀 AutoAgent: A Fully-Automated and Zero-Code Framework for LLM Agents | [Link](https://www.linkedin.com/pulse/agentic-ai-insights-edition-5-march-week-2-2025-mahmoud-rabie-5lief/?trackingId=nT8oF%2BetSimzZi%2FB1SSw0Q%3D%3D) |
-| 🤖💬 Talk Structurally, Act Hierarchically: A Collaborative Framework for LLM Multi-Agent Systems | [Link](https://www.linkedin.com/pulse/agentic-ai-insights-edition-5-march-week-2-2025-mahmoud-rabie-5lief/?trackingId=nT8oF%2BetSimzZi%2FB1SSw0Q%3D%3D) |
+| 🤖🚀 AutoAgent: A Fully-Automated and Zero-Code Framework for LLM Agents | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7302032458277883904-K0bv?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3B7z1uQnw0Sqe7IVj2wDMI5w%3D%3D) |
+| 🤖💬 Talk Structurally, Act Hierarchically: A Collaborative Framework for LLM Multi-Agent Systems | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7299995997852590080-w6FQ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3B7z1uQnw0Sqe7IVj2wDMI5w%3D%3D) |
 | 🤖🚀 Towards Parallelizable LLM Agents | [Link](https://www.linkedin.com/pulse/agentic-ai-insights-edition-4-february-week-2025-mahmoud-rabie-y4hif/?trackingId=Uqx8P0TAT32mhuQ7IpeThg%3D%3D) |
 
 # Planning
 | Research | Post |
 |----------|-----------|
-| 🤖🛠️ PlanGEN: A Multi-Agent Framework for Generating Planning and Reasoning Trajectories | [Link](https://www.linkedin.com/pulse/agentic-ai-insights-edition-5-march-week-2-2025-mahmoud-rabie-5lief/?trackingId=nT8oF%2BetSimzZi%2FB1SSw0Q%3D%3D) |
+| 🤖🛠️ PlanGEN: A Multi-Agent Framework for Generating Planning and Reasoning Trajectories | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7300568645150076930-fPRw?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3B7z1uQnw0Sqe7IVj2wDMI5w%3D%3D) |
 
 # Recommendation
 | Research | Post |
 |----------|-----------|
-| 🤖🔍 MACRec: A Multi-Agent Collaboration Framework for Recommendation | [Link](https://www.linkedin.com/pulse/agentic-ai-insights-edition-5-march-week-2-2025-mahmoud-rabie-5lief/?trackingId=nT8oF%2BetSimzZi%2FB1SSw0Q%3D%3D) |
+| 🤖🔍 MACRec: A Multi-Agent Collaboration Framework for Recommendation | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7300545215897956353-hIXP?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3B7z1uQnw0Sqe7IVj2wDMI5w%3D%3D) |
 | 🤖🎯 InstructAgent: A New LLM-Powered Agent that Puts Users In Control of Recommender Systems | [Link](https://www.linkedin.com/pulse/agentic-ai-insights-edition-4-february-week-2025-mahmoud-rabie-y4hif/?trackingId=Uqx8P0TAT32mhuQ7IpeThg%3D%3D) |
 
 # Reinforcement Learning
 | Research | Post |
 |----------|-----------|
-| 🤖🔗 TAG: A Decentralized Framework for Multi-Agent Hierarchical Reinforcement Learning | [Link](https://www.linkedin.com/pulse/agentic-ai-insights-edition-5-march-week-2-2025-mahmoud-rabie-5lief/?trackingId=nT8oF%2BetSimzZi%2FB1SSw0Q%3D%3D) |
+| 🤖🔗 TAG: A Decentralized Framework for Multi-Agent Hierarchical Reinforcement Learning | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7300372264925949953-z52Z?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3B7z1uQnw0Sqe7IVj2wDMI5w%3D%3D) |
 
 # Hardware Design
 | Research | Post |
 |----------|-----------|
-| 🤖🔩 Marco: Configurable Graph-Based Task Solving and Multi-AI Agents Framework for Hardware Design | [Link](https://www.linkedin.com/pulse/agentic-ai-insights-edition-5-march-week-2-2025-mahmoud-rabie-5lief/?trackingId=nT8oF%2BetSimzZi%2FB1SSw0Q%3D%3D) |
+| 🤖🔩 Marco: Configurable Graph-Based Task Solving and Multi-AI Agents Framework for Hardware Design | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7299855360553619456-3XeP?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3B7z1uQnw0Sqe7IVj2wDMI5w%3D%3D) |
 
 # Automation
 | Research | Post |
 |----------|-----------|
-| 🤖💻 PC-Agent: Hierarchical Multi-Agent Collaboration for Complex Task Automation | [Link](https://www.linkedin.com/pulse/agentic-ai-insights-edition-5-march-week-2-2025-mahmoud-rabie-5lief/?trackingId=nT8oF%2BetSimzZi%2FB1SSw0Q%3D%3D) |
+| 🤖💻 PC-Agent: Hierarchical Multi-Agent Collaboration for Complex Task Automation | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7299832383447470080-keTb?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3B7z1uQnw0Sqe7IVj2wDMI5w%3D%3D) |
 
 # Research
 | Research | Post |
