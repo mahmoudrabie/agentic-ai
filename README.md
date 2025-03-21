@@ -16,14 +16,14 @@ Agentic AI represents the next frontier in artificial intelligence, where system
 
 ## 📚 Table of Contents
 
-- [Research Papers](#research-papers) 📄
-- [Open-Source Projects](#open-source-projects) 🛠️
-- [LLM Models](#llm-models) 🤖
-- [Professional Tools](#professional-tools) 💼
-- [Frameworks](#frameworks) ⚙️
-- [Books](#books) 📖
-- [Articles](#articles) 📰
-- [LinkedIn Posts](#linkedin-posts) 🔗
+- 📄 [Research Papers](#research-papers)
+- 🛠️ [Open-Source Projects](#open-source-projects)
+- 🤖 [LLM Models](#llm-models)
+- 💼 [Professional Tools](#professional-tools)
+- ⚙️ [Frameworks](#frameworks)
+- 📖 [Books](#books)
+- 📰 [Articles](#articles)
+- 🔗 [LinkedIn Posts](#linkedin-posts)
 
 ## 🗂️ Repository Structure
 
