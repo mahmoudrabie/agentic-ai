@@ -52,6 +52,20 @@ This repository organizes research by field, making it easy to explore specific 
 27. 🤖 [Prompt Engineering](#-prompt-engineering)
 28. ⚖️ [Ethics and Safety](#-ethics-and-safety)
 
+# 🔒 Security
+| Research | Post |
+|----------|-----------|
+| 🤖🛡️ AutoRedTeamer: Autonomous Red Teaming with Lifelong Attack Integration | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7308890886640197632-6E74?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
+| 🤖🚨 DemonAgent: A New Backdoor Attack Exploits LLM-Based Agents | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7299034092862345216-JLWs?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BwDh4FalzR%2BK3n7sLmRHwYw%3D%3D) |
+| 🤖🚨 CORBA: A New Attack threatens The Stability of LLM-MAS | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7299022530885873664-3S7c?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BwDh4FalzR%2BK3n7sLmRHwYw%3D%3D) |
+| 🤖🚨 How Agent-in-the-Middle (AiTM) Attacks Compromise Multi-Agent Systems | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7299016118600364032-b-Qs?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BwDh4FalzR%2BK3n7sLmRHwYw%3D%3D) |
+| 🤖🔎 HackSynth: ALL AGENT Penetration Testing Autonomously | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7298804319372386304-Q2jT?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BwDh4FalzR%2BK3n7sLmRHwYw%3D%3D) |
+| 🤖🔐 AUTOPENBENCH: Benchmarking Generative Agents for Automated Penetration Testing | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7298799771643711488-VyTC?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BwDh4FalzR%2BK3n7sLmRHwYw%3D%3D) |
+| 🤖🔒 SpiderSim: Multi-Agent Cybersecurity Simulation for Industrial Digitalization | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7298769930412294145-RiwO?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BwDh4FalzR%2BK3n7sLmRHwYw%3D%3D) |
+| 🤖🔎 VulnBot: Autonomous Penetration Testing with Multi-Agent Systems | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7298015268507701248-VhUt?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BwDh4FalzR%2BK3n7sLmRHwYw%3D%3D) |
+| ⚡🤖 Detecting Scam Websites Autonomously | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7297822257853165569-Xd9h?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
+| 🤖🛡️ GenSQLi: AI-Driven SQLi Defense Framework | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7288601342074363904-Kmo3?utm_source=share&utm_medium=member_desktop&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BkuXoA8MKQL6rQB8%2FSS8e7Q%3D%3D) |
+
 # 🩺 Healthcare
 | Research | Post |
 |----------|-----------|
@@ -194,20 +208,6 @@ This repository organizes research by field, making it easy to explore specific 
 | Research | Post |
 |----------|-----------|
 | 🤖🔄 Magma: A Foundation Model For Multimodal AI Agents | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7299058785698897920-6PHP?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BwDh4FalzR%2BK3n7sLmRHwYw%3D%3D) |
-
-# 🔒 Security
-| Research | Post |
-|----------|-----------|
-| 🤖🛡️ AutoRedTeamer: Autonomous Red Teaming with Lifelong Attack Integration | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7308890886640197632-6E74?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
-| 🤖🚨 DemonAgent: A New Backdoor Attack Exploits LLM-Based Agents | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7299034092862345216-JLWs?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BwDh4FalzR%2BK3n7sLmRHwYw%3D%3D) |
-| 🤖🚨 CORBA: A New Attack threatens The Stability of LLM-MAS | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7299022530885873664-3S7c?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BwDh4FalzR%2BK3n7sLmRHwYw%3D%3D) |
-| 🤖🚨 How Agent-in-the-Middle (AiTM) Attacks Compromise Multi-Agent Systems | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7299016118600364032-b-Qs?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BwDh4FalzR%2BK3n7sLmRHwYw%3D%3D) |
-| 🤖🔎 HackSynth: ALL AGENT Penetration Testing Autonomously | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7298804319372386304-Q2jT?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BwDh4FalzR%2BK3n7sLmRHwYw%3D%3D) |
-| 🤖🔐 AUTOPENBENCH: Benchmarking Generative Agents for Automated Penetration Testing | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7298799771643711488-VyTC?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BwDh4FalzR%2BK3n7sLmRHwYw%3D%3D) |
-| 🤖🔒 SpiderSim: Multi-Agent Cybersecurity Simulation for Industrial Digitalization | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7298769930412294145-RiwO?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BwDh4FalzR%2BK3n7sLmRHwYw%3D%3D) |
-| 🤖🔎 VulnBot: Autonomous Penetration Testing with Multi-Agent Systems | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7298015268507701248-VhUt?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BwDh4FalzR%2BK3n7sLmRHwYw%3D%3D) |
-| ⚡🤖 Detecting Scam Websites Autonomously | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7297822257853165569-Xd9h?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
-| 🤖🛡️ GenSQLi: AI-Driven SQLi Defense Framework | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7288601342074363904-Kmo3?utm_source=share&utm_medium=member_desktop&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BkuXoA8MKQL6rQB8%2FSS8e7Q%3D%3D) |
 
 # 🌆 Smart Cities
 | Research | Post |
