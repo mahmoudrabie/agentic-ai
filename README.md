@@ -43,7 +43,7 @@ Agentic AI represents the next frontier in artificial intelligence, where system
 25. ⛓️ [Blockchain](#-blockchain)
 26. 📡 [Networking](#-networking)
 27. 🤖 [Prompt Engineering](#-prompt-engineering)
-28. ⚖️ [Ethics](#-ethics)
+28. ⚖️ [Ethics & Safety](#-ethics--safety)
 
 # 🩺 Healthcare
 | Research | Post |
@@ -231,7 +231,7 @@ Agentic AI represents the next frontier in artificial intelligence, where system
 |----------|-----------|
 | ⚡🤖 Self-Supervised Prompt Optimization Framework | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7296054239498297345-EWZR?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3B5PTKEXxESRqMfkTy8OIRZg%3D%3D) |
 
-# ⚖️ Ethics
+# ⚖️ Ethics & Safety
 | Research | Post |
 |----------|-----------|
 | ⚖️🔍 Fairness Multi-Agent AI Framework | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7296042138474049536-O8_d?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3B5PTKEXxESRqMfkTy8OIRZg%3D%3D) |
