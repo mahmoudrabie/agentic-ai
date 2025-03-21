@@ -43,7 +43,7 @@ Agentic AI represents the next frontier in artificial intelligence, where system
 25. ⛓️ [Blockchain](#-blockchain)
 26. 📡 [Networking](#-networking)
 27. 🤖 [Prompt Engineering](#-prompt-engineering)
-28. ⚖️ [Ethics & Safety](#ethics)
+28. ⚖️ [Ethics & Safety](#-ethics--safety)
 
 # 🩺 Healthcare
 | Research | Post |
