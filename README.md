@@ -28,11 +28,17 @@ Agentic AI represents the next frontier in artificial intelligence, where system
 ## 🗂️ Repository Structure
 
 ### Open-Source Projects
-Discover cutting-edge open-source initiatives in agentic AI, including:
-- Auto-GPT
-- BabyAGI
-- AgentGPT
-- And many more...
+| Library | Description | Link |
+|---------|-------------|------|
+| Auto-GPT | An experimental open-source attempt to make GPT-4 fully autonomous | [Link](https://github.com/Significant-Gravitas/Auto-GPT) |
+| BabyAGI | An AI-powered task management system | [Link](https://github.com/yoheinakajima/babyagi) |
+| AgentGPT | Assemble, configure, and deploy autonomous AI Agents | [Link](https://github.com/reworkd/AgentGPT) |
+| SuperAGI | A dev-first open source autonomous AI agent framework | [Link](https://github.com/TransformerOptimus/SuperAGI) |
+| OpenAGI | An open-source AGI research platform | [Link](https://github.com/agiresearch/OpenAGI) |
+| MetaGPT | The Multi-Agent Framework | [Link](https://github.com/geekan/MetaGPT) |
+| MiniAGI | A minimal general-purpose autonomous agent | [Link](https://github.com/muellerberndt/mini-agi) |
+| GPT Engineer | Specify what you want it to build, the AI asks for clarification, and then builds it | [Link](https://github.com/gpt-engineer-org/gpt-engineer) |
+| AutoGen | Enable Next-Gen Large Language Model Applications | [Link](https://github.com/microsoft/autogen) |
 
 ### Research Papers
 Explore groundbreaking research on:
