@@ -62,23 +62,23 @@ Agentic AI represents the next frontier in artificial intelligence, where system
 | [6th](https://www.linkedin.com/pulse/agentic-ai-insights-edition-6-march-week-3-2025-mahmoud-rabie-obuuf/?trackingId=YVhAHjBTQu2G74PJ0bO4Ig%3D%3D) | 🤖🩺 MedR-Bench: Quantifying The Reasoning Abilities of LLMs on Real-world Clinical Cases |
 | [6th](https://www.linkedin.com/pulse/agentic-ai-insights-edition-6-march-week-3-2025-mahmoud-rabie-obuuf/?trackingId=YVhAHjBTQu2G74PJ0bO4Ig%3D%3D) | 🤖🔍 MAS-LSTM: A Multi-Agent LSTM-Based Approach for Scalable Anomaly Detection in IIoT Networks |
 | [6th](https://www.linkedin.com/pulse/agentic-ai-insights-edition-6-march-week-3-2025-mahmoud-rabie-obuuf/?trackingId=YVhAHjBTQu2G74PJ0bO4Ig%3D%3D) | 🤖🧬 DrBioRight 2.0: An LLM-powered Chatbot for Cancer Functional Proteomics |
-| [5th](https://www.linkedin.com/newsletters/agentic-ai-insights-7271573588309127168/) | 🤖🚁 MARVEL: Multi-Agent Reinforcement Learning for Constrained Field-of-View Multi-Robot Exploration |
-| [5th](https://www.linkedin.com/newsletters/agentic-ai-insights-7271573588309127168/) | 🤖🧠 System 1 to System 2: A Survey of Reasoning Large Language Models |
-| [5th](https://www.linkedin.com/newsletters/agentic-ai-insights-7271573588309127168/) | 🤖🩺 M3Builder: A Multi-Agent System for Automated Machine Learning in Medical Imaging |
-| [5th](https://www.linkedin.com/newsletters/agentic-ai-insights-7271573588309127168/) | 🤖🧠 FAST: Visual Agents As Fast and Slow Thinkers |
-| [5th](https://www.linkedin.com/newsletters/agentic-ai-insights-7271573588309127168/) | 🤖🏆 Agentic Reward Modeling: Integrating Human Preferences with Verifiable Correctness Signals |
-| [5th](https://www.linkedin.com/newsletters/agentic-ai-insights-7271573588309127168/) | 🤖📊 METAL: A Multi-Agent Framework for Chart Generation with Test-Time Scaling |
-| [5th](https://www.linkedin.com/newsletters/agentic-ai-insights-7271573588309127168/) | 🤖🧠 LLM Post-Training: A Deep Dive into Reasoning Large Language Models |
-| [5th](https://www.linkedin.com/newsletters/agentic-ai-insights-7271573588309127168/) | 🤖🚀 AutoAgent: A Fully-Automated and Zero-Code Framework for LLM Agents |
-| [5th](https://www.linkedin.com/newsletters/agentic-ai-insights-7271573588309127168/) | 🤖🧠 Tree-of-Debate: Multi-Person Debate Trees Elicit Critical Thinking for Scientific Comparative Analysis |
-| [5th](https://www.linkedin.com/newsletters/agentic-ai-insights-7271573588309127168/) | 🤖🛠️ PlanGEN: A Multi-Agent Framework for Generating Planning and Reasoning Trajectories |
-| [5th](https://www.linkedin.com/newsletters/agentic-ai-insights-7271573588309127168/) | 🤖🔍 MACRec: A Multi-Agent Collaboration Framework for Recommendation |
-| [5th](https://www.linkedin.com/newsletters/agentic-ai-insights-7271573588309127168/) | 🤖🔗 TAG: A Decentralized Framework for Multi-Agent Hierarchical Reinforcement Learning |
-| [5th](https://www.linkedin.com/newsletters/agentic-ai-insights-7271573588309127168/) | 🤖🧠 MASTER: A Multi-Agent System with LLM-Specialized MCTS |
-| [5th](https://www.linkedin.com/newsletters/agentic-ai-insights-7271573588309127168/) | 🤖💬 Talk Structurally, Act Hierarchically: A Collaborative Framework for LLM Multi-Agent Systems |
-| [5th](https://www.linkedin.com/newsletters/agentic-ai-insights-7271573588309127168/) | 🤖🔩 Marco: Configurable Graph-Based Task Solving and Multi-AI Agents Framework for Hardware Design |
-| [5th](https://www.linkedin.com/newsletters/agentic-ai-insights-7271573588309127168/) | 🤖💻 PC-Agent: Hierarchical Multi-Agent Collaboration for Complex Task Automation |
-| [5th](https://www.linkedin.com/newsletters/agentic-ai-insights-7271573588309127168/) | 🤖🔧 OctoTools: Agentic Framework for Complex Reasoning |
+| [5th](https://www.linkedin.com/pulse/agentic-ai-insights-edition-5-march-week-2-2025-mahmoud-rabie-5lief/?trackingId=nT8oF%2BetSimzZi%2FB1SSw0Q%3D%3D) | 🤖🚁 MARVEL: Multi-Agent Reinforcement Learning for Constrained Field-of-View Multi-Robot Exploration |
+| [5th](https://www.linkedin.com/pulse/agentic-ai-insights-edition-5-march-week-2-2025-mahmoud-rabie-5lief/?trackingId=nT8oF%2BetSimzZi%2FB1SSw0Q%3D%3D) | 🤖🧠 System 1 to System 2: A Survey of Reasoning Large Language Models |
+| [5th](https://www.linkedin.com/pulse/agentic-ai-insights-edition-5-march-week-2-2025-mahmoud-rabie-5lief/?trackingId=nT8oF%2BetSimzZi%2FB1SSw0Q%3D%3D) | 🤖🩺 M3Builder: A Multi-Agent System for Automated Machine Learning in Medical Imaging |
+| [5th](https://www.linkedin.com/pulse/agentic-ai-insights-edition-5-march-week-2-2025-mahmoud-rabie-5lief/?trackingId=nT8oF%2BetSimzZi%2FB1SSw0Q%3D%3D) | 🤖🧠 FAST: Visual Agents As Fast and Slow Thinkers |
+| [5th](https://www.linkedin.com/pulse/agentic-ai-insights-edition-5-march-week-2-2025-mahmoud-rabie-5lief/?trackingId=nT8oF%2BetSimzZi%2FB1SSw0Q%3D%3D) | 🤖🏆 Agentic Reward Modeling: Integrating Human Preferences with Verifiable Correctness Signals |
+| [5th](https://www.linkedin.com/pulse/agentic-ai-insights-edition-5-march-week-2-2025-mahmoud-rabie-5lief/?trackingId=nT8oF%2BetSimzZi%2FB1SSw0Q%3D%3D) | 🤖📊 METAL: A Multi-Agent Framework for Chart Generation with Test-Time Scaling |
+| [5th](https://www.linkedin.com/pulse/agentic-ai-insights-edition-5-march-week-2-2025-mahmoud-rabie-5lief/?trackingId=nT8oF%2BetSimzZi%2FB1SSw0Q%3D%3D) | 🤖🧠 LLM Post-Training: A Deep Dive into Reasoning Large Language Models |
+| [5th](https://www.linkedin.com/pulse/agentic-ai-insights-edition-5-march-week-2-2025-mahmoud-rabie-5lief/?trackingId=nT8oF%2BetSimzZi%2FB1SSw0Q%3D%3D) | 🤖🚀 AutoAgent: A Fully-Automated and Zero-Code Framework for LLM Agents |
+| [5th](https://www.linkedin.com/pulse/agentic-ai-insights-edition-5-march-week-2-2025-mahmoud-rabie-5lief/?trackingId=nT8oF%2BetSimzZi%2FB1SSw0Q%3D%3D) | 🤖🧠 Tree-of-Debate: Multi-Person Debate Trees Elicit Critical Thinking for Scientific Comparative Analysis |
+| [5th](https://www.linkedin.com/pulse/agentic-ai-insights-edition-5-march-week-2-2025-mahmoud-rabie-5lief/?trackingId=nT8oF%2BetSimzZi%2FB1SSw0Q%3D%3D) | 🤖🛠️ PlanGEN: A Multi-Agent Framework for Generating Planning and Reasoning Trajectories |
+| [5th](https://www.linkedin.com/pulse/agentic-ai-insights-edition-5-march-week-2-2025-mahmoud-rabie-5lief/?trackingId=nT8oF%2BetSimzZi%2FB1SSw0Q%3D%3D) | 🤖🔍 MACRec: A Multi-Agent Collaboration Framework for Recommendation |
+| [5th](https://www.linkedin.com/pulse/agentic-ai-insights-edition-5-march-week-2-2025-mahmoud-rabie-5lief/?trackingId=nT8oF%2BetSimzZi%2FB1SSw0Q%3D%3D) | 🤖🔗 TAG: A Decentralized Framework for Multi-Agent Hierarchical Reinforcement Learning |
+| [5th](https://www.linkedin.com/pulse/agentic-ai-insights-edition-5-march-week-2-2025-mahmoud-rabie-5lief/?trackingId=nT8oF%2BetSimzZi%2FB1SSw0Q%3D%3D) | 🤖🧠 MASTER: A Multi-Agent System with LLM-Specialized MCTS |
+| [5th](https://www.linkedin.com/pulse/agentic-ai-insights-edition-5-march-week-2-2025-mahmoud-rabie-5lief/?trackingId=nT8oF%2BetSimzZi%2FB1SSw0Q%3D%3D) | 🤖💬 Talk Structurally, Act Hierarchically: A Collaborative Framework for LLM Multi-Agent Systems |
+| [5th](https://www.linkedin.com/pulse/agentic-ai-insights-edition-5-march-week-2-2025-mahmoud-rabie-5lief/?trackingId=nT8oF%2BetSimzZi%2FB1SSw0Q%3D%3D) | 🤖🔩 Marco: Configurable Graph-Based Task Solving and Multi-AI Agents Framework for Hardware Design |
+| [5th](https://www.linkedin.com/pulse/agentic-ai-insights-edition-5-march-week-2-2025-mahmoud-rabie-5lief/?trackingId=nT8oF%2BetSimzZi%2FB1SSw0Q%3D%3D) | 🤖💻 PC-Agent: Hierarchical Multi-Agent Collaboration for Complex Task Automation |
+| [5th](https://www.linkedin.com/pulse/agentic-ai-insights-edition-5-march-week-2-2025-mahmoud-rabie-5lief/?trackingId=nT8oF%2BetSimzZi%2FB1SSw0Q%3D%3D) | 🤖🔧 OctoTools: Agentic Framework for Complex Reasoning |
 
 ### LLM Models
 Key language models powering agentic AI:
@@ -129,7 +129,7 @@ Exclusive content from the *Agentic AI Insights* newsletter, featuring:
   - ☁️ Cloud/🦾 AI/🛡️Cybersecurity State-Of-The-Art (SOTA) and latest advancements, Edition 10, March Week 3, 2025
   - 🧠 Open Source LLMs 🧠, Edition 3, March Week 3, 2025
 
-- [Edition 5 – March Week 2, 2025](https://www.linkedin.com/newsletters/agentic-ai-insights-7271573588309127168/)
+- [Edition 5 – March Week 2, 2025](https://www.linkedin.com/pulse/agentic-ai-insights-edition-5-march-week-2-2025-mahmoud-rabie-5lief/?trackingId=nT8oF%2BetSimzZi%2FB1SSw0Q%3D%3D)
   - ☁️ Cloud/🦾 AI/🛡️Cybersecurity State-Of-The-Art (SOTA) and latest advancements, Edition 9, March Week 2, 2025
   - 🧠 Open Source LLMs 🧠, Edition 2, March Week 2, 2025
 
