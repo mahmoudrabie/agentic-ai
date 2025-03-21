@@ -1,4 +1,4 @@
-# Agentic AI 🚀
+# <center>Agentic AI 🚀</center>
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
@@ -83,11 +83,25 @@ Exclusive content from the *Agentic AI Insights* newsletter, featuring:
 
 #### 📰 Latest Newsletter Editions
 - [Edition 6 – March Week 3, 2025](https://www.linkedin.com/newsletters/agentic-ai-insights-7271573588309127168/)
+  - ☁️ Cloud/🦾 AI/🛡️Cybersecurity State-Of-The-Art (SOTA) and latest advancements, Edition 10, March Week 3, 2025
+  - 🧠 Open Source LLMs 🧠, Edition 3, March Week 3, 2025
+
 - [Edition 5 – March Week 2, 2025](https://www.linkedin.com/newsletters/agentic-ai-insights-7271573588309127168/)
+  - ☁️ Cloud/🦾 AI/🛡️Cybersecurity State-Of-The-Art (SOTA) and latest advancements, Edition 9, March Week 2, 2025
+  - 🧠 Open Source LLMs 🧠, Edition 2, March Week 2, 2025
+
 - [Edition 4 – February Week 3, 2025](https://www.linkedin.com/newsletters/agentic-ai-insights-7271573588309127168/)
+  - ☁️ Cloud/🦾 AI/🛡️Cybersecurity State-Of-The-Art (SOTA) and latest advancements, Edition 8, February Week 3, 2025
+  - 🧠 Open Source LLMs 🧠, Edition 1, February Week 3, 2025
+
 - [Edition 3 – February Week 2, 2025](https://www.linkedin.com/newsletters/agentic-ai-insights-7271573588309127168/)
+  - ☁️ Cloud/🦾 AI/🛡️Cybersecurity State-Of-The-Art (SOTA) and latest advancements, Edition 7, February Week 2, 2025
+
 - [Edition 2 – February Week 1, 2025](https://www.linkedin.com/newsletters/agentic-ai-insights-7271573588309127168/)
+  - ☁️ Cloud/🦾 AI/🛡️Cybersecurity State-Of-The-Art (SOTA) and latest advancements, Edition 6, February Week 1, 2025
+
 - [Edition 1 – January Week 4, 2025](https://www.linkedin.com/newsletters/agentic-ai-insights-7271573588309127168/)
+  - ☁️ Cloud/🦾 AI/🛡️Cybersecurity State-Of-The-Art (SOTA) and latest advancements, Edition 5, January Week 4, 2025
 
 ## 🤝 Contributing
 
