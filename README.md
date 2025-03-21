@@ -81,6 +81,13 @@ Exclusive content from the *Agentic AI Insights* newsletter, featuring:
 - Technical deep-dives
 - Practical insights
 
+#### 📰 Latest Newsletter Editions
+- [Edition 6 – March Week 3, 2025](https://www.linkedin.com/newsletters/agentic-ai-insights-7271573588309127168/)
+- [Edition 5 – March Week 2, 2025](https://www.linkedin.com/newsletters/agentic-ai-insights-7271573588309127168/)
+- [Edition 4 – February Week 3, 2025](https://www.linkedin.com/newsletters/agentic-ai-insights-7271573588309127168/)
+- [Edition 3 – February Week 2, 2025](https://www.linkedin.com/newsletters/agentic-ai-insights-7271573588309127168/)
+- [Edition 2 – February Week 1, 2025](https://www.linkedin.com/newsletters/agentic-ai-insights-7271573588309127168/)
+
 ## 🤝 Contributing
 
 We welcome contributions! Whether you have:
