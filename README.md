@@ -41,11 +41,15 @@ Agentic AI represents the next frontier in artificial intelligence, where system
 | AutoGen | Enable Next-Gen Large Language Model Applications | [Link](https://github.com/microsoft/autogen) |
 
 ### Research Papers
-Explore groundbreaking research on:
-- Generative agents
-- Reasoning with action
-- Self-improving autonomous systems
-- Latest developments in the field
+| Title | Description | Link |
+|-------|-------------|------|
+| SurgRAW | Multi-Agent Workflow with Chain-of-Thought Reasoning for Surgical Intelligence | [Edition 6](https://www.linkedin.com/newsletters/agentic-ai-insights-7271573588309127168/) |
+| Multi-Agent Cognitive Intelligence | Non-Linear Mental Health Detection using Multi-Agent Systems | [Edition 6](https://www.linkedin.com/newsletters/agentic-ai-insights-7271573588309127168/) |
+| SPIN-Bench | Testing LLMs in Strategic Planning and Social Reasoning | [Edition 6](https://www.linkedin.com/newsletters/agentic-ai-insights-7271573588309127168/) |
+| TXAGENT | Evidence-Grounded AI for Precision Therapeutics | [Edition 6](https://www.linkedin.com/newsletters/agentic-ai-insights-7271573588309127168/) |
+| ReasonGraph | Visualizing and Analyzing LLM Reasoning Paths | [Edition 6](https://www.linkedin.com/newsletters/agentic-ai-insights-7271573588309127168/) |
+| CoSTA* | Cost-Sensitive Toolpath Agent for Multi-turn Image Editing | [Edition 6](https://www.linkedin.com/newsletters/agentic-ai-insights-7271573588309127168/) |
+| GEMA-Score | Granular Explainable Multi-Agent Score for Radiology Report Evaluation | [Edition 6](https://www.linkedin.com/newsletters/agentic-ai-insights-7271573588309127168/) |
 
 ### LLM Models
 Key language models powering agentic AI:
