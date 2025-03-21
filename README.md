@@ -43,13 +43,13 @@ Agentic AI represents the next frontier in artificial intelligence, where system
 ### Research Papers
 | Post Title | Edition |
 |------------|---------|
-| 🤖🩺✂🪡 SurgRAW: Multi-Agent Workflow with Chain-of-Thought Reasoning for Surgical Intelligence | [Edition 6](https://www.linkedin.com/newsletters/agentic-ai-insights-7271573588309127168/) |
-| 🤖🩺 Multi-Agent Cognitive Intelligence for Non-Linear Mental Health Detection | [Edition 6](https://www.linkedin.com/newsletters/agentic-ai-insights-7271573588309127168/) |
-| 🤖♟️ SPIN-Bench: Testing LLMs in Strategic Planning and Social Reasoning | [Edition 6](https://www.linkedin.com/newsletters/agentic-ai-insights-7271573588309127168/) |
-| 🤖💊 TXAGENT: Evidence-Grounded AI for Precision Therapeutics | [Edition 6](https://www.linkedin.com/newsletters/agentic-ai-insights-7271573588309127168/) |
-| 🤖🔍 ReasonGraph: Visualizing and Analyzing LLM Reasoning Paths | [Edition 6](https://www.linkedin.com/newsletters/agentic-ai-insights-7271573588309127168/) |
-| 🤖🎨 CoSTA*: Cost-Sensitive Toolpath Agent for Multi-turn Image Editing | [Edition 6](https://www.linkedin.com/newsletters/agentic-ai-insights-7271573588309127168/) |
-| 🤖🩻 GEMA-Score: Granular Explainable Multi-Agent Score for Radiology Report Evaluation | [Edition 6](https://www.linkedin.com/newsletters/agentic-ai-insights-7271573588309127168/) |
+| 🤖🩺✂🪡 SurgRAW: Multi-Agent Workflow with Chain-of-Thought Reasoning for Surgical Intelligence | [Edition 6](https://www.linkedin.com/pulse/agentic-ai-insights-edition-6-march-week-3-2025-mahmoud-rabie-obuuf/?trackingId=YVhAHjBTQu2G74PJ0bO4Ig%3D%3D) |
+| 🤖🩺 Multi-Agent Cognitive Intelligence for Non-Linear Mental Health Detection | [Edition 6](https://www.linkedin.com/pulse/agentic-ai-insights-edition-6-march-week-3-2025-mahmoud-rabie-obuuf/?trackingId=YVhAHjBTQu2G74PJ0bO4Ig%3D%3D) |
+| 🤖♟️ SPIN-Bench: Testing LLMs in Strategic Planning and Social Reasoning | [Edition 6](https://www.linkedin.com/pulse/agentic-ai-insights-edition-6-march-week-3-2025-mahmoud-rabie-obuuf/?trackingId=YVhAHjBTQu2G74PJ0bO4Ig%3D%3D) |
+| 🤖💊 TXAGENT: Evidence-Grounded AI for Precision Therapeutics | [Edition 6](https://www.linkedin.com/pulse/agentic-ai-insights-edition-6-march-week-3-2025-mahmoud-rabie-obuuf/?trackingId=YVhAHjBTQu2G74PJ0bO4Ig%3D%3D) |
+| 🤖🔍 ReasonGraph: Visualizing and Analyzing LLM Reasoning Paths | [Edition 6](https://www.linkedin.com/pulse/agentic-ai-insights-edition-6-march-week-3-2025-mahmoud-rabie-obuuf/?trackingId=YVhAHjBTQu2G74PJ0bO4Ig%3D%3D) |
+| 🤖🎨 CoSTA*: Cost-Sensitive Toolpath Agent for Multi-turn Image Editing | [Edition 6](https://www.linkedin.com/pulse/agentic-ai-insights-edition-6-march-week-3-2025-mahmoud-rabie-obuuf/?trackingId=YVhAHjBTQu2G74PJ0bO4Ig%3D%3D) |
+| 🤖🩻 GEMA-Score: Granular Explainable Multi-Agent Score for Radiology Report Evaluation | [Edition 6](https://www.linkedin.com/pulse/agentic-ai-insights-edition-6-march-week-3-2025-mahmoud-rabie-obuuf/?trackingId=YVhAHjBTQu2G74PJ0bO4Ig%3D%3D) |
 
 ### LLM Models
 Key language models powering agentic AI:
