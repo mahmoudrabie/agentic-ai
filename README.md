@@ -87,6 +87,7 @@ Exclusive content from the *Agentic AI Insights* newsletter, featuring:
 - [Edition 4 – February Week 3, 2025](https://www.linkedin.com/newsletters/agentic-ai-insights-7271573588309127168/)
 - [Edition 3 – February Week 2, 2025](https://www.linkedin.com/newsletters/agentic-ai-insights-7271573588309127168/)
 - [Edition 2 – February Week 1, 2025](https://www.linkedin.com/newsletters/agentic-ai-insights-7271573588309127168/)
+- [Edition 1 – January Week 4, 2025](https://www.linkedin.com/newsletters/agentic-ai-insights-7271573588309127168/)
 
 ## 🤝 Contributing
 
