@@ -14,7 +14,7 @@
 
 Agentic AI represents the next frontier in artificial intelligence, where systems can autonomously plan, decide, and execute actions to achieve complex goals with minimal human intervention. This repository serves as your curated guide through the rapidly evolving landscape of autonomous AI systems.
 
-## 📚 Table of Contents
+## 📚 Research Field
 
 - 🏥 [Healthcare](#healthcare)
 - 🧠 [Reasoning](#reasoning)
