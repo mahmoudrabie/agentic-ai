@@ -65,8 +65,8 @@ Agentic AI represents the next frontier in artificial intelligence, where system
 | 🤖🧠 LLM Post-Training: A Deep Dive into Reasoning Large Language Models | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7302723280149348356-EeFV?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3B7z1uQnw0Sqe7IVj2wDMI5w%3D%3D) |
 | 🤖🧠 Tree-of-Debate: Multi-Person Debate Trees Elicit Critical Thinking for Scientific Comparative Analysis | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7300573759181144064-hrr5?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3B7z1uQnw0Sqe7IVj2wDMI5w%3D%3D) |
 | 🤖🔧 OctoTools: Agentic Framework for Complex Reasoning | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7299621740970713089-TB0T?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3B7z1uQnw0Sqe7IVj2wDMI5w%3D%3D) |
-| 🤖🧠 Building Reasoning-Rich LLMs with 2.8M Challenging Questions | [Link](https://www.linkedin.com/pulse/agentic-ai-insights-edition-4-february-week-2025-mahmoud-rabie-y4hif/?trackingId=Uqx8P0TAT32mhuQ7IpeThg%3D%3D) |
-| ⚡🤖 Enhancing Reasoning to Adapt LLMs | [Link](https://www.linkedin.com/pulse/agentic-ai-insights-edition-4-february-week-2025-mahmoud-rabie-y4hif/?trackingId=Uqx8P0TAT32mhuQ7IpeThg%3D%3D) |
+| 🤖🧠 Building Reasoning-Rich LLMs with 2.8M Challenging Questions | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7299063753352863744-ElBU?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BwDh4FalzR%2BK3n7sLmRHwYw%3D%3D) |
+| ⚡🤖 Enhancing Reasoning to Adapt LLMs | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7297678332630859776-cNfF?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc&lipi=urn%3Ali%3Apage%3Ad_flagship3_publishing_post_edit%3BUZxk2Ud2QhWwfW%2Bch%2B1x5A%3D%3D) |
 
 # Vision
 | Research | Post |
@@ -130,7 +130,7 @@ Agentic AI represents the next frontier in artificial intelligence, where system
 |----------|-----------|
 | 🤖🚀 AutoAgent: A Fully-Automated and Zero-Code Framework for LLM Agents | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7302032458277883904-K0bv?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3B7z1uQnw0Sqe7IVj2wDMI5w%3D%3D) |
 | 🤖💬 Talk Structurally, Act Hierarchically: A Collaborative Framework for LLM Multi-Agent Systems | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7299995997852590080-w6FQ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3B7z1uQnw0Sqe7IVj2wDMI5w%3D%3D) |
-| 🤖🚀 Towards Parallelizable LLM Agents | [Link](https://www.linkedin.com/pulse/agentic-ai-insights-edition-4-february-week-2025-mahmoud-rabie-y4hif/?trackingId=Uqx8P0TAT32mhuQ7IpeThg%3D%3D) |
+| 🤖🚀 Towards Parallelizable LLM Agents | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7298695544317558784-KQ5y?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BwDh4FalzR%2BK3n7sLmRHwYw%3D%3D) |
 
 # Planning
 | Research | Post |
@@ -141,7 +141,7 @@ Agentic AI represents the next frontier in artificial intelligence, where system
 | Research | Post |
 |----------|-----------|
 | 🤖🔍 MACRec: A Multi-Agent Collaboration Framework for Recommendation | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7300545215897956353-hIXP?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3B7z1uQnw0Sqe7IVj2wDMI5w%3D%3D) |
-| 🤖🎯 InstructAgent: A New LLM-Powered Agent that Puts Users In Control of Recommender Systems | [Link](https://www.linkedin.com/pulse/agentic-ai-insights-edition-4-february-week-2025-mahmoud-rabie-y4hif/?trackingId=Uqx8P0TAT32mhuQ7IpeThg%3D%3D) |
+| 🤖🎯 InstructAgent: A New LLM-Powered Agent that Puts Users In Control of Recommender Systems | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7299029683365421056-EbSt?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BwDh4FalzR%2BK3n7sLmRHwYw%3D%3D) |
 
 # Reinforcement Learning
 | Research | Post |
@@ -161,43 +161,43 @@ Agentic AI represents the next frontier in artificial intelligence, where system
 # Research
 | Research | Post |
 |----------|-----------|
-| 🤖🔬 MLGym: Enabling LLM Research Agents | [Link](https://www.linkedin.com/pulse/agentic-ai-insights-edition-4-february-week-2025-mahmoud-rabie-y4hif/?trackingId=Uqx8P0TAT32mhuQ7IpeThg%3D%3D) |
-| 🤖🔎🧠 Automated Hypothesis Validation with Agentic Sequential Falsifications | [Link](https://www.linkedin.com/pulse/agentic-ai-insights-edition-4-february-week-2025-mahmoud-rabie-y4hif/?trackingId=Uqx8P0TAT32mhuQ7IpeThg%3D%3D) |
-| 🤖🔎🧠 Towards Google AI Co-Scientist | [Link](https://www.linkedin.com/pulse/agentic-ai-insights-edition-4-february-week-2025-mahmoud-rabie-y4hif/?trackingId=Uqx8P0TAT32mhuQ7IpeThg%3D%3D) |
+| 🤖🔬 MLGym: Enabling LLM Research Agents | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7299253945632264192-pfnI?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BwDh4FalzR%2BK3n7sLmRHwYw%3D%3D) |
+| 🤖🔎🧠 Automated Hypothesis Validation with Agentic Sequential Falsifications | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7298706052458422272-E6lH?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BwDh4FalzR%2BK3n7sLmRHwYw%3D%3D) |
+| 🤖🔎🧠 Towards Google AI Co-Scientist | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7298007564053561345-3OBl?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BwDh4FalzR%2BK3n7sLmRHwYw%3D%3D) |
 
 # Multimodal
 | Research | Post |
 |----------|-----------|
-| 🤖🔄 Magma: A Foundation Model For Multimodal AI Agents | [Link](https://www.linkedin.com/pulse/agentic-ai-insights-edition-4-february-week-2025-mahmoud-rabie-y4hif/?trackingId=Uqx8P0TAT32mhuQ7IpeThg%3D%3D) |
+| 🤖🔄 Magma: A Foundation Model For Multimodal AI Agents | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7299058785698897920-6PHP?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BwDh4FalzR%2BK3n7sLmRHwYw%3D%3D) |
 
 # Security
 | Research | Post |
 |----------|-----------|
-| 🤖🚨 DemonAgent: A New Backdoor Attack Exploits LLM-Based Agents | [Link](https://www.linkedin.com/pulse/agentic-ai-insights-edition-4-february-week-2025-mahmoud-rabie-y4hif/?trackingId=Uqx8P0TAT32mhuQ7IpeThg%3D%3D) |
-| 🤖🚨 CORBA: A New Attack threatens The Stability of LLM-MAS | [Link](https://www.linkedin.com/pulse/agentic-ai-insights-edition-4-february-week-2025-mahmoud-rabie-y4hif/?trackingId=Uqx8P0TAT32mhuQ7IpeThg%3D%3D) |
-| 🤖🚨 How Agent-in-the-Middle (AiTM) Attacks Compromise Multi-Agent Systems | [Link](https://www.linkedin.com/pulse/agentic-ai-insights-edition-4-february-week-2025-mahmoud-rabie-y4hif/?trackingId=Uqx8P0TAT32mhuQ7IpeThg%3D%3D) |
-| 🤖🔎 HackSynth: ALL AGENT Penetration Testing Autonomously | [Link](https://www.linkedin.com/pulse/agentic-ai-insights-edition-4-february-week-2025-mahmoud-rabie-y4hif/?trackingId=Uqx8P0TAT32mhuQ7IpeThg%3D%3D) |
-| 🤖🔐 AUTOPENBENCH: Benchmarking Generative Agents for Automated Penetration Testing | [Link](https://www.linkedin.com/pulse/agentic-ai-insights-edition-4-february-week-2025-mahmoud-rabie-y4hif/?trackingId=Uqx8P0TAT32mhuQ7IpeThg%3D%3D) |
-| 🤖🔒 SpiderSim: Multi-Agent Cybersecurity Simulation for Industrial Digitalization | [Link](https://www.linkedin.com/pulse/agentic-ai-insights-edition-4-february-week-2025-mahmoud-rabie-y4hif/?trackingId=Uqx8P0TAT32mhuQ7IpeThg%3D%3D) |
-| 🤖🔎 VulnBot: Autonomous Penetration Testing with Multi-Agent Systems | [Link](https://www.linkedin.com/pulse/agentic-ai-insights-edition-4-february-week-2025-mahmoud-rabie-y4hif/?trackingId=Uqx8P0TAT32mhuQ7IpeThg%3D%3D) |
-| ⚡🤖 Detecting Scam Websites Autonomously | [Link](https://www.linkedin.com/pulse/agentic-ai-insights-edition-4-february-week-2025-mahmoud-rabie-y4hif/?trackingId=Uqx8P0TAT32mhuQ7IpeThg%3D%3D) |
+| 🤖🚨 DemonAgent: A New Backdoor Attack Exploits LLM-Based Agents | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7299034092862345216-JLWs?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BwDh4FalzR%2BK3n7sLmRHwYw%3D%3D) |
+| 🤖🚨 CORBA: A New Attack threatens The Stability of LLM-MAS | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7299022530885873664-3S7c?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BwDh4FalzR%2BK3n7sLmRHwYw%3D%3D) |
+| 🤖🚨 How Agent-in-the-Middle (AiTM) Attacks Compromise Multi-Agent Systems | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7299016118600364032-b-Qs?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BwDh4FalzR%2BK3n7sLmRHwYw%3D%3D) |
+| 🤖🔎 HackSynth: ALL AGENT Penetration Testing Autonomously | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7298804319372386304-Q2jT?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BwDh4FalzR%2BK3n7sLmRHwYw%3D%3D) |
+| 🤖🔐 AUTOPENBENCH: Benchmarking Generative Agents for Automated Penetration Testing | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7298799771643711488-VyTC?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BwDh4FalzR%2BK3n7sLmRHwYw%3D%3D) |
+| 🤖🔒 SpiderSim: Multi-Agent Cybersecurity Simulation for Industrial Digitalization | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7298769930412294145-RiwO?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BwDh4FalzR%2BK3n7sLmRHwYw%3D%3D) |
+| 🤖🔎 VulnBot: Autonomous Penetration Testing with Multi-Agent Systems | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7298015268507701248-VhUt?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BwDh4FalzR%2BK3n7sLmRHwYw%3D%3D) |
+| ⚡🤖 Detecting Scam Websites Autonomously | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7297822257853165569-Xd9h?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
 
 # Smart Cities
 | Research | Post |
 |----------|-----------|
-| 🌆🤖 Responsible AI Hyper-Automation: Paving the Way for Sustainable Cities | [Link](https://www.linkedin.com/pulse/agentic-ai-insights-edition-4-february-week-2025-mahmoud-rabie-y4hif/?trackingId=Uqx8P0TAT32mhuQ7IpeThg%3D%3D) |
-| ⚡🤖 LLM Agents for Smart City Management | [Link](https://www.linkedin.com/pulse/agentic-ai-insights-edition-4-february-week-2025-mahmoud-rabie-y4hif/?trackingId=Uqx8P0TAT32mhuQ7IpeThg%3D%3D) |
+| 🌆🤖 Responsible AI Hyper-Automation: Paving the Way for Sustainable Cities | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7298710933890064384-FkAZ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BwDh4FalzR%2BK3n7sLmRHwYw%3D%3D) |
+| ⚡🤖 LLM Agents for Smart City Management | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7296946959087501313-wRhi?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc&lipi=urn%3Ali%3Apage%3Ad_flagship3_publishing_post_edit%3BUZxk2Ud2QhWwfW%2Bch%2B1x5A%3D%3D) |
 
 # Transportation
 | Research | Post |
 |----------|-----------|
-| 🚦🤖 PyTSC: Revolutionizing Multi-Agent Reinforcement Learning for Traffic Signal Control | [Link](https://www.linkedin.com/pulse/agentic-ai-insights-edition-4-february-week-2025-mahmoud-rabie-y4hif/?trackingId=Uqx8P0TAT32mhuQ7IpeThg%3D%3D) |
-| ⚡🤖 Electric Vehicles as Evolutionary Robots | [Link](https://www.linkedin.com/pulse/agentic-ai-insights-edition-4-february-week-2025-mahmoud-rabie-y4hif/?trackingId=Uqx8P0TAT32mhuQ7IpeThg%3D%3D) |
+| 🚦🤖 PyTSC: Revolutionizing Multi-Agent Reinforcement Learning for Traffic Signal Control | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7298709281036525569-0VL2?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BwDh4FalzR%2BK3n7sLmRHwYw%3D%3D) |
+| ⚡🤖 Electric Vehicles as Evolutionary Robots | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7297682324060561409-u2B8?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc&lipi=urn%3Ali%3Apage%3Ad_flagship3_publishing_post_edit%3BUZxk2Ud2QhWwfW%2Bch%2B1x5A%3D%3D) |
 
 # Blockchain
 | Research | Post |
 |----------|-----------|
-| ⚡🤖 AI Agents Meet Blockchain: Secure & Scalable Collaboration | [Link](https://www.linkedin.com/pulse/agentic-ai-insights-edition-4-february-week-2025-mahmoud-rabie-y4hif/?trackingId=Uqx8P0TAT32mhuQ7IpeThg%3D%3D) |
+| ⚡🤖 AI Agents Meet Blockchain: Secure & Scalable Collaboration | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7296959296091652097-ntzG?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc&lipi=urn%3Ali%3Apage%3Ad_flagship3_publishing_post_edit%3BUZxk2Ud2QhWwfW%2Bch%2B1x5A%3D%3D) |
 
 ## 🤝 Contributing
 
