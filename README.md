@@ -16,7 +16,7 @@ Agentic AI represents the next frontier in artificial intelligence, where system
 
 ## 📚 Research Field
 
-1. 🏥 [Healthcare](#healthcare)
+1. 🩺 [Healthcare](#healthcare)
 2. 🧠 [Reasoning](#reasoning)
 3. 👁️ [Vision](#vision)
 4. 💻 [Code](#code)
