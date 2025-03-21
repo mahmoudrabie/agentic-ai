@@ -43,13 +43,13 @@ Agentic AI represents the next frontier in artificial intelligence, where system
 ### Research Papers
 | Post Title | Edition |
 |------------|---------|
-| 🤖🩺✂🪡 𝙎𝙪𝙧𝙜𝙍𝘼𝙒: 𝙈𝙪𝙡𝙩 𝙞-𝘼𝙜𝙚𝙣𝙩 ��𝙤𝙧𝙠𝙛𝙡𝙤𝙬 𝙬𝙞𝙩 𝘾𝙝𝙖𝙞𝙣-𝙤𝙛-𝙏𝙝𝙤𝙪𝙜𝙝𝙩 𝙍𝙚𝙖𝙨𝙤𝙣𝙞𝙣𝙜 𝙛𝙤𝙧 𝙎𝙪𝙧𝙜𝙞𝙘𝙖𝙡 𝙄𝙣𝙩𝙚𝙡𝙡𝙞𝙜𝙚𝙣𝙘𝙚 | [Edition 6](https://www.linkedin.com/newsletters/agentic-ai-insights-7271573588309127168/) |
-| 🤖🩺 𝙈𝙪𝙡𝙩𝙞-𝘼𝙜𝙚𝙣𝙩 𝘾𝙤𝙜𝙣𝙞𝙩𝙞𝙫𝙚 𝙄𝙣𝙩𝙚𝙡𝙡𝙞𝙜𝙚𝙣𝙘𝙚 𝙛𝙤𝙧 𝙉𝙤𝙣-𝙇𝙞𝙣𝙚𝙖𝙧 𝙈𝙚𝙣𝙩𝙖𝙡 𝙃𝙚𝙖𝙩𝙝 𝘿𝙚𝙩𝙚𝙘𝙩𝙞𝙤𝙣 | [Edition 6](https://www.linkedin.com/newsletters/agentic-ai-insights-7271573588309127168/) |
-| 🤖♟️ 𝙎𝙋𝙄��-𝘽𝙚��𝙘𝙝: 𝙏𝙚𝙨𝙩 𝙇𝙇𝙈𝙨 𝙞𝙣 𝙎𝙩𝙧𝙖𝙩 𝙜𝙞𝙘 𝙋𝙡𝙖𝙣𝙣𝙞𝙣𝙜 𝙖𝙣𝙙 𝙎𝙤𝙘𝙞𝙖𝙡 𝙍𝙚𝙖𝙨𝙤𝙣𝙞𝙣𝙜 | [Edition 6](https://www.linkedin.com/newsletters/agentic-ai-insights-7271573588309127168/) |
-| 🤖💊 𝙏𝙓𝘼𝙂𝙀𝙉𝙏: 𝙀𝙫𝙞𝙙𝙚𝙣𝙘𝙚-𝙂𝙧𝙤𝙪𝙣𝙙𝙚𝙙 𝘼𝙄 𝙛𝙤𝙧 𝙋𝙧𝙚𝙘𝙞𝙨𝙞𝙤𝙣 𝙏𝙝𝙚𝙧𝙖𝙥𝙚𝙪𝙩𝙞𝙘𝙨 | [Edition 6](https://www.linkedin.com/newsletters/agentic-ai-insights-7271573588309127168/) |
-| 🤖🔍 𝙍𝙚𝙖𝙨𝙤𝙣𝙂𝙧𝙖𝙥𝙝: 𝙑𝙞𝙨𝙪𝙖𝙡𝙞𝙯𝙞𝙣𝙜 𝙖𝙣𝙙 𝘼𝙣𝙖𝙡𝙮𝙯𝙞𝙣𝙜 𝙇𝙇𝙈 𝙍𝙚𝙖𝙨𝙤𝙣𝙞𝙣𝙜 𝙋𝙖𝙩𝙝𝙨 | [Edition 6](https://www.linkedin.com/newsletters/agentic-ai-insights-7271573588309127168/) |
-| 🤖🎨 𝘾𝙤𝙎𝙏𝘼*: 𝘾𝙤𝙨�� 𝙎𝙚𝙣𝙨𝙞𝙩𝙞𝙫𝙚 𝙏𝙤𝙤𝙡𝙥𝙖𝙩𝙝 𝘼𝙜𝙚𝙣𝙩 𝙛𝙤𝙧 𝙈𝙪𝙡𝙩𝙞-𝙩𝙪𝙧𝙣 𝙄𝙢𝙖𝙜𝙚 𝙀𝙙𝙞𝙩𝙞𝙣𝙜 | [Edition 6](https://www.linkedin.com/newsletters/agentic-ai-insights-7271573588309127168/) |
-| 🤖🩻 𝙂𝙀𝙈𝘼-𝙎𝙘𝙤𝙧𝙚: 𝙂𝙧𝙖𝙣𝙪𝙡𝙖𝙧 𝙀𝙭𝙥𝙡𝙖𝙞𝙣𝙖𝙗𝙡𝙚 𝙈𝙪𝙡𝙩𝙞-𝘼𝙜𝙚𝙣𝙩 𝙎𝙘𝙤𝙧𝙚 𝙛𝙤𝙧 𝙍𝙖𝙙𝙞𝙤𝙡𝙤𝙜𝙮 𝙍𝙚𝙥𝙤𝙧𝙩 𝙀𝙫𝙖𝙡𝙪𝙖𝙩𝙞𝙤𝙣 | [Edition 6](https://www.linkedin.com/newsletters/agentic-ai-insights-7271573588309127168/) |
+| 🤖🩺✂🪡 SurgRAW: Multi-Agent Workflow with Chain-of-Thought Reasoning for Surgical Intelligence | [Edition 6](https://www.linkedin.com/newsletters/agentic-ai-insights-7271573588309127168/) |
+| 🤖🩺 Multi-Agent Cognitive Intelligence for Non-Linear Mental Health Detection | [Edition 6](https://www.linkedin.com/newsletters/agentic-ai-insights-7271573588309127168/) |
+| 🤖♟️ SPIN-Bench: Testing LLMs in Strategic Planning and Social Reasoning | [Edition 6](https://www.linkedin.com/newsletters/agentic-ai-insights-7271573588309127168/) |
+| 🤖💊 TXAGENT: Evidence-Grounded AI for Precision Therapeutics | [Edition 6](https://www.linkedin.com/newsletters/agentic-ai-insights-7271573588309127168/) |
+| 🤖🔍 ReasonGraph: Visualizing and Analyzing LLM Reasoning Paths | [Edition 6](https://www.linkedin.com/newsletters/agentic-ai-insights-7271573588309127168/) |
+| 🤖🎨 CoSTA*: Cost-Sensitive Toolpath Agent for Multi-turn Image Editing | [Edition 6](https://www.linkedin.com/newsletters/agentic-ai-insights-7271573588309127168/) |
+| 🤖🩻 GEMA-Score: Granular Explainable Multi-Agent Score for Radiology Report Evaluation | [Edition 6](https://www.linkedin.com/newsletters/agentic-ai-insights-7271573588309127168/) |
 
 ### LLM Models
 Key language models powering agentic AI:
