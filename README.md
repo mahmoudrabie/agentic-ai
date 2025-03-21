@@ -28,65 +28,194 @@ Agentic AI represents the next frontier in artificial intelligence, where system
 ## 🗂️ Repository Structure
 
 ### Research Papers
-| Edition | Field | Research |
-|---------|-------|----------|
-| [6th](https://www.linkedin.com/pulse/agentic-ai-insights-edition-6-march-week-3-2025-mahmoud-rabie-obuuf/?trackingId=YVhAHjBTQu2G74PJ0bO4Ig%3D%3D) | Healthcare | 🤖🩺✂🪡 SurgRAW: Multi-Agent Workflow with Chain-of-Thought Reasoning for Surgical Intelligence |
-| [6th](https://www.linkedin.com/pulse/agentic-ai-insights-edition-6-march-week-3-2025-mahmoud-rabie-obuuf/?trackingId=YVhAHjBTQu2G74PJ0bO4Ig%3D%3D) | Healthcare | 🤖🩺 Multi-Agent Cognitive Intelligence for Non-Linear Mental Health Detection |
-| [6th](https://www.linkedin.com/pulse/agentic-ai-insights-edition-6-march-week-3-2025-mahmoud-rabie-obuuf/?trackingId=YVhAHjBTQu2G74PJ0bO4Ig%3D%3D) | Reasoning | 🤖♟️ SPIN-Bench: Testing LLMs in Strategic Planning and Social Reasoning |
-| [6th](https://www.linkedin.com/pulse/agentic-ai-insights-edition-6-march-week-3-2025-mahmoud-rabie-obuuf/?trackingId=YVhAHjBTQu2G74PJ0bO4Ig%3D%3D) | Healthcare | 🤖💊 TXAGENT: Evidence-Grounded AI for Precision Therapeutics |
-| [6th](https://www.linkedin.com/pulse/agentic-ai-insights-edition-6-march-week-3-2025-mahmoud-rabie-obuuf/?trackingId=YVhAHjBTQu2G74PJ0bO4Ig%3D%3D) | Reasoning | 🤖🔍 ReasonGraph: Visualizing and Analyzing LLM Reasoning Paths |
-| [6th](https://www.linkedin.com/pulse/agentic-ai-insights-edition-6-march-week-3-2025-mahmoud-rabie-obuuf/?trackingId=YVhAHjBTQu2G74PJ0bO4Ig%3D%3D) | Vision | 🤖🎨 CoSTA*: Cost-Sensitive Toolpath Agent for Multi-turn Image Editing |
-| [6th](https://www.linkedin.com/pulse/agentic-ai-insights-edition-6-march-week-3-2025-mahmoud-rabie-obuuf/?trackingId=YVhAHjBTQu2G74PJ0bO4Ig%3D%3D) | Healthcare | 🤖🩻 GEMA-Score: Granular Explainable Multi-Agent Score for Radiology Report Evaluation |
-| [6th](https://www.linkedin.com/pulse/agentic-ai-insights-edition-6-march-week-3-2025-mahmoud-rabie-obuuf/?trackingId=YVhAHjBTQu2G74PJ0bO4Ig%3D%3D) | Code | 🤖💻 SETUPAGENT: Automating Benchmark Generation for Code Agents |
-| [6th](https://www.linkedin.com/pulse/agentic-ai-insights-edition-6-march-week-3-2025-mahmoud-rabie-obuuf/?trackingId=YVhAHjBTQu2G74PJ0bO4Ig%3D%3D) | Gaming | 🤖🎮 VLM-Attention: Human-Aligned AI for StarCraft II |
-| [6th](https://www.linkedin.com/pulse/agentic-ai-insights-edition-6-march-week-3-2025-mahmoud-rabie-obuuf/?trackingId=YVhAHjBTQu2G74PJ0bO4Ig%3D%3D) | Reasoning | 🤖🧠 Sketch-of-Thought: Efficient LLM Reasoning with Cognitive-Inspired Sketching |
-| [6th](https://www.linkedin.com/pulse/agentic-ai-insights-edition-6-march-week-3-2025-mahmoud-rabie-obuuf/?trackingId=YVhAHjBTQu2G74PJ0bO4Ig%3D%3D) | Healthcare | 🤖🩺 Multi-Agent Healthcare Assistant: Edge-Device AI for Privacy-Focused Health Management |
-| [6th](https://www.linkedin.com/pulse/agentic-ai-insights-edition-6-march-week-3-2025-mahmoud-rabie-obuuf/?trackingId=YVhAHjBTQu2G74PJ0bO4Ig%3D%3D) | Supply Chain | 🤖📦 SustAI-SCM: Agentic AI for Sustainable Supply Chain Automation |
-| [6th](https://www.linkedin.com/pulse/agentic-ai-insights-edition-6-march-week-3-2025-mahmoud-rabie-obuuf/?trackingId=YVhAHjBTQu2G74PJ0bO4Ig%3D%3D) | Foundation Models | 🤖🧠 Society of HiveMind: Multi-Agent Optimization of Foundation Model Swarms |
-| [6th](https://www.linkedin.com/pulse/agentic-ai-insights-edition-6-march-week-3-2025-mahmoud-rabie-obuuf/?trackingId=YVhAHjBTQu2G74PJ0bO4Ig%3D%3D) | Reasoning | 🤖🧠 SYMBOLIC-MOE: Adaptive Skill-based Routing for Heterogeneous Reasoning |
-| [6th](https://www.linkedin.com/pulse/agentic-ai-insights-edition-6-march-week-3-2025-mahmoud-rabie-obuuf/?trackingId=YVhAHjBTQu2G74PJ0bO4Ig%3D%3D) | Design | 🤖📐 From Idea to CAD: A Language Model-Driven Multi-Agent System for Collaborative Design |
-| [6th](https://www.linkedin.com/pulse/agentic-ai-insights-edition-6-march-week-3-2025-mahmoud-rabie-obuuf/?trackingId=YVhAHjBTQu2G74PJ0bO4Ig%3D%3D) | Testing | 🤖🛠 ToolFuzz: Automated Agent Tool Testing |
-| [6th](https://www.linkedin.com/pulse/agentic-ai-insights-edition-6-march-week-3-2025-mahmoud-rabie-obuuf/?trackingId=YVhAHjBTQu2G74PJ0bO4Ig%3D%3D) | Healthcare | 🤖🩺 MedR-Bench: Quantifying The Reasoning Abilities of LLMs on Real-world Clinical Cases |
-| [6th](https://www.linkedin.com/pulse/agentic-ai-insights-edition-6-march-week-3-2025-mahmoud-rabie-obuuf/?trackingId=YVhAHjBTQu2G74PJ0bO4Ig%3D%3D) | IoT | 🤖🔍 MAS-LSTM: A Multi-Agent LSTM-Based Approach for Scalable Anomaly Detection in IIoT Networks |
-| [6th](https://www.linkedin.com/pulse/agentic-ai-insights-edition-6-march-week-3-2025-mahmoud-rabie-obuuf/?trackingId=YVhAHjBTQu2G74PJ0bO4Ig%3D%3D) | Healthcare | 🤖🧬 DrBioRight 2.0: An LLM-powered Chatbot for Cancer Functional Proteomics |
-| [5th](https://www.linkedin.com/pulse/agentic-ai-insights-edition-5-march-week-2-2025-mahmoud-rabie-5lief/?trackingId=nT8oF%2BetSimzZi%2FB1SSw0Q%3D%3D) | Robotics | 🤖🚁 MARVEL: Multi-Agent Reinforcement Learning for Constrained Field-of-View Multi-Robot Exploration |
-| [5th](https://www.linkedin.com/pulse/agentic-ai-insights-edition-5-march-week-2-2025-mahmoud-rabie-5lief/?trackingId=nT8oF%2BetSimzZi%2FB1SSw0Q%3D%3D) | Reasoning | 🤖🧠 System 1 to System 2: A Survey of Reasoning Large Language Models |
-| [5th](https://www.linkedin.com/pulse/agentic-ai-insights-edition-5-march-week-2-2025-mahmoud-rabie-5lief/?trackingId=nT8oF%2BetSimzZi%2FB1SSw0Q%3D%3D) | Healthcare | 🤖🩺 M3Builder: A Multi-Agent System for Automated Machine Learning in Medical Imaging |
-| [5th](https://www.linkedin.com/pulse/agentic-ai-insights-edition-5-march-week-2-2025-mahmoud-rabie-5lief/?trackingId=nT8oF%2BetSimzZi%2FB1SSw0Q%3D%3D) | Vision | 🤖🧠 FAST: Visual Agents As Fast and Slow Thinkers |
-| [5th](https://www.linkedin.com/pulse/agentic-ai-insights-edition-5-march-week-2-2025-mahmoud-rabie-5lief/?trackingId=nT8oF%2BetSimzZi%2FB1SSw0Q%3D%3D) | Reward Modeling | 🤖🏆 Agentic Reward Modeling: Integrating Human Preferences with Verifiable Correctness Signals |
-| [5th](https://www.linkedin.com/pulse/agentic-ai-insights-edition-5-march-week-2-2025-mahmoud-rabie-5lief/?trackingId=nT8oF%2BetSimzZi%2FB1SSw0Q%3D%3D) | Visualization | 🤖📊 METAL: A Multi-Agent Framework for Chart Generation with Test-Time Scaling |
-| [5th](https://www.linkedin.com/pulse/agentic-ai-insights-edition-5-march-week-2-2025-mahmoud-rabie-5lief/?trackingId=nT8oF%2BetSimzZi%2FB1SSw0Q%3D%3D) | Reasoning | 🤖🧠 LLM Post-Training: A Deep Dive into Reasoning Large Language Models |
-| [5th](https://www.linkedin.com/pulse/agentic-ai-insights-edition-5-march-week-2-2025-mahmoud-rabie-5lief/?trackingId=nT8oF%2BetSimzZi%2FB1SSw0Q%3D%3D) | Framework | 🤖🚀 AutoAgent: A Fully-Automated and Zero-Code Framework for LLM Agents |
-| [5th](https://www.linkedin.com/pulse/agentic-ai-insights-edition-5-march-week-2-2025-mahmoud-rabie-5lief/?trackingId=nT8oF%2BetSimzZi%2FB1SSw0Q%3D%3D) | Reasoning | 🤖🧠 Tree-of-Debate: Multi-Person Debate Trees Elicit Critical Thinking for Scientific Comparative Analysis |
-| [5th](https://www.linkedin.com/pulse/agentic-ai-insights-edition-5-march-week-2-2025-mahmoud-rabie-5lief/?trackingId=nT8oF%2BetSimzZi%2FB1SSw0Q%3D%3D) | Planning | 🤖🛠️ PlanGEN: A Multi-Agent Framework for Generating Planning and Reasoning Trajectories |
-| [5th](https://www.linkedin.com/pulse/agentic-ai-insights-edition-5-march-week-2-2025-mahmoud-rabie-5lief/?trackingId=nT8oF%2BetSimzZi%2FB1SSw0Q%3D%3D) | Recommendation | 🤖🔍 MACRec: A Multi-Agent Collaboration Framework for Recommendation |
-| [5th](https://www.linkedin.com/pulse/agentic-ai-insights-edition-5-march-week-2-2025-mahmoud-rabie-5lief/?trackingId=nT8oF%2BetSimzZi%2FB1SSw0Q%3D%3D) | Reinforcement Learning | 🤖🔗 TAG: A Decentralized Framework for Multi-Agent Hierarchical Reinforcement Learning |
-| [5th](https://www.linkedin.com/pulse/agentic-ai-insights-edition-5-march-week-2-2025-mahmoud-rabie-5lief/?trackingId=nT8oF%2BetSimzZi%2FB1SSw0Q%3D%3D) | Gaming | 🤖🧠 MASTER: A Multi-Agent System with LLM-Specialized MCTS |
-| [5th](https://www.linkedin.com/pulse/agentic-ai-insights-edition-5-march-week-2-2025-mahmoud-rabie-5lief/?trackingId=nT8oF%2BetSimzZi%2FB1SSw0Q%3D%3D) | Framework | 🤖💬 Talk Structurally, Act Hierarchically: A Collaborative Framework for LLM Multi-Agent Systems |
-| [5th](https://www.linkedin.com/pulse/agentic-ai-insights-edition-5-march-week-2-2025-mahmoud-rabie-5lief/?trackingId=nT8oF%2BetSimzZi%2FB1SSw0Q%3D%3D) | Hardware Design | 🤖🔩 Marco: Configurable Graph-Based Task Solving and Multi-AI Agents Framework for Hardware Design |
-| [5th](https://www.linkedin.com/pulse/agentic-ai-insights-edition-5-march-week-2-2025-mahmoud-rabie-5lief/?trackingId=nT8oF%2BetSimzZi%2FB1SSw0Q%3D%3D) | Automation | 🤖💻 PC-Agent: Hierarchical Multi-Agent Collaboration for Complex Task Automation |
-| [5th](https://www.linkedin.com/pulse/agentic-ai-insights-edition-5-march-week-2-2025-mahmoud-rabie-5lief/?trackingId=nT8oF%2BetSimzZi%2FB1SSw0Q%3D%3D) | Reasoning | 🤖🔧 OctoTools: Agentic Framework for Complex Reasoning |
-| [4th](https://www.linkedin.com/pulse/agentic-ai-insights-edition-4-february-week-2025-mahmoud-rabie-y4hif/?trackingId=Uqx8P0TAT32mhuQ7IpeThg%3D%3D) | Research | 🤖🔬 MLGym: Enabling LLM Research Agents |
-| [4th](https://www.linkedin.com/pulse/agentic-ai-insights-edition-4-february-week-2025-mahmoud-rabie-y4hif/?trackingId=Uqx8P0TAT32mhuQ7IpeThg%3D%3D) | Reasoning | 🤖🧠 Building Reasoning-Rich LLMs with 2.8M Challenging Questions |
-| [4th](https://www.linkedin.com/pulse/agentic-ai-insights-edition-4-february-week-2025-mahmoud-rabie-y4hif/?trackingId=Uqx8P0TAT32mhuQ7IpeThg%3D%3D) | Multimodal | 🤖🔄 Magma: A Foundation Model For Multimodal AI Agents |
-| [4th](https://www.linkedin.com/pulse/agentic-ai-insights-edition-4-february-week-2025-mahmoud-rabie-y4hif/?trackingId=Uqx8P0TAT32mhuQ7IpeThg%3D%3D) | Security | 🤖🚨 DemonAgent: A New Backdoor Attack Exploits LLM-Based Agents |
-| [4th](https://www.linkedin.com/pulse/agentic-ai-insights-edition-4-february-week-2025-mahmoud-rabie-y4hif/?trackingId=Uqx8P0TAT32mhuQ7IpeThg%3D%3D) | Recommendation | 🤖🎯 InstructAgent: A New LLM-Powered Agent that Puts Users In Control of Recommender Systems |
-| [4th](https://www.linkedin.com/pulse/agentic-ai-insights-edition-4-february-week-2025-mahmoud-rabie-y4hif/?trackingId=Uqx8P0TAT32mhuQ7IpeThg%3D%3D) | Security | 🤖🚨 CORBA: A New Attack threatens The Stability of LLM-MAS |
-| [4th](https://www.linkedin.com/pulse/agentic-ai-insights-edition-4-february-week-2025-mahmoud-rabie-y4hif/?trackingId=Uqx8P0TAT32mhuQ7IpeThg%3D%3D) | Security | 🤖🚨 How Agent-in-the-Middle (AiTM) Attacks Compromise Multi-Agent Systems |
-| [4th](https://www.linkedin.com/pulse/agentic-ai-insights-edition-4-february-week-2025-mahmoud-rabie-y4hif/?trackingId=Uqx8P0TAT32mhuQ7IpeThg%3D%3D) | Security | 🤖🔎 HackSynth: ALL AGENT Penetration Testing Autonomously |
-| [4th](https://www.linkedin.com/pulse/agentic-ai-insights-edition-4-february-week-2025-mahmoud-rabie-y4hif/?trackingId=Uqx8P0TAT32mhuQ7IpeThg%3D%3D) | Security | 🤖🔐 AUTOPENBENCH: Benchmarking Generative Agents for Automated Penetration Testing |
-| [4th](https://www.linkedin.com/pulse/agentic-ai-insights-edition-4-february-week-2025-mahmoud-rabie-y4hif/?trackingId=Uqx8P0TAT32mhuQ7IpeThg%3D%3D) | Security | 🤖🔒 SpiderSim: Multi-Agent Cybersecurity Simulation for Industrial Digitalization |
-| [4th](https://www.linkedin.com/pulse/agentic-ai-insights-edition-4-february-week-2025-mahmoud-rabie-y4hif/?trackingId=Uqx8P0TAT32mhuQ7IpeThg%3D%3D) | Smart Cities | 🌆🤖 Responsible AI Hyper-Automation: Paving the Way for Sustainable Cities |
-| [4th](https://www.linkedin.com/pulse/agentic-ai-insights-edition-4-february-week-2025-mahmoud-rabie-y4hif/?trackingId=Uqx8P0TAT32mhuQ7IpeThg%3D%3D) | Transportation | 🚦🤖 PyTSC: Revolutionizing Multi-Agent Reinforcement Learning for Traffic Signal Control |
-| [4th](https://www.linkedin.com/pulse/agentic-ai-insights-edition-4-february-week-2025-mahmoud-rabie-y4hif/?trackingId=Uqx8P0TAT32mhuQ7IpeThg%3D%3D) | Research | 🤖🔎🧠 Automated Hypothesis Validation with Agentic Sequential Falsifications |
-| [4th](https://www.linkedin.com/pulse/agentic-ai-insights-edition-4-february-week-2025-mahmoud-rabie-y4hif/?trackingId=Uqx8P0TAT32mhuQ7IpeThg%3D%3D) | Framework | 🤖🚀 Towards Parallelizable LLM Agents |
-| [4th](https://www.linkedin.com/pulse/agentic-ai-insights-edition-4-february-week-2025-mahmoud-rabie-y4hif/?trackingId=Uqx8P0TAT32mhuQ7IpeThg%3D%3D) | Security | 🤖🔎 VulnBot: Autonomous Penetration Testing with Multi-Agent Systems |
-| [4th](https://www.linkedin.com/pulse/agentic-ai-insights-edition-4-february-week-2025-mahmoud-rabie-y4hif/?trackingId=Uqx8P0TAT32mhuQ7IpeThg%3D%3D) | Research | 🤖🔎🧠 Towards Google AI Co-Scientist |
-| [4th](https://www.linkedin.com/pulse/agentic-ai-insights-edition-4-february-week-2025-mahmoud-rabie-y4hif/?trackingId=Uqx8P0TAT32mhuQ7IpeThg%3D%3D) | Security | ⚡🤖 Detecting Scam Websites Autonomously |
-| [4th](https://www.linkedin.com/pulse/agentic-ai-insights-edition-4-february-week-2025-mahmoud-rabie-y4hif/?trackingId=Uqx8P0TAT32mhuQ7IpeThg%3D%3D) | Transportation | ⚡🤖 Electric Vehicles as Evolutionary Robots |
-| [4th](https://www.linkedin.com/pulse/agentic-ai-insights-edition-4-february-week-2025-mahmoud-rabie-y4hif/?trackingId=Uqx8P0TAT32mhuQ7IpeThg%3D%3D) | Reasoning | ⚡🤖 Enhancing Reasoning to Adapt LLMs |
-| [4th](https://www.linkedin.com/pulse/agentic-ai-insights-edition-4-february-week-2025-mahmoud-rabie-y4hif/?trackingId=Uqx8P0TAT32mhuQ7IpeThg%3D%3D) | Blockchain | ⚡🤖 AI Agents Meet Blockchain: Secure & Scalable Collaboration |
-| [4th](https://www.linkedin.com/pulse/agentic-ai-insights-edition-4-february-week-2025-mahmoud-rabie-y4hif/?trackingId=Uqx8P0TAT32mhuQ7IpeThg%3D%3D) | Smart Cities | ⚡🤖 LLM Agents for Smart City Management |
+
+#### Edition 6
+##### Healthcare
+| Research | Post Link |
+|----------|-----------|
+| 🤖🩺✂🪡 SurgRAW: Multi-Agent Workflow with Chain-of-Thought Reasoning for Surgical Intelligence | [Link](https://www.linkedin.com/pulse/agentic-ai-insights-edition-6-march-week-3-2025-mahmoud-rabie-obuuf/?trackingId=YVhAHjBTQu2G74PJ0bO4Ig%3D%3D) |
+| 🤖🩺 Multi-Agent Cognitive Intelligence for Non-Linear Mental Health Detection | [Link](https://www.linkedin.com/pulse/agentic-ai-insights-edition-6-march-week-3-2025-mahmoud-rabie-obuuf/?trackingId=YVhAHjBTQu2G74PJ0bO4Ig%3D%3D) |
+| 🤖💊 TXAGENT: Evidence-Grounded AI for Precision Therapeutics | [Link](https://www.linkedin.com/pulse/agentic-ai-insights-edition-6-march-week-3-2025-mahmoud-rabie-obuuf/?trackingId=YVhAHjBTQu2G74PJ0bO4Ig%3D%3D) |
+| 🤖🩻 GEMA-Score: Granular Explainable Multi-Agent Score for Radiology Report Evaluation | [Link](https://www.linkedin.com/pulse/agentic-ai-insights-edition-6-march-week-3-2025-mahmoud-rabie-obuuf/?trackingId=YVhAHjBTQu2G74PJ0bO4Ig%3D%3D) |
+| 🤖🩺 Multi-Agent Healthcare Assistant: Edge-Device AI for Privacy-Focused Health Management | [Link](https://www.linkedin.com/pulse/agentic-ai-insights-edition-6-march-week-3-2025-mahmoud-rabie-obuuf/?trackingId=YVhAHjBTQu2G74PJ0bO4Ig%3D%3D) |
+| 🤖🩺 MedR-Bench: Quantifying The Reasoning Abilities of LLMs on Real-world Clinical Cases | [Link](https://www.linkedin.com/pulse/agentic-ai-insights-edition-6-march-week-3-2025-mahmoud-rabie-obuuf/?trackingId=YVhAHjBTQu2G74PJ0bO4Ig%3D%3D) |
+| 🤖🧬 DrBioRight 2.0: An LLM-powered Chatbot for Cancer Functional Proteomics | [Link](https://www.linkedin.com/pulse/agentic-ai-insights-edition-6-march-week-3-2025-mahmoud-rabie-obuuf/?trackingId=YVhAHjBTQu2G74PJ0bO4Ig%3D%3D) |
+
+##### Reasoning
+| Research | Post Link |
+|----------|-----------|
+| 🤖♟️ SPIN-Bench: Testing LLMs in Strategic Planning and Social Reasoning | [Link](https://www.linkedin.com/pulse/agentic-ai-insights-edition-6-march-week-3-2025-mahmoud-rabie-obuuf/?trackingId=YVhAHjBTQu2G74PJ0bO4Ig%3D%3D) |
+| 🤖🔍 ReasonGraph: Visualizing and Analyzing LLM Reasoning Paths | [Link](https://www.linkedin.com/pulse/agentic-ai-insights-edition-6-march-week-3-2025-mahmoud-rabie-obuuf/?trackingId=YVhAHjBTQu2G74PJ0bO4Ig%3D%3D) |
+| 🤖🧠 Sketch-of-Thought: Efficient LLM Reasoning with Cognitive-Inspired Sketching | [Link](https://www.linkedin.com/pulse/agentic-ai-insights-edition-6-march-week-3-2025-mahmoud-rabie-obuuf/?trackingId=YVhAHjBTQu2G74PJ0bO4Ig%3D%3D) |
+| 🤖🧠 SYMBOLIC-MOE: Adaptive Skill-based Routing for Heterogeneous Reasoning | [Link](https://www.linkedin.com/pulse/agentic-ai-insights-edition-6-march-week-3-2025-mahmoud-rabie-obuuf/?trackingId=YVhAHjBTQu2G74PJ0bO4Ig%3D%3D) |
+
+##### Vision
+| Research | Post Link |
+|----------|-----------|
+| 🤖🎨 CoSTA*: Cost-Sensitive Toolpath Agent for Multi-turn Image Editing | [Link](https://www.linkedin.com/pulse/agentic-ai-insights-edition-6-march-week-3-2025-mahmoud-rabie-obuuf/?trackingId=YVhAHjBTQu2G74PJ0bO4Ig%3D%3D) |
+
+##### Code
+| Research | Post Link |
+|----------|-----------|
+| 🤖💻 SETUPAGENT: Automating Benchmark Generation for Code Agents | [Link](https://www.linkedin.com/pulse/agentic-ai-insights-edition-6-march-week-3-2025-mahmoud-rabie-obuuf/?trackingId=YVhAHjBTQu2G74PJ0bO4Ig%3D%3D) |
+
+##### Gaming
+| Research | Post Link |
+|----------|-----------|
+| 🤖🎮 VLM-Attention: Human-Aligned AI for StarCraft II | [Link](https://www.linkedin.com/pulse/agentic-ai-insights-edition-6-march-week-3-2025-mahmoud-rabie-obuuf/?trackingId=YVhAHjBTQu2G74PJ0bO4Ig%3D%3D) |
+
+##### Supply Chain
+| Research | Post Link |
+|----------|-----------|
+| 🤖📦 SustAI-SCM: Agentic AI for Sustainable Supply Chain Automation | [Link](https://www.linkedin.com/pulse/agentic-ai-insights-edition-6-march-week-3-2025-mahmoud-rabie-obuuf/?trackingId=YVhAHjBTQu2G74PJ0bO4Ig%3D%3D) |
+
+##### Foundation Models
+| Research | Post Link |
+|----------|-----------|
+| 🤖🧠 Society of HiveMind: Multi-Agent Optimization of Foundation Model Swarms | [Link](https://www.linkedin.com/pulse/agentic-ai-insights-edition-6-march-week-3-2025-mahmoud-rabie-obuuf/?trackingId=YVhAHjBTQu2G74PJ0bO4Ig%3D%3D) |
+
+##### Design
+| Research | Post Link |
+|----------|-----------|
+| 🤖📐 From Idea to CAD: A Language Model-Driven Multi-Agent System for Collaborative Design | [Link](https://www.linkedin.com/pulse/agentic-ai-insights-edition-6-march-week-3-2025-mahmoud-rabie-obuuf/?trackingId=YVhAHjBTQu2G74PJ0bO4Ig%3D%3D) |
+
+##### Testing
+| Research | Post Link |
+|----------|-----------|
+| 🤖🛠 ToolFuzz: Automated Agent Tool Testing | [Link](https://www.linkedin.com/pulse/agentic-ai-insights-edition-6-march-week-3-2025-mahmoud-rabie-obuuf/?trackingId=YVhAHjBTQu2G74PJ0bO4Ig%3D%3D) |
+
+##### IoT
+| Research | Post Link |
+|----------|-----------|
+| 🤖🔍 MAS-LSTM: A Multi-Agent LSTM-Based Approach for Scalable Anomaly Detection in IIoT Networks | [Link](https://www.linkedin.com/pulse/agentic-ai-insights-edition-6-march-week-3-2025-mahmoud-rabie-obuuf/?trackingId=YVhAHjBTQu2G74PJ0bO4Ig%3D%3D) |
+
+#### Edition 5
+##### Robotics
+| Research | Post Link |
+|----------|-----------|
+| 🤖🚁 MARVEL: Multi-Agent Reinforcement Learning for Constrained Field-of-View Multi-Robot Exploration | [Link](https://www.linkedin.com/pulse/agentic-ai-insights-edition-5-march-week-2-2025-mahmoud-rabie-5lief/?trackingId=nT8oF%2BetSimzZi%2FB1SSw0Q%3D%3D) |
+
+##### Reasoning
+| Research | Post Link |
+|----------|-----------|
+| 🤖🧠 System 1 to System 2: A Survey of Reasoning Large Language Models | [Link](https://www.linkedin.com/pulse/agentic-ai-insights-edition-5-march-week-2-2025-mahmoud-rabie-5lief/?trackingId=nT8oF%2BetSimzZi%2FB1SSw0Q%3D%3D) |
+| 🤖🧠 LLM Post-Training: A Deep Dive into Reasoning Large Language Models | [Link](https://www.linkedin.com/pulse/agentic-ai-insights-edition-5-march-week-2-2025-mahmoud-rabie-5lief/?trackingId=nT8oF%2BetSimzZi%2FB1SSw0Q%3D%3D) |
+| 🤖🧠 Tree-of-Debate: Multi-Person Debate Trees Elicit Critical Thinking for Scientific Comparative Analysis | [Link](https://www.linkedin.com/pulse/agentic-ai-insights-edition-5-march-week-2-2025-mahmoud-rabie-5lief/?trackingId=nT8oF%2BetSimzZi%2FB1SSw0Q%3D%3D) |
+| 🤖🔧 OctoTools: Agentic Framework for Complex Reasoning | [Link](https://www.linkedin.com/pulse/agentic-ai-insights-edition-5-march-week-2-2025-mahmoud-rabie-5lief/?trackingId=nT8oF%2BetSimzZi%2FB1SSw0Q%3D%3D) |
+
+##### Healthcare
+| Research | Post Link |
+|----------|-----------|
+| 🤖🩺 M3Builder: A Multi-Agent System for Automated Machine Learning in Medical Imaging | [Link](https://www.linkedin.com/pulse/agentic-ai-insights-edition-5-march-week-2-2025-mahmoud-rabie-5lief/?trackingId=nT8oF%2BetSimzZi%2FB1SSw0Q%3D%3D) |
+
+##### Vision
+| Research | Post Link |
+|----------|-----------|
+| 🤖🧠 FAST: Visual Agents As Fast and Slow Thinkers | [Link](https://www.linkedin.com/pulse/agentic-ai-insights-edition-5-march-week-2-2025-mahmoud-rabie-5lief/?trackingId=nT8oF%2BetSimzZi%2FB1SSw0Q%3D%3D) |
+
+##### Reward Modeling
+| Research | Post Link |
+|----------|-----------|
+| 🤖🏆 Agentic Reward Modeling: Integrating Human Preferences with Verifiable Correctness Signals | [Link](https://www.linkedin.com/pulse/agentic-ai-insights-edition-5-march-week-2-2025-mahmoud-rabie-5lief/?trackingId=nT8oF%2BetSimzZi%2FB1SSw0Q%3D%3D) |
+
+##### Visualization
+| Research | Post Link |
+|----------|-----------|
+| 🤖📊 METAL: A Multi-Agent Framework for Chart Generation with Test-Time Scaling | [Link](https://www.linkedin.com/pulse/agentic-ai-insights-edition-5-march-week-2-2025-mahmoud-rabie-5lief/?trackingId=nT8oF%2BetSimzZi%2FB1SSw0Q%3D%3D) |
+
+##### Framework
+| Research | Post Link |
+|----------|-----------|
+| 🤖🚀 AutoAgent: A Fully-Automated and Zero-Code Framework for LLM Agents | [Link](https://www.linkedin.com/pulse/agentic-ai-insights-edition-5-march-week-2-2025-mahmoud-rabie-5lief/?trackingId=nT8oF%2BetSimzZi%2FB1SSw0Q%3D%3D) |
+| 🤖💬 Talk Structurally, Act Hierarchically: A Collaborative Framework for LLM Multi-Agent Systems | [Link](https://www.linkedin.com/pulse/agentic-ai-insights-edition-5-march-week-2-2025-mahmoud-rabie-5lief/?trackingId=nT8oF%2BetSimzZi%2FB1SSw0Q%3D%3D) |
+
+##### Planning
+| Research | Post Link |
+|----------|-----------|
+| 🤖🛠️ PlanGEN: A Multi-Agent Framework for Generating Planning and Reasoning Trajectories | [Link](https://www.linkedin.com/pulse/agentic-ai-insights-edition-5-march-week-2-2025-mahmoud-rabie-5lief/?trackingId=nT8oF%2BetSimzZi%2FB1SSw0Q%3D%3D) |
+
+##### Recommendation
+| Research | Post Link |
+|----------|-----------|
+| 🤖🔍 MACRec: A Multi-Agent Collaboration Framework for Recommendation | [Link](https://www.linkedin.com/pulse/agentic-ai-insights-edition-5-march-week-2-2025-mahmoud-rabie-5lief/?trackingId=nT8oF%2BetSimzZi%2FB1SSw0Q%3D%3D) |
+
+##### Reinforcement Learning
+| Research | Post Link |
+|----------|-----------|
+| 🤖🔗 TAG: A Decentralized Framework for Multi-Agent Hierarchical Reinforcement Learning | [Link](https://www.linkedin.com/pulse/agentic-ai-insights-edition-5-march-week-2-2025-mahmoud-rabie-5lief/?trackingId=nT8oF%2BetSimzZi%2FB1SSw0Q%3D%3D) |
+
+##### Gaming
+| Research | Post Link |
+|----------|-----------|
+| 🤖🧠 MASTER: A Multi-Agent System with LLM-Specialized MCTS | [Link](https://www.linkedin.com/pulse/agentic-ai-insights-edition-5-march-week-2-2025-mahmoud-rabie-5lief/?trackingId=nT8oF%2BetSimzZi%2FB1SSw0Q%3D%3D) |
+
+##### Hardware Design
+| Research | Post Link |
+|----------|-----------|
+| 🤖🔩 Marco: Configurable Graph-Based Task Solving and Multi-AI Agents Framework for Hardware Design | [Link](https://www.linkedin.com/pulse/agentic-ai-insights-edition-5-march-week-2-2025-mahmoud-rabie-5lief/?trackingId=nT8oF%2BetSimzZi%2FB1SSw0Q%3D%3D) |
+
+##### Automation
+| Research | Post Link |
+|----------|-----------|
+| 🤖💻 PC-Agent: Hierarchical Multi-Agent Collaboration for Complex Task Automation | [Link](https://www.linkedin.com/pulse/agentic-ai-insights-edition-5-march-week-2-2025-mahmoud-rabie-5lief/?trackingId=nT8oF%2BetSimzZi%2FB1SSw0Q%3D%3D) |
+
+#### Edition 4
+##### Research
+| Research | Post Link |
+|----------|-----------|
+| 🤖🔬 MLGym: Enabling LLM Research Agents | [Link](https://www.linkedin.com/pulse/agentic-ai-insights-edition-4-february-week-2025-mahmoud-rabie-y4hif/?trackingId=Uqx8P0TAT32mhuQ7IpeThg%3D%3D) |
+| 🤖🔎🧠 Automated Hypothesis Validation with Agentic Sequential Falsifications | [Link](https://www.linkedin.com/pulse/agentic-ai-insights-edition-4-february-week-2025-mahmoud-rabie-y4hif/?trackingId=Uqx8P0TAT32mhuQ7IpeThg%3D%3D) |
+| 🤖🔎🧠 Towards Google AI Co-Scientist | [Link](https://www.linkedin.com/pulse/agentic-ai-insights-edition-4-february-week-2025-mahmoud-rabie-y4hif/?trackingId=Uqx8P0TAT32mhuQ7IpeThg%3D%3D) |
+
+##### Reasoning
+| Research | Post Link |
+|----------|-----------|
+| 🤖🧠 Building Reasoning-Rich LLMs with 2.8M Challenging Questions | [Link](https://www.linkedin.com/pulse/agentic-ai-insights-edition-4-february-week-2025-mahmoud-rabie-y4hif/?trackingId=Uqx8P0TAT32mhuQ7IpeThg%3D%3D) |
+| ⚡🤖 Enhancing Reasoning to Adapt LLMs | [Link](https://www.linkedin.com/pulse/agentic-ai-insights-edition-4-february-week-2025-mahmoud-rabie-y4hif/?trackingId=Uqx8P0TAT32mhuQ7IpeThg%3D%3D) |
+
+##### Multimodal
+| Research | Post Link |
+|----------|-----------|
+| 🤖🔄 Magma: A Foundation Model For Multimodal AI Agents | [Link](https://www.linkedin.com/pulse/agentic-ai-insights-edition-4-february-week-2025-mahmoud-rabie-y4hif/?trackingId=Uqx8P0TAT32mhuQ7IpeThg%3D%3D) |
+
+##### Security
+| Research | Post Link |
+|----------|-----------|
+| 🤖🚨 DemonAgent: A New Backdoor Attack Exploits LLM-Based Agents | [Link](https://www.linkedin.com/pulse/agentic-ai-insights-edition-4-february-week-2025-mahmoud-rabie-y4hif/?trackingId=Uqx8P0TAT32mhuQ7IpeThg%3D%3D) |
+| 🤖🚨 CORBA: A New Attack threatens The Stability of LLM-MAS | [Link](https://www.linkedin.com/pulse/agentic-ai-insights-edition-4-february-week-2025-mahmoud-rabie-y4hif/?trackingId=Uqx8P0TAT32mhuQ7IpeThg%3D%3D) |
+| 🤖🚨 How Agent-in-the-Middle (AiTM) Attacks Compromise Multi-Agent Systems | [Link](https://www.linkedin.com/pulse/agentic-ai-insights-edition-4-february-week-2025-mahmoud-rabie-y4hif/?trackingId=Uqx8P0TAT32mhuQ7IpeThg%3D%3D) |
+| 🤖🔎 HackSynth: ALL AGENT Penetration Testing Autonomously | [Link](https://www.linkedin.com/pulse/agentic-ai-insights-edition-4-february-week-2025-mahmoud-rabie-y4hif/?trackingId=Uqx8P0TAT32mhuQ7IpeThg%3D%3D) |
+| 🤖🔐 AUTOPENBENCH: Benchmarking Generative Agents for Automated Penetration Testing | [Link](https://www.linkedin.com/pulse/agentic-ai-insights-edition-4-february-week-2025-mahmoud-rabie-y4hif/?trackingId=Uqx8P0TAT32mhuQ7IpeThg%3D%3D) |
+| 🤖🔒 SpiderSim: Multi-Agent Cybersecurity Simulation for Industrial Digitalization | [Link](https://www.linkedin.com/pulse/agentic-ai-insights-edition-4-february-week-2025-mahmoud-rabie-y4hif/?trackingId=Uqx8P0TAT32mhuQ7IpeThg%3D%3D) |
+| 🤖🔎 VulnBot: Autonomous Penetration Testing with Multi-Agent Systems | [Link](https://www.linkedin.com/pulse/agentic-ai-insights-edition-4-february-week-2025-mahmoud-rabie-y4hif/?trackingId=Uqx8P0TAT32mhuQ7IpeThg%3D%3D) |
+| ⚡🤖 Detecting Scam Websites Autonomously | [Link](https://www.linkedin.com/pulse/agentic-ai-insights-edition-4-february-week-2025-mahmoud-rabie-y4hif/?trackingId=Uqx8P0TAT32mhuQ7IpeThg%3D%3D) |
+
+##### Recommendation
+| Research | Post Link |
+|----------|-----------|
+| 🤖🎯 InstructAgent: A New LLM-Powered Agent that Puts Users In Control of Recommender Systems | [Link](https://www.linkedin.com/pulse/agentic-ai-insights-edition-4-february-week-2025-mahmoud-rabie-y4hif/?trackingId=Uqx8P0TAT32mhuQ7IpeThg%3D%3D) |
+
+##### Smart Cities
+| Research | Post Link |
+|----------|-----------|
+| 🌆🤖 Responsible AI Hyper-Automation: Paving the Way for Sustainable Cities | [Link](https://www.linkedin.com/pulse/agentic-ai-insights-edition-4-february-week-2025-mahmoud-rabie-y4hif/?trackingId=Uqx8P0TAT32mhuQ7IpeThg%3D%3D) |
+| ⚡🤖 LLM Agents for Smart City Management | [Link](https://www.linkedin.com/pulse/agentic-ai-insights-edition-4-february-week-2025-mahmoud-rabie-y4hif/?trackingId=Uqx8P0TAT32mhuQ7IpeThg%3D%3D) |
+
+##### Transportation
+| Research | Post Link |
+|----------|-----------|
+| 🚦🤖 PyTSC: Revolutionizing Multi-Agent Reinforcement Learning for Traffic Signal Control | [Link](https://www.linkedin.com/pulse/agentic-ai-insights-edition-4-february-week-2025-mahmoud-rabie-y4hif/?trackingId=Uqx8P0TAT32mhuQ7IpeThg%3D%3D) |
+| ⚡🤖 Electric Vehicles as Evolutionary Robots | [Link](https://www.linkedin.com/pulse/agentic-ai-insights-edition-4-february-week-2025-mahmoud-rabie-y4hif/?trackingId=Uqx8P0TAT32mhuQ7IpeThg%3D%3D) |
+
+##### Framework
+| Research | Post Link |
+|----------|-----------|
+| 🤖🚀 Towards Parallelizable LLM Agents | [Link](https://www.linkedin.com/pulse/agentic-ai-insights-edition-4-february-week-2025-mahmoud-rabie-y4hif/?trackingId=Uqx8P0TAT32mhuQ7IpeThg%3D%3D) |
+
+##### Blockchain
+| Research | Post Link |
+|----------|-----------|
+| ⚡🤖 AI Agents Meet Blockchain: Secure & Scalable Collaboration | [Link](https://www.linkedin.com/pulse/agentic-ai-insights-edition-4-february-week-2025-mahmoud-rabie-y4hif/?trackingId=Uqx8P0TAT32mhuQ7IpeThg%3D%3D) |
 
 ### Open-Source Projects
 | Library | Description | Link |
