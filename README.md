@@ -45,7 +45,7 @@ Agentic AI represents the next frontier in artificial intelligence, where system
 # Healthcare
 | Research | Post Link |
 |----------|-----------|
-| 🤖🩺 SurgRAW: Multi-Agent Workflow with Chain-of-Thought Reasoning for Surgical Intelligence | [Link](https://www.linkedin.com/pulse/surgraw-multi-agent-workflow-chain-thought-reasoning-surgical-intelligence-mahmoud-rabie-obuuf/?trackingId=%2B%2BDllAQgR8OD6Tq%2FGcTzkw%3D%3D) |
+| 🤖🩺 SurgRAW: Multi-Agent Workflow with Chain-of-Thought Reasoning for Surgical Intelligence | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7307956239768907776-0_nt/) |
 | 🤖🩺 Multi-Agent Cognitive Intelligence for Non-Linear Mental Health Detection | [Link](https://www.linkedin.com/pulse/multi-agent-cognitive-intelligence-non-linear-mental-health-detection-mahmoud-rabie-obuuf/?trackingId=%2B%2BDllAQgR8OD6Tq%2FGcTzkw%3D%3D) |
 | 🤖💊 TXAGENT: Evidence-Grounded AI for Precision Therapeutics | [Link](https://www.linkedin.com/pulse/txagent-evidence-grounded-ai-precision-therapeutics-mahmoud-rabie-obuuf/?trackingId=%2B%2BDllAQgR8OD6Tq%2FGcTzkw%3D%3D) |
 | 🤖🩻 GEMA-Score: Granular Explainable Multi-Agent Score for Radiology Report Evaluation | [Link](https://www.linkedin.com/pulse/gema-score-granular-explainable-multi-agent-score-radiology-report-evaluation-mahmoud-rabie-obuuf/?trackingId=%2B%2BDllAQgR8OD6Tq%2FGcTzkw%3D%3D) |
