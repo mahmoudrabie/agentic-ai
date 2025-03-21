@@ -50,6 +50,9 @@ Agentic AI represents the next frontier in artificial intelligence, where system
 | 🤖🔍 ReasonGraph: Visualizing and Analyzing LLM Reasoning Paths | [Edition 6](https://www.linkedin.com/pulse/agentic-ai-insights-edition-6-march-week-3-2025-mahmoud-rabie-obuuf/?trackingId=YVhAHjBTQu2G74PJ0bO4Ig%3D%3D) |
 | 🤖🎨 CoSTA*: Cost-Sensitive Toolpath Agent for Multi-turn Image Editing | [Edition 6](https://www.linkedin.com/pulse/agentic-ai-insights-edition-6-march-week-3-2025-mahmoud-rabie-obuuf/?trackingId=YVhAHjBTQu2G74PJ0bO4Ig%3D%3D) |
 | 🤖🩻 GEMA-Score: Granular Explainable Multi-Agent Score for Radiology Report Evaluation | [Edition 6](https://www.linkedin.com/pulse/agentic-ai-insights-edition-6-march-week-3-2025-mahmoud-rabie-obuuf/?trackingId=YVhAHjBTQu2G74PJ0bO4Ig%3D%3D) |
+| 🤖🔬 MLGym: Enabling LLM Research Agents | [Edition 6](https://www.linkedin.com/pulse/agentic-ai-insights-edition-6-march-week-3-2025-mahmoud-rabie-obuuf/?trackingId=YVhAHjBTQu2G74PJ0bO4Ig%3D%3D) |
+| 🤖🔗 KGLA: Knowledge Graph-Enhanced Recommendation Agents | [Edition 6](https://www.linkedin.com/pulse/agentic-ai-insights-edition-6-march-week-3-2025-mahmoud-rabie-obuuf/?trackingId=YVhAHjBTQu2G74PJ0bO4Ig%3D%3D) |
+| 🤖⚡ Agentic AI meets 6G: The Next Evolution in Networking | [Edition 6](https://www.linkedin.com/pulse/agentic-ai-insights-edition-6-march-week-3-2025-mahmoud-rabie-obuuf/?trackingId=YVhAHjBTQu2G74PJ0bO4Ig%3D%3D) |
 
 ### LLM Models
 Key language models powering agentic AI:
