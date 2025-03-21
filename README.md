@@ -42,10 +42,6 @@ Agentic AI represents the next frontier in artificial intelligence, where system
 - 🚦 [Transportation](#transportation)
 - ⛓️ [Blockchain](#blockchain)
 
-## 🗂️ Repository Structure
-
-### Research Papers
-
 # Healthcare
 | Research | Post Link |
 |----------|-----------|
@@ -202,63 +198,6 @@ Agentic AI represents the next frontier in artificial intelligence, where system
 | Research | Post Link |
 |----------|-----------|
 | ⚡🤖 AI Agents Meet Blockchain: Secure & Scalable Collaboration | [Link](https://www.linkedin.com/pulse/agentic-ai-insights-edition-4-february-week-2025-mahmoud-rabie-y4hif/?trackingId=Uqx8P0TAT32mhuQ7IpeThg%3D%3D) |
-
-### Open-Source Projects
-| Library | Description | Link |
-|---------|-------------|------|
-| Auto-GPT | An experimental open-source attempt to make GPT-4 fully autonomous | [Link](https://github.com/Significant-Gravitas/Auto-GPT) |
-| BabyAGI | An AI-powered task management system | [Link](https://github.com/yoheinakajima/babyagi) |
-| AgentGPT | Assemble, configure, and deploy autonomous AI Agents | [Link](https://github.com/reworkd/AgentGPT) |
-| SuperAGI | A dev-first open source autonomous AI agent framework | [Link](https://github.com/TransformerOptimus/SuperAGI) |
-| OpenAGI | An open-source AGI research platform | [Link](https://github.com/agiresearch/OpenAGI) |
-| MetaGPT | The Multi-Agent Framework | [Link](https://github.com/geekan/MetaGPT) |
-| MiniAGI | A minimal general-purpose autonomous agent | [Link](https://github.com/muellerberndt/mini-agi) |
-| GPT Engineer | Specify what you want it to build, the AI asks for clarification, and then builds it | [Link](https://github.com/gpt-engineer-org/gpt-engineer) |
-| AutoGen | Enable Next-Gen Large Language Model Applications | [Link](https://github.com/microsoft/autogen) |
-
-### LLM Models
-Key language models powering agentic AI:
-- GPT-4
-- GPT-3.5 Turbo
-- LLaMA 2
-- Claude 2
-- And other emerging models
-
-### Professional Tools
-Enterprise-grade solutions for agentic AI development:
-- OpenAI's function calling
-- Orchestration platforms
-- AI productivity assistants
-- Industry-standard tools
-
-### Frameworks
-Essential development frameworks:
-- LangChain
-- LlamaIndex
-- AutoGen
-- Haystack
-- SuperAGI
-
-### Books
-Curated collection of influential books covering:
-- Technical implementations
-- Strategic insights
-- Ethical considerations
-- Future perspectives
-
-### Articles
-Stay updated with:
-- Industry insights
-- Market analysis
-- Expert opinions
-- Latest trends
-
-### LinkedIn Posts
-Exclusive content from the *Agentic AI Insights* newsletter, featuring:
-- Real-world applications
-- Industry trends
-- Technical deep-dives
-- Practical insights
 
 ## 🤝 Contributing
 
