@@ -58,7 +58,7 @@ Agentic AI represents the next frontier in artificial intelligence, where system
 | Research | Post Link |
 |----------|-----------|
 | 🤖♟️ SPIN-Bench: Testing LLMs in Strategic Planning and Social Reasoning | [Link](https://www.linkedin.com/pulse/spin-bench-testing-llms-strategic-planning-social-reasoning-mahmoud-rabie-obuuf/?trackingId=%2B%2BDllAQgR8OD6Tq%2FGcTzkw%3D%3D) |
-| 🤖🔍 ReasonGraph: Visualizing and Analyzing LLM Reasoning Paths | [Link](https://www.linkedin.com/pulse/reasongraph-visualizing-analyzing-llm-reasoning-paths-mahmoud-rabie-obuuf/?trackingId=%2B%2BDllAQgR8OD6Tq%2FGcTzkw%3D%3D) |
+| 🤖🔍 ReasonGraph: Visualizing and Analyzing LLM Reasoning Paths | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7306936095743606784-u7y_?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3Bk%2B2n9a50QZ%2BRA9L96DOVUw%3D%3D) |
 | 🤖🧠 Sketch-of-Thought: Efficient LLM Reasoning with Cognitive-Inspired Sketching | [Link](https://www.linkedin.com/pulse/sketch-thought-efficient-llm-reasoning-cognitive-inspired-sketching-mahmoud-rabie-obuuf/?trackingId=YVhAHjBTQu2G74PJ0bO4Ig%3D%3D) |
 | 🤖🧠 SYMBOLIC-MOE: Adaptive Skill-based Routing for Heterogeneous Reasoning | [Link](https://www.linkedin.com/pulse/symbolic-moe-adaptive-skill-based-routing-heterogeneous-reasoning-mahmoud-rabie-obuuf/?trackingId=YVhAHjBTQu2G74PJ0bO4Ig%3D%3D) |
 | 🤖🧠 System 1 to System 2: A Survey of Reasoning Large Language Models | [Link](https://www.linkedin.com/pulse/agentic-ai-insights-edition-5-march-week-2-2025-mahmoud-rabie-5lief/?trackingId=nT8oF%2BetSimzZi%2FB1SSw0Q%3D%3D) |
