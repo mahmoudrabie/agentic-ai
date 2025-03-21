@@ -16,8 +16,8 @@ Agentic AI represents the next frontier in artificial intelligence, where system
 
 ## 📚 Table of Contents
 
-- [Open-Source Projects](#open-source-projects) 🛠️
 - [Research Papers](#research-papers) 📄
+- [Open-Source Projects](#open-source-projects) 🛠️
 - [LLM Models](#llm-models) 🤖
 - [Professional Tools](#professional-tools) 💼
 - [Frameworks](#frameworks) ⚙️
@@ -26,19 +26,6 @@ Agentic AI represents the next frontier in artificial intelligence, where system
 - [LinkedIn Posts](#linkedin-posts) 🔗
 
 ## 🗂️ Repository Structure
-
-### Open-Source Projects
-| Library | Description | Link |
-|---------|-------------|------|
-| Auto-GPT | An experimental open-source attempt to make GPT-4 fully autonomous | [Link](https://github.com/Significant-Gravitas/Auto-GPT) |
-| BabyAGI | An AI-powered task management system | [Link](https://github.com/yoheinakajima/babyagi) |
-| AgentGPT | Assemble, configure, and deploy autonomous AI Agents | [Link](https://github.com/reworkd/AgentGPT) |
-| SuperAGI | A dev-first open source autonomous AI agent framework | [Link](https://github.com/TransformerOptimus/SuperAGI) |
-| OpenAGI | An open-source AGI research platform | [Link](https://github.com/agiresearch/OpenAGI) |
-| MetaGPT | The Multi-Agent Framework | [Link](https://github.com/geekan/MetaGPT) |
-| MiniAGI | A minimal general-purpose autonomous agent | [Link](https://github.com/muellerberndt/mini-agi) |
-| GPT Engineer | Specify what you want it to build, the AI asks for clarification, and then builds it | [Link](https://github.com/gpt-engineer-org/gpt-engineer) |
-| AutoGen | Enable Next-Gen Large Language Model Applications | [Link](https://github.com/microsoft/autogen) |
 
 ### Research Papers
 | Edition | Research |
@@ -79,6 +66,19 @@ Agentic AI represents the next frontier in artificial intelligence, where system
 | [5th](https://www.linkedin.com/pulse/agentic-ai-insights-edition-5-march-week-2-2025-mahmoud-rabie-5lief/?trackingId=nT8oF%2BetSimzZi%2FB1SSw0Q%3D%3D) | 🤖🔩 Marco: Configurable Graph-Based Task Solving and Multi-AI Agents Framework for Hardware Design |
 | [5th](https://www.linkedin.com/pulse/agentic-ai-insights-edition-5-march-week-2-2025-mahmoud-rabie-5lief/?trackingId=nT8oF%2BetSimzZi%2FB1SSw0Q%3D%3D) | 🤖💻 PC-Agent: Hierarchical Multi-Agent Collaboration for Complex Task Automation |
 | [5th](https://www.linkedin.com/pulse/agentic-ai-insights-edition-5-march-week-2-2025-mahmoud-rabie-5lief/?trackingId=nT8oF%2BetSimzZi%2FB1SSw0Q%3D%3D) | 🤖🔧 OctoTools: Agentic Framework for Complex Reasoning |
+
+### Open-Source Projects
+| Library | Description | Link |
+|---------|-------------|------|
+| Auto-GPT | An experimental open-source attempt to make GPT-4 fully autonomous | [Link](https://github.com/Significant-Gravitas/Auto-GPT) |
+| BabyAGI | An AI-powered task management system | [Link](https://github.com/yoheinakajima/babyagi) |
+| AgentGPT | Assemble, configure, and deploy autonomous AI Agents | [Link](https://github.com/reworkd/AgentGPT) |
+| SuperAGI | A dev-first open source autonomous AI agent framework | [Link](https://github.com/TransformerOptimus/SuperAGI) |
+| OpenAGI | An open-source AGI research platform | [Link](https://github.com/agiresearch/OpenAGI) |
+| MetaGPT | The Multi-Agent Framework | [Link](https://github.com/geekan/MetaGPT) |
+| MiniAGI | A minimal general-purpose autonomous agent | [Link](https://github.com/muellerberndt/mini-agi) |
+| GPT Engineer | Specify what you want it to build, the AI asks for clarification, and then builds it | [Link](https://github.com/gpt-engineer-org/gpt-engineer) |
+| AutoGen | Enable Next-Gen Large Language Model Applications | [Link](https://github.com/microsoft/autogen) |
 
 ### LLM Models
 Key language models powering agentic AI:
