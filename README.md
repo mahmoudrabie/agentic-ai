@@ -55,6 +55,7 @@ This repository organizes research by field, making it easy to explore specific 
 # 🔒 Security
 | Research | Post |
 |----------|-----------|
+| 🤖💥🔐 CVE-Bench: A Real-World Cybersecurity Benchmark for LLM Agents | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7310000300646371330-SX7m?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
 | 🔐⚙️ TFHE-Code: Evaluating LLM-Agentic Fully Homomorphic Encryption Code Generation | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrresearchers-forabraiabrscientists-activity-7309684689559052288-L-wI?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
 | 🤖🛡️ AutoRedTeamer: Autonomous Red Teaming with Lifelong Attack Integration | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7308890886640197632-6E74?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
 | 🤖🚨 DemonAgent: A New Backdoor Attack Exploits LLM-Based Agents | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7299034092862345216-JLWs?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BwDh4FalzR%2BK3n7sLmRHwYw%3D%3D) |
