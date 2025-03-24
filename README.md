@@ -52,6 +52,34 @@ This repository organizes research by field, making it easy to explore specific 
 27. 🤖 [Prompt Engineering](#-prompt-engineering)
 28. ⚖️ [Ethics and Safety](#-ethics-and-safety)
 
+# 🧠 Reasoning
+| Research | Post |
+|----------|-----------|
+| 🤖♟️ SPIN-Bench: Testing LLMs in Strategic Planning and Social Reasoning | [Link](https://www.linkedin.com/pulse/spin-bench-testing-llms-strategic-planning-social-reasoning-mahmoud-rabie-obuuf/?trackingId=%2B%2BDllAQgR8OD6Tq%2FGcTzkw%3D%3D) |
+| 🤖🔍 ReasonGraph: Visualizing and Analyzing LLM Reasoning Paths | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7306936095743606784-u7y_?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3Bk%2B2n9a50QZ%2BRA9L96DOVUw%3D%3D) |
+| 🤖🧠 Sketch-of-Thought: Efficient LLM Reasoning with Cognitive-Inspired Sketching | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7305618585488416769-I-zZ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3Bk%2B2n9a50QZ%2BRA9L96DOVUw%3D%3D) |
+| 🤖🧠 SYMBOLIC-MOE: Adaptive Skill-based Routing for Heterogeneous Reasoning | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7304698557888970752-HwgP?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3Bk%2B2n9a50QZ%2BRA9L96DOVUw%3D%3D) |
+| 🤖🧠 System 1 to System 2: A Survey of Reasoning Large Language Models | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7303147523181875200-ol63?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3B7z1uQnw0Sqe7IVj2wDMI5w%3D%3D) |
+| 🤖🧠 LLM Post-Training: A Deep Dive into Reasoning Large Language Models | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7302723280149348356-EeFV?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3B7z1uQnw0Sqe7IVj2wDMI5w%3D%3D) |
+| 🤖🧠 Tree-of-Debate: Multi-Person Debate Trees Elicit Critical Thinking for Scientific Comparative Analysis | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7300573759181144064-hrr5?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3B7z1uQnw0Sqe7IVj2wDMI5w%3D%3D) |
+| 🤖🔧 OctoTools: Agentic Framework for Complex Reasoning | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7299621740970713089-TB0T?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3B7z1uQnw0Sqe7IVj2wDMI5w%3D%3D) |
+| 🤖🧠 Building Reasoning-Rich LLMs with 2.8M Challenging Questions | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7299063753352863744-ElBU?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BwDh4FalzR%2BK3n7sLmRHwYw%3D%3D) |
+| ⚡🤖 Enhancing Reasoning to Adapt LLMs | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7297678332630859776-cNfF?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc&lipi=urn%3Ali%3Apage%3Ad_flagship3_publishing_post_edit%3BUZxk2Ud2QhWwfW%2Bch%2B1x5A%3D%3D) |
+
+# 🔬 Research
+| Research | Post |
+|----------|-----------|
+| 🤖🔬 MAPS: A Multi-Agent Framework for Scientific Problem Solving with Big Seven Personality and Socratic Guidance | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7309993826482348032-pW40?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
+| 🤖🔬 MLGym: Enabling LLM Research Agents | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7299253945632264192-pfnI?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BwDh4FalzR%2BK3n7sLmRHwYw%3D%3D) |
+| 🤖🔎🧠 Automated Hypothesis Validation with Agentic Sequential Falsifications | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7298706052458422272-E6lH?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BwDh4FalzR%2BK3n7sLmRHwYw%3D%3D) |
+| 🤖🔎🧠 Towards Google AI Co-Scientist | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7298007564053561345-3OBl?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BwDh4FalzR%2BK3n7sLmRHwYw%3D%3D) |
+
+# 👁️ Vision
+| Research | Post |
+|----------|-----------|
+| 🤖🎨 CoSTA*: Cost-Sensitive Toolpath Agent for Multi-turn Image Editing | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7306689384878108672--HVn?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3Bk%2B2n9a50QZ%2BRA9L96DOVUw%3D%3D) |
+| 🤖🧠 FAST: Visual Agents As Fast and Slow Thinkers | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7302855371558207488-4GxE?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3B7z1uQnw0Sqe7IVj2wDMI5w%3D%3D) |
+
 # 🔒 Security
 | Research | Post |
 |----------|-----------|
@@ -78,26 +106,6 @@ This repository organizes research by field, making it easy to explore specific 
 | 🤖🩺 MedR-Bench: Quantifying The Reasoning Abilities of LLMs on Real-world Clinical Cases | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7304225248403456000-7bHA?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3Bk%2B2n9a50QZ%2BRA9L96DOVUw%3D%3D) |
 | 🤖🧬 DrBioRight 2.0: An LLM-powered Chatbot for Cancer Functional Proteomics | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7304127066713546752-NLgA?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3Bk%2B2n9a50QZ%2BRA9L96DOVUw%3D%3D) |
 | 🤖🩺 M3Builder: A Multi-Agent System for Automated Machine Learning in Medical Imaging | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7303119626253557760-vO1n?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3B7z1uQnw0Sqe7IVj2wDMI5w%3D%3D) |
-
-# 🧠 Reasoning
-| Research | Post |
-|----------|-----------|
-| 🤖♟️ SPIN-Bench: Testing LLMs in Strategic Planning and Social Reasoning | [Link](https://www.linkedin.com/pulse/spin-bench-testing-llms-strategic-planning-social-reasoning-mahmoud-rabie-obuuf/?trackingId=%2B%2BDllAQgR8OD6Tq%2FGcTzkw%3D%3D) |
-| 🤖🔍 ReasonGraph: Visualizing and Analyzing LLM Reasoning Paths | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7306936095743606784-u7y_?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3Bk%2B2n9a50QZ%2BRA9L96DOVUw%3D%3D) |
-| 🤖🧠 Sketch-of-Thought: Efficient LLM Reasoning with Cognitive-Inspired Sketching | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7305618585488416769-I-zZ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3Bk%2B2n9a50QZ%2BRA9L96DOVUw%3D%3D) |
-| 🤖🧠 SYMBOLIC-MOE: Adaptive Skill-based Routing for Heterogeneous Reasoning | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7304698557888970752-HwgP?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3Bk%2B2n9a50QZ%2BRA9L96DOVUw%3D%3D) |
-| 🤖🧠 System 1 to System 2: A Survey of Reasoning Large Language Models | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7303147523181875200-ol63?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3B7z1uQnw0Sqe7IVj2wDMI5w%3D%3D) |
-| 🤖🧠 LLM Post-Training: A Deep Dive into Reasoning Large Language Models | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7302723280149348356-EeFV?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3B7z1uQnw0Sqe7IVj2wDMI5w%3D%3D) |
-| 🤖🧠 Tree-of-Debate: Multi-Person Debate Trees Elicit Critical Thinking for Scientific Comparative Analysis | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7300573759181144064-hrr5?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3B7z1uQnw0Sqe7IVj2wDMI5w%3D%3D) |
-| 🤖🔧 OctoTools: Agentic Framework for Complex Reasoning | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7299621740970713089-TB0T?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3B7z1uQnw0Sqe7IVj2wDMI5w%3D%3D) |
-| 🤖🧠 Building Reasoning-Rich LLMs with 2.8M Challenging Questions | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7299063753352863744-ElBU?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BwDh4FalzR%2BK3n7sLmRHwYw%3D%3D) |
-| ⚡🤖 Enhancing Reasoning to Adapt LLMs | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7297678332630859776-cNfF?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc&lipi=urn%3Ali%3Apage%3Ad_flagship3_publishing_post_edit%3BUZxk2Ud2QhWwfW%2Bch%2B1x5A%3D%3D) |
-
-# 👁️ Vision
-| Research | Post |
-|----------|-----------|
-| 🤖🎨 CoSTA*: Cost-Sensitive Toolpath Agent for Multi-turn Image Editing | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7306689384878108672--HVn?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3Bk%2B2n9a50QZ%2BRA9L96DOVUw%3D%3D) |
-| 🤖🧠 FAST: Visual Agents As Fast and Slow Thinkers | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7302855371558207488-4GxE?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3B7z1uQnw0Sqe7IVj2wDMI5w%3D%3D) |
 
 # 💻 Code
 | Research | Post |
@@ -197,14 +205,6 @@ This repository organizes research by field, making it easy to explore specific 
 | ⚡🤖 OpenAI Operator: A Computer-Using Agent | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7288416503861768193-K2j6?utm_source=share&utm_medium=member_desktop&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BkuXoA8MKQL6rQB8%2FSS8e7Q%3D%3D) |
 | ⚡🤖 Google Chain-of-Agents: Collaborating on Long-Context Tasks | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7288399646110945280-2R2f?utm_source=share&utm_medium=member_desktop&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BkuXoA8MKQL6rQB8%2FSS8e7Q%3D%3D) |
 | 🤖 PC Agent: While You Sleep, AI Works | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7283581375553658881-NJUF?utm_source=share&utm_medium=member_desktop&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3Bt7Aty5xXSA%2BfsYiaE0qyIg%3D%3D) |
-
-# 🔬 Research
-| Research | Post |
-|----------|-----------|
-| 🤖🔬 MAPS: A Multi-Agent Framework for Scientific Problem Solving with Big Seven Personality and Socratic Guidance | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7309993826482348032-pW40?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
-| 🤖🔬 MLGym: Enabling LLM Research Agents | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7299253945632264192-pfnI?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BwDh4FalzR%2BK3n7sLmRHwYw%3D%3D) |
-| 🤖🔎🧠 Automated Hypothesis Validation with Agentic Sequential Falsifications | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7298706052458422272-E6lH?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BwDh4FalzR%2BK3n7sLmRHwYw%3D%3D) |
-| 🤖🔎🧠 Towards Google AI Co-Scientist | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7298007564053561345-3OBl?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BwDh4FalzR%2BK3n7sLmRHwYw%3D%3D) |
 
 # 🔄 Multimodal
 | Research | Post |
