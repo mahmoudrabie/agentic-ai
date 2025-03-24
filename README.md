@@ -185,6 +185,7 @@ This repository organizes research by field, making it easy to explore specific 
 # 🎯 Recommendation
 | Research | Post |
 |----------|-----------|
+| 🤖🎯 Towards Agentic Recommender Systems in the Era of Multimodal LLMs | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7310019980534702081-IUg8?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
 | 🤖🔍 MACRec: A Multi-Agent Collaboration Framework for Recommendation | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7300545215897956353-hIXP?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3B7z1uQnw0Sqe7IVj2wDMI5w%3D%3D) |
 | 🤖🎯 InstructAgent: A New LLM-Powered Agent that Puts Users In Control of Recommender Systems | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7299029683365421056-EbSt?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BwDh4FalzR%2BK3n7sLmRHwYw%3D%3D) |
 | 🤖🔗 KGLA: Knowledge Graph-Enhanced Recommendation Agents | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7291386582136156160-2POk?utm_source=share&utm_medium=member_desktop&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BkuXoA8MKQL6rQB8%2FSS8e7Q%3D%3D) |
