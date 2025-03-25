@@ -21,7 +21,7 @@ A curated knowledge hub on Agentic AI, featuring the best projects, research, an
 3. 🧠 [Reasoning](#-reasoning)
 4. 🔬 [Research](#-research)
 5. 👁️ [Vision](#-vision)
-6. 💻 [Code](#-code)
+6. 💻 [Software Engineering](#-software-engineering)
 7. 🎮 [Gaming](#-gaming)
 8. 📦 [Supply Chain](#-supply-chain)
 9. 🤖 [Foundation Models](#-foundation-models)
@@ -103,7 +103,7 @@ A curated knowledge hub on Agentic AI, featuring the best projects, research, an
 | 🤖🎨 CoSTA*: Cost-Sensitive Toolpath Agent for Multi-turn Image Editing | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7306689384878108672--HVn?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3Bk%2B2n9a50QZ%2BRA9L96DOVUw%3D%3D) |
 | 🤖🧠 FAST: Visual Agents As Fast and Slow Thinkers | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7302855371558207488-4GxE?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3B7z1uQnw0Sqe7IVj2wDMI5w%3D%3D) |
 
-# 💻 Code
+# 💻 Software Engineering
 | Research | Post |
 |----------|-----------|
 | 🤖🧠 Is Multi-Agent Debate (MAD) the Silver Bullet for Software Engineering Tasks? | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7310375159855562752-sRWp?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
