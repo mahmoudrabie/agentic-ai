@@ -108,6 +108,7 @@ A curated knowledge hub on Agentic AI, featuring the best projects, research, an
 # 💻 Software Engineering
 | Research | Post |
 |----------|-----------|
+| 🤖🏗️ MAAD: Knowledge-Based Multi-Agent Framework for Automated Software Architecture Design | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7311114577998483456-3Qro?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
 | 🤖🧠 Is Multi-Agent Debate (MAD) the Silver Bullet for Software Engineering Tasks? | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7310375159855562752-sRWp?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
 | 🤖💻 SETUPAGENT: Automating Benchmark Generation for Code Agents | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7306109496169291776-X1GY?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3Bk%2B2n9a50QZ%2BRA9L96DOVUw%3D%3D) |
 
