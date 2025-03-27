@@ -48,6 +48,7 @@ A curated knowledge hub on Agentic AI, featuring the best projects, research, an
 # 🔒 Security
 | Research | Post |
 |----------|-----------|
+| 🤖🛡️ Google DeepMind: Defeating Prompt Injections by Design: CaMeL as A Formal Defense for LLM Agents | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7311014664195235840-N6FO?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
 | 🤖💥🔐 CVE-Bench: A Real-World Cybersecurity Benchmark for LLM Agents | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7310000300646371330-SX7m?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
 | 🔐⚙️ TFHE-Code: Evaluating LLM-Agentic Fully Homomorphic Encryption Code Generation | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrresearchers-forabraiabrscientists-activity-7309684689559052288-L-wI?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
 | 🤖🛡️ AutoRedTeamer: Autonomous Red Teaming with Lifelong Attack Integration | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7308890886640197632-6E74?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
