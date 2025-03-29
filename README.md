@@ -204,6 +204,7 @@ A curated knowledge hub on Agentic AI, featuring the best projects, research, an
 # ⚡ Automation
 | Research | Post |
 |----------|-----------|
+| 🤖📱 UI-R1: Enhancing GUI Agent Action Prediction via Reinforcement Learning | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7311822749717438464-7hi5?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
 | 🤖💻 PC-Agent: Hierarchical Multi-Agent Collaboration for Complex Task Automation | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7299832383447470080-keTb?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3B7z1uQnw0Sqe7IVj2wDMI5w%3D%3D) |
 | ⚡🤖 OpenAI Operator: A Computer-Using Agent | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7288416503861768193-K2j6?utm_source=share&utm_medium=member_desktop&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BkuXoA8MKQL6rQB8%2FSS8e7Q%3D%3D) |
 | ⚡🤖 Google Chain-of-Agents: Collaborating on Long-Context Tasks | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7288399646110945280-2R2f?utm_source=share&utm_medium=member_desktop&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BkuXoA8MKQL6rQB8%2FSS8e7Q%3D%3D) |
