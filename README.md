@@ -14,9 +14,9 @@
 
 A curated knowledge hub on Agentic AI, featuring the best projects, research, and resources. This repository serves as a comprehensive collection of cutting-edge advancements across 25+ specialized domains—from Healthcare and Reasoning to Security and Ethics. Each section provides direct links to detailed LinkedIn posts offering insights into autonomous AI systems and their real-world applications.
 
-## 📚 Research Field
+## �� Research Field
 
-1. 🔒 [Security](#-security)
+1. 🛡️ [Security](#-security)
 2. 🩺 [Healthcare](#-healthcare)
 3. 🧠 [Reasoning](#-reasoning)
 4. 🔬 [Research](#-research)
@@ -45,9 +45,11 @@ A curated knowledge hub on Agentic AI, featuring the best projects, research, an
 27. 🤖 [Prompt Engineering](#-prompt-engineering)
 28. ⚖️ [Ethics and Safety](#-ethics-and-safety)
 
-# 🔒 Security
+# 🛡️ Security
 | Research | Post |
 |----------|-----------|
+| 🤖🗣️ SANDMAN: Inducing Personality in LLM-Based Honeypot Agents for Human-Like Agenda Generation | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7311853205989081088-8Rlm?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
+| 🛡️🤖 Multi-Agent Framework for Automated Security Testing | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7299832383447470080-keTb?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3B7z1uQnw0Sqe7IVj2wDMI5w%3D%3D) |
 | 🤖🛡️ Google DeepMind: Defeating Prompt Injections by Design: CaMeL as A Formal Defense for LLM Agents | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7311014664195235840-N6FO?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
 | 🤖💥🔐 CVE-Bench: A Real-World Cybersecurity Benchmark for LLM Agents | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7310000300646371330-SX7m?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
 | 🔐⚙️ TFHE-Code: Evaluating LLM-Agentic Fully Homomorphic Encryption Code Generation | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrresearchers-forabraiabrscientists-activity-7309684689559052288-L-wI?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
