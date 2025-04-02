@@ -67,6 +67,7 @@ A curated knowledge hub on Agentic AI, featuring the best projects, research, an
 ## 🔬 Research
 | Research | Post |
 |----------|-----------|
+| 🤖🔬 SciReplicate-Bench: Benchmarking LLMs in Agent-driven Algorithmic Reproduction from Research Papers | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7313146338337038338-o6lN?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
 | 🤖🔬 Towards Scientific Intelligence: A Survey of LLM-based Scientific Agents | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7312867958878285826-y5_G?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
 | 🤖🔬 AgentRxiv: A Comprehensive Survey of LLM-based Scientific Agents | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7311853205989081088-8Rlm?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
 | 🤖🔬 MAPS: A Multi-Agent Framework for Scientific Problem Solving with Big Seven Personality and Socratic Guidance | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7309993826482348032-pW40?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
