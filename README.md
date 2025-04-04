@@ -20,7 +20,7 @@ Browse our collection by research domain:
 
 | Domain | Domain | Domain |
 |--------|--------|--------|
-| [🏥 Healthcare](#-healthcare) | [🛡️ Security](#️-security) | [🧠 Reasoning](#-reasoning) |
+| [💊 Healthcare](#-healthcare) | [🛡️ Security](#️-security) | [🧠 Reasoning](#-reasoning) |
 | [🔬 Research](#-research) | [👁️ Vision](#️-vision) | [💻 Software Engineering](#-software-engineering) |
 | [🎮 Gaming](#-gaming) | [📦 Supply Chain](#-supply-chain) | [🤖 Foundation Models](#-foundation-models) |
 | [📐 Design](#-design) | [🧪 Testing](#-testing) | [🔌 IoT](#-iot) |
@@ -30,7 +30,7 @@ Browse our collection by research domain:
 | [🔄 Multimodal](#-multimodal) | [🌆 Smart Cities](#-smart-cities) | [🚦 Transportation](#-transportation) |
 | [⛓️ Blockchain](#️-blockchain) | [📡 Networking](#-networking) | [⚖️ Ethics and Safety](#️-ethics-and-safety) |
 
-## 🏥 Healthcare
+## 💊 Healthcare
 | Research | Post |
 |----------|-----------|
 | 🤖💊 PharmAgents: Building a Virtual Pharma with LLM Agents | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7313590525842882560-Ch9f?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
