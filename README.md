@@ -14,6 +14,22 @@
 
 A curated knowledge hub on Agentic AI, featuring the best projects, research, and resources. This repository serves as a comprehensive collection of cutting-edge advancements across 25+ specialized domains—from Healthcare and Reasoning to Security and Ethics. Each section provides direct links to detailed LinkedIn posts offering insights into autonomous AI systems and their real-world applications.
 
+## 📚 Research Fields
+
+Browse our collection by research domain:
+
+| Domain | Domain | Domain |
+|--------|--------|--------|
+| [🏥 Healthcare](#-healthcare) | [🛡️ Security](#️-security) | [🧠 Reasoning](#-reasoning) |
+| [🔬 Research](#-research) | [👁️ Vision](#️-vision) | [💻 Software Engineering](#-software-engineering) |
+| [🎮 Gaming](#-gaming) | [📦 Supply Chain](#-supply-chain) | [🤖 Foundation Models](#-foundation-models) |
+| [📐 Design](#-design) | [🧪 Testing](#-testing) | [🔌 IoT](#-iot) |
+| [🤖 Robotics](#-robotics) | [🏆 Reward Modeling](#-reward-modeling) | [📊 Visualization](#-visualization) |
+| [⚙️ Framework](#️-framework) | [📋 Planning](#-planning) | [🎯 Recommendation](#-recommendation) |
+| [🔄 Reinforcement Learning](#-reinforcement-learning) | [🔧 Hardware Design](#-hardware-design) | [⚡ Automation](#-automation) |
+| [🔄 Multimodal](#-multimodal) | [🌆 Smart Cities](#-smart-cities) | [🚦 Transportation](#-transportation) |
+| [⛓️ Blockchain](#️-blockchain) | [📡 Networking](#-networking) | [⚖️ Ethics and Safety](#️-ethics-and-safety) |
+
 ## 🏥 Healthcare
 | Research | Post |
 |----------|-----------|
