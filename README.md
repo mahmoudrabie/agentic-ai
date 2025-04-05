@@ -191,6 +191,7 @@ Browse our collection by research domain:
 ## 🔄 Reinforcement Learning
 | Research | Post |
 |----------|-----------|
+| 🤖🔌⚡ Optimal Power Flow for High Spatial and Temporal Resolution Power Systems with High Renewable Energy Penetration Using Multi-Agent Deep Reinforcement Learning | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7314325754622754817--qKe?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
 | 🤖🔗 TAG: A Decentralized Framework for Multi-Agent Hierarchical Reinforcement Learning | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7300372264925949953-z52Z?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3B7z1uQnw0Sqe7IVj2wDMI5w%3D%3D) |
 
 ## 🔧 Hardware Design
@@ -201,6 +202,7 @@ Browse our collection by research domain:
 ## ⚡ Automation
 | Research | Post |
 |----------|-----------|
+| 🤖🔧⚙ Application of a Simulation-Based Digital Twin for Predicting Distributed Manufacturing Control System Performance | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7314336098002911232-hQQ6?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
 | 🤖📱 UI-R1: Enhancing GUI Agent Action Prediction via Reinforcement Learning | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7311822749717438464-7hi5?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
 | 🤖💻 PC-Agent: Hierarchical Multi-Agent Collaboration for Complex Task Automation | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7299832383447470080-keTb?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3B7z1uQnw0Sqe7IVj2wDMI5w%3D%3D) |
 | ⚡🤖 OpenAI Operator: A Computer-Using Agent | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7288416503861768193-K2j6?utm_source=share&utm_medium=member_desktop&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BkuXoA8MKQL6rQB8%2FSS8e7Q%3D%3D) |
