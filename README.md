@@ -125,6 +125,7 @@ Browse our collection by research domain:
 ## 📐 Design
 | Research | Post |
 |----------|-----------|
+| 🤖🚗⚙ AI Agents in Engineering Design: A Multi-Agent Framework for Aesthetic & Aerodynamic Car Design | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7314761605110546432-Pu7T?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
 | 🤖📐 From Idea to CAD: A Language Model-Driven Multi-Agent System for Collaborative Design | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7304570587459284992-u0qJ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3Bk%2B2n9a50QZ%2BRA9L96DOVUw%3D%3D) |
 
 ## 🧪 Testing
