@@ -50,6 +50,7 @@ Browse our collection by research domain:
 ## 🛡️ Security
 | Research | Post |
 |----------|-----------|
+| 🤖🛠️ Agent That Debugs: Dynamic State-Guided Vulnerability Repair | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7316579142802530304-Yiuj?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
 | 🤖🔒🛜 RESTRAIN: Reinforcement Learning-Based Secure Framework for Trigger-Action IoT Environment | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7312141079275868160-MwxW?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
 | 🤖🗣️ SANDMAN: Inducing Personality in LLM-Based Honeypot Agents for Human-Like Agenda Generation | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7311853205989081088-8Rlm?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
 | 🛡️🤖 Multi-Agent Framework for Automated Security Testing | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7299832383447470080-keTb?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3B7z1uQnw0Sqe7IVj2wDMI5w%3D%3D) |
