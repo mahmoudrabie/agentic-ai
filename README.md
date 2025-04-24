@@ -50,6 +50,7 @@ Browse our collection by research domain:
 
 ## 🛡️ Security
 | Research | Post |
+| 🤖🛡️ DoomArena: A Framework for Testing AI Agents Against Evolving Security Threats | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7320879140448956417-0waZ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
 |----------|-----------|
 | 🤖⚠️ Achilles Heel of Distributed Multi-Agent Systems | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7316730141072617472-kMAC?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
 | 🤖🛠️ Agent That Debugs: Dynamic State-Guided Vulnerability Repair | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7316579142802530304-Yiuj?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
