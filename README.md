@@ -234,6 +234,7 @@ Browse our collection by research domain:
 | 🌆🤖 Responsible AI Hyper-Automation: Paving the Way for Sustainable Cities | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7298710933890064384-FkAZ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BwDh4FalzR%2BK3n7sLmRHwYw%3D%3D) |
 | ⚡🤖 LLM Agents for Smart City Management | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7296946959087501313-wRhi?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc&lipi=urn%3Ali%3Apage%3Ad_flagship3_publishing_post_edit%3BUZxk2Ud2QhWwfW%2Bch%2B1x5A%3D%3D) |
 | ⚡🏙️ AI Agent-Based Intelligent Urban Digital Twin | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7296030582436773888-3ZKT?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3B5PTKEXxESRqMfkTy8OIRZg%3D%3D) |
+| 🧠🏠 UserCentrix: An Agentic Memory-augmented AI Framework for Smart Spaces 🏠🧠 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7324094906019258382-ipdk?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
 
 ## 🚦 Transportation
 | Research | Post |
