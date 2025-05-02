@@ -183,6 +183,7 @@ Browse our collection by research domain:
 | ⚡🤖 Search-o1: A Document Reasoning Framework for LLMs | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7285013512454639616-AD_L?utm_source=share&utm_medium=member_desktop&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3Bt7Aty5xXSA%2BfsYiaE0qyIg%3D%3D) |
 | ⚡🤖 LAW: Legal Agentic Workflows | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7283773150033571840-6EZ7?utm_source=share&utm_medium=member_desktop&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3Bt7Aty5xXSA%2BfsYiaE0qyIg%3D%3D) |
 | ⚡🤖 ProAgent: A New Wave of Agentic Process Automation | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7283758284354785280-992l?utm_source=share&utm_medium=member_desktop&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3Bt7Aty5xXSA%2BfsYiaE0qyIg%3D%3D) |
+| 🤖🛠 A Practical Approach to Defining a Framework for Developing an Agentic AIOps System 🛠🤖 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7323934534889009152-Ti5a?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
 
 ## 📋 Planning
 | Research | Post |
