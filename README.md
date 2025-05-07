@@ -304,6 +304,7 @@ This project is licensed under the [MIT License](LICENSE) - see the LICENSE file
 **Mahmoud Rabie**
 - [LinkedIn Profile](https://www.linkedin.com/in/mahmoudrabie2004/)
 - [GitHub Profile](https://github.com/mahmoudrabie)
+- [X Profile](https://x.com/MahRabie)
 
 ---
 ⭐️ If you find this repository helpful, please consider giving it a star!
