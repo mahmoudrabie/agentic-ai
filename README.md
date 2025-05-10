@@ -77,6 +77,7 @@ Browse our collection by research domain:
 | 🤖🔐 EncGPT: A Multi-Agent Workflow for Dynamic Encryption Algorithms 🔐🤖 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7324157843488587776-as37?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
 | 🤖🔐 Enhancing LLM-based Quantum Code Generation with Multi-Agent Optimization and Quantum Error Correction 🔐🤖 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7324489479832915968-rKPL?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
 | 🤖🛡️Meta LlamaFirewall: An open source guardrail system for building secure AI agents 🛡️🤖 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7325918629177311232-I4-I?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
+| 🤖🔐 An LLM-based Self-Evolving Security Framework for 6G Space-Air-Ground Integrated Networks 🔐🤖 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7326913638986878976-GLMZ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
 
 ## 🧠 Reasoning
 | Research | Post |
@@ -308,4 +309,134 @@ This project is licensed under the [MIT License](LICENSE) - see the LICENSE file
 
 ---
 ⭐️ If you find this repository helpful, please consider giving it a star!
+
+# LLM-6GNG: Self-Evolving Security Framework for 6G SAGINs
+
+An advanced security framework leveraging Large Language Models (LLMs) for protecting 6G Space-Air-Ground Integrated Networks (SAGINs) through autonomous evolution and real-time threat detection.
+
+## 🌟 Key Features
+
+- **LLM-6GNG Agent Swarm**: Multi-agent collaboration system for real-time defense planning
+- **6G-INST Self-Evolver**: Autonomous threat harvesting and model fine-tuning
+- **Real-time Pipeline**: < 400ms strategy latency for cross-domain attacks
+- **Semi-physical Testbed**: Integration with ns-3, OpenAirInterface, SDR, and reconfigurable intelligent surfaces
+
+## 🎯 Performance Metrics
+
+- 50% accuracy boost on unseen threats (SQL-i, DDoS, ARP-spoof, port-scan & brute-force)
+- 45% mean precision improvement on brand-new threats vs static baseline
+- Condensation of 100k raw alerts to < 500 actionable incidents
+- Zero accuracy drop for known attacks after continual fine-tuning
+
+## 🏗️ Architecture
+
+### Core Components
+
+1. **Condensation Agent**
+   - Distills free-text logs into concise threat triplets
+   - Pre-processes multi-dimensional network data
+
+2. **6G-AC (Attack Correlation)**
+   - Clusters cross-layer and cross-domain events
+   - Identifies attack patterns and correlations
+
+3. **6G-KWE (Keyword Weight Extraction)**
+   - Extracts weighted keywords from threat data
+   - Feeds information to Strategy Agents
+
+4. **Strategy Agents**
+   - Prompt & Specific-Strategy agents for per-attack defenses
+   - Consolidation agent for integrated playbook generation
+
+5. **6G-INST (Self-Evolution)**
+   - GPT-4-powered twin strategy agent
+   - Automatic instruction data generation
+   - Continuous Llama-3 guard fine-tuning
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+- Python 3.8+
+- CUDA-compatible GPU (recommended)
+- Docker
+- Network simulation tools (ns-3, OpenAirInterface)
+
+### Installation
+
+```bash
+# Clone the repository
+git clone https://github.com/yourusername/llm-6gng.git
+cd llm-6gng
+
+# Create and activate virtual environment
+python -m venv venv
+source venv/bin/activate  # On Windows: venv\Scripts\activate
+
+# Install dependencies
+pip install -r requirements.txt
+```
+
+### Configuration
+
+1. Set up your environment variables:
+```bash
+cp .env.example .env
+# Edit .env with your configuration
+```
+
+2. Configure the LLM models:
+```bash
+python scripts/setup_models.py
+```
+
+## 📊 Usage
+
+### Running the Security Framework
+
+```bash
+python main.py --config configs/default.yaml
+```
+
+### Running Tests
+
+```bash
+pytest tests/
+```
+
+## 🔧 Development
+
+### Project Structure
+
+```
+llm-6gng/
+├── agents/           # Agent implementations
+├── models/          # LLM model configurations
+├── network/         # Network simulation components
+├── security/        # Security framework core
+├── tests/           # Test suite
+├── utils/           # Utility functions
+└── configs/         # Configuration files
+```
+
+## 📝 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## 🤝 Contributing
+
+Contributions are welcome! Please read our [Contributing Guidelines](CONTRIBUTING.md) for details on our code of conduct and the process for submitting pull requests.
+
+## 📚 References
+
+- Original Research Paper: [Link to paper]
+- Related Publications: [List of related papers]
+
+## 📞 Contact
+
+For questions and support, please open an issue in the GitHub repository or contact the maintainers.
+
+---
+
+Built with ❤️ by the LLM-6GNG Team
 
