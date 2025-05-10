@@ -78,6 +78,7 @@ Browse our collection by research domain:
 | 🤖🔐 Enhancing LLM-based Quantum Code Generation with Multi-Agent Optimization and Quantum Error Correction 🔐🤖 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7324489479832915968-rKPL?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
 | 🤖🛡️Meta LlamaFirewall: An open source guardrail system for building secure AI agents 🛡️🤖 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7325918629177311232-I4-I?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
 | 🤖🔐 An LLM-based Self-Evolving Security Framework for 6G Space-Air-Ground Integrated Networks 🔐🤖 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7326913638986878976-GLMZ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
+| 🤖🛡️ Large Language Models are Autonomous Cyber Defenders 🛡️🤖 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7326906443331223553-lyUB?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
 
 ## 🧠 Reasoning
 | Research | Post |
