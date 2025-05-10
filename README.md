@@ -261,6 +261,7 @@ Browse our collection by research domain:
 | 🤖📖 Achieving Unanimous Consensus in Decision Making Using Multi-Agents | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7313935057579098112-4KfB?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
 | 🤖🗣️ Smartify: A Multi-Agent Framework for Automated Vulnerability Detection and Repair in Solidity and Move Smart Contracts | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7311857673656766465-g5O8?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
 | ⚡🤖 AI Agents Meet Blockchain: Secure & Scalable Collaboration | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7296959296091652097-ntzG?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc&lipi=urn%3Ali%3Apage%3Ad_flagship3_publishing_post_edit%3BUZxk2Ud2QhWwfW%2Bch%2B1x5A%3D%3D) |
+| 🧠🔗 AI-Driven Optimization of Blockchain Scalability, Security, and Privacy Protection 🔗🧠 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7326653588347224065-rul2?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
 
 ## 📡 Networking
 | Research | Post |
