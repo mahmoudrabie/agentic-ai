@@ -82,6 +82,7 @@ Browse our collection by research domain:
 | 🤖🔐 SecRepoBench: Benchmarking LLMs for Secure Code Generation in Real-World Repositories 🔐🤖 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7326920727155159040-JxPf?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
 | 🤖🔐 CIPHER: Cybersecurity Intelligent Penetration-Testing Helper for Ethical Researchers 🔐🤖 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7327379325941342208-DWLT?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
 | 🤖🛠️ AGENTXPLOIT: End-to-End Redteaming of Black-Box AI Agents 🛠️🤖 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7327802095653306370-BVxc?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
+| 🤖🛠️ AutoPatch: Multi-Agent Framework for Patching Real-World CVE Vulnerabilities 🛠️🤖 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7327806252720254976-3hhQ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
 
 ## 🧠 Reasoning
 | Research | Post |
