@@ -80,6 +80,7 @@ Browse our collection by research domain:
 | 🤖🔐 An LLM-based Self-Evolving Security Framework for 6G Space-Air-Ground Integrated Networks 🔐🤖 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7326913638986878976-GLMZ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
 | 🤖🛡️ Large Language Models are Autonomous Cyber Defenders 🛡️🤖 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7326906443331223553-lyUB?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
 | 🤖🔐 SecRepoBench: Benchmarking LLMs for Secure Code Generation in Real-World Repositories 🔐🤖 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7326920727155159040-JxPf?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
+| 🤖🔐 CIPHER: Cybersecurity Intelligent Penetration-Testing Helper for Ethical Researchers 🔐🤖 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7327379325941342208-DWLT?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
 
 ## 🧠 Reasoning
 | Research | Post |
