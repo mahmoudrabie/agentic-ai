@@ -33,6 +33,7 @@ Browse our collection by research domain:
 ## 💊 Healthcare
 | Research | Post |
 |----------|-----------|
+| 🤖🩺 Multi-Modal Explainable Medical AI Assistant for Trustworthy Human-AI Collaboration 🩺🤖 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7328653698223112192-tpMK?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
 | 🤖🧠 EmoAgent: Assessing and Safeguarding Human-AI Interaction for Mental Health Safety | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7318011064556642304-WS9J?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
 | 🤖💊 PharmAgents: Building a Virtual Pharma with LLM Agents | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7313590525842882560-Ch9f?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
 | 🤖🩺 SurgicalVLM-Agent: Towards an Interactive AI Co-Pilot for Pituitary Surgery | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7312496403631554587-g5Fq?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
