@@ -53,6 +53,8 @@ Browse our collection by research domain:
 ## 🛡️ Security
 | Research | Post |
 |----------|-----------|
+| 🤖🛡️ Security of Internet of Agents: Attacks and Countermeasures 🛡️🤖 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7329902342118502401-0sJL/) |
+| 🤖🛡️ Automating Function-Level TARA for Automotive Full-Lifecycle Security 🛡️🤖 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7329461299447328768-X-f8/) |
 | 🤖🛠️ PatchPilot: A Stable and Cost-Efficient Agentic Patching Framework 🛠️🤖 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7329383229067542531-E8z8/) |
 | 🤖🛡️ DoomArena: A Framework for Testing AI Agents Against Evolving Security Threats | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7320879140448956417-0waZ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
 | 🤖⚠️ Achilles Heel of Distributed Multi-Agent Systems | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7316730141072617472-kMAC?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
