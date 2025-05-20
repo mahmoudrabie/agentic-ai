@@ -33,6 +33,7 @@ Browse our collection by research domain:
 ## 💊 Healthcare
 | Research | Post |
 |----------|-----------|
+| 🤖🩻 CBM-RAG: Enhanced Interpretability in Radiology Report Generation with Multi-Agent RAG and Concept Bottleneck Models 🩻🤖 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7330649771751174144-odBT/) |
 | 🤖🩺 Multi-Modal Explainable Medical AI Assistant for Trustworthy Human-AI Collaboration 🩺🤖 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7328850071960162306-zeE0/) |
 | 🤖🧠 EmoAgent: Assessing and Safeguarding Human-AI Interaction for Mental Health Safety | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7318011064556642304-WS9J?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
 | 🤖💊 PharmAgents: Building a Virtual Pharma with LLM Agents | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7313590525842882560-Ch9f?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
@@ -189,7 +190,8 @@ Browse our collection by research domain:
 ## ⚙️ Framework
 | Research | Post |
 |----------|-----------|
-| 🤖🧠 GraphMaster: Automated Graph Synthesis via LLM Agents in Data-Limited Environments | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7313140862362771456-eD7H?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) | |
+| 🤖🌐 Internet of Agents: Fundamentals, Applications, and Challenges 🌐🤖 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7330279828799045634-KTO6/) |
+| 🤖🧠 GraphMaster: Automated Graph Synthesis via LLM Agents in Data-Limited Environments | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7313140862362771456-eD7H?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
 | 🤖🔧 AI2Agent: An End-to-End Framework for Deploying AI Projects as Autonomous Agents | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7312874492781858816-_Yn1?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |m=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
 | 🤖🧠 A-MEM: Agentic Memory for LLM Agents | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7312612236550717441-N3ri?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
 | 🤖🚀 AutoAgent: A Fully-Automated and Zero-Code Framework for LLM Agents | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7302032458277883904-K0bv?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3B7z1uQnw0Sqe7IVj2wDMI5w%3D%3D) |
