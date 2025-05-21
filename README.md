@@ -190,6 +190,7 @@ Browse our collection by research domain:
 ## ⚙️ Framework
 | Research | Post |
 |----------|-----------|
+| 🤖💾 Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory 💾🤖 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7331027254552014849-od4s/) |
 | 🤖🌐 Internet of Agents: Fundamentals, Applications, and Challenges 🌐🤖 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7330279828799045634-KTO6/) |
 | 🤖🧠 GraphMaster: Automated Graph Synthesis via LLM Agents in Data-Limited Environments | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7313140862362771456-eD7H?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
 | 🤖🔧 AI2Agent: An End-to-End Framework for Deploying AI Projects as Autonomous Agents | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7312874492781858816-_Yn1?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |m=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
