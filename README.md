@@ -29,6 +29,7 @@ Browse our collection by research domain:
 | [🔄 Reinforcement Learning](#-reinforcement-learning) | [🔧 Hardware Design](#-hardware-design) | [⚡ Automation](#-automation) |
 | [🔄 Multimodal](#-multimodal) | [🌆 Smart Cities](#-smart-cities) | [🚦 Transportation](#-transportation) |
 | [⛓️ Blockchain](#️-blockchain) | [📡 Networking](#-networking) | [⚖️ Ethics and Safety](#️-ethics-and-safety) |
+| [🎓 Education](#-education) |
 
 ## 💊 Healthcare
 | Research | Post |
@@ -200,7 +201,7 @@ Browse our collection by research domain:
 | 🤖🚀 Towards Parallelizable LLM Agents | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7298695544317558784-KQ5y?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BwDh4FalzR%2BK3n7sLmRHwYw%3D%3D) |mRHwYw%3D%3D) |
 | ⚡🤖 Multi-Agent Collaboration in Decision-Making and Task Execution | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7291015721398996992-XLsB?utm_source=share&utm_medium=member_desktop&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BkuXoA8MKQL6rQB8%2FSS8e7Q%3D%3D) |SS8e7Q%3D%3D) |
 | ⚡🤖 Task-Completion Frameworks with R-MCTS and GPT-4 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7288806360153018368-KH6L?utm_source=share&utm_medium=member_desktop&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BkuXoA8MKQL6rQB8%2FSS8e7Q%3D%3D) |
-| ⚡🤖 SOP-Agent Framework: Textual STANDARD OP Guiding AI Behavior | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7286930844286423040-BysS?utm_source=share&utm_medium=member_desktop&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BkuXoA8MKQL6rQB8%2FSS8e7Q%3D%3D) |D%3D) |
+| ⚡🤖 SOP-Agent Framework: Textual STANDARD OP Guiding AI Behavior | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7286930844286423040-BysS?utm_source=share&utm_medium=member_desktop&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BkuXoA8MKQL6rQB8%2FSS8e7Q%3D%3D) |
 | ⚡🤖 HULA: Human-in-the-loop LLM-based Software Dev Agents | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7286797411983790081-aVfJ?utm_source=share&utm_medium=member_desktop&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BkuXoA8MKQL6rQB8%2FSS8e7Q%3D%3D) |
 | ⚡🤖 LLM-Based Multi-Agent Collaboration in Social & Cultural Applications | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7285926067788259328-SIvQ?utm_source=share&utm_medium=member_desktop&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3Bt7Aty5xXSA%2BfsYiaE0qyIg%3D%3D) |%2BfsYiaE0qyIg%3D%3D) |
 | ⚡🤖 Multi-Domain RAG Agent Routing & Orchestration | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7285891435885719552-0rsD?utm_source=share&utm_medium=member_desktop&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3Bt7Aty5xXSA%2BfsYiaE0qyIg%3D%3D) |2BfsYiaE0qyIg%3D%3D) |
@@ -210,12 +211,6 @@ Browse our collection by research domain:
 | ⚡🤖 LAW: Legal Agentic Workflows | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7283773150033571840-6EZ7?utm_source=share&utm_medium=member_desktop&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3Bt7Aty5xXSA%2BfsYiaE0qyIg%3D%3D) |
 | ⚡🤖 ProAgent: A New Wave of Agentic Process Automation | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7283758284354785280-992l?utm_source=share&utm_medium=member_desktop&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3Bt7Aty5xXSA%2BfsYiaE0qyIg%3D%3D) |
 | 🤖🛠 A Practical Approach to Defining a Framework for Developing an Agentic AIOps System 🛠🤖 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7323934534889009152-Ti5a?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) || 🤖🛠 A Practical Approach to Defining a Framework for Developing an Agentic AIOps System 🛠🤖 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7323934534889009152-Ti5a?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
-
-## 📋 Planning
-| Research | Post |
-|----------|-----------|
-| 🤖🧠 PLAN-AND-ACT: Improving Planning of Agents for Long-Horizon Tasks | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7310762099142492162-05nk?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
-| 🤖🛠️ PlanGEN: A Multi-Agent Framework for Generating Planning and Reasoning Trajectories | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7300568645150076930-fPRw?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3B7z1uQnw0Sqe7IVj2wDMI5w%3D%3D) || 🤖🛠️ PlanGEN: A Multi-Agent Framework for Generating Planning and Reasoning Trajectories | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7300568645150076930-fPRw?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3B7z1uQnw0Sqe7IVj2wDMI5w%3D%3D) |
 
 ## 🎯 Recommendationn
 | Research | Post |
@@ -264,7 +259,7 @@ Browse our collection by research domain:
 | Research | Post |
 |----------|-----------|
 | 🚦🤖 PyTSC: Revolutionizing Multi-Agent Reinforcement Learning for Traffic Signal Control | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7298709281036525569-0VL2?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BwDh4FalzR%2BK3n7sLmRHwYw%3D%3D) |
-| ⚡🤖 Electric Vehicles as Evolutionary Robots | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7297682324060561409-u2B8?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc&lipi=urn%3Ali%3Apage%3Ad_flagship3_publishing_post_edit%3BUZxk2Ud2QhWwfW%2Bch%2B1x5A%3D%3D) |
+| ⚡🤖 Electric Vehicles as Evolutionary Robots | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7297682324060561409-u2B8?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BkuXoA8MKQL6rQB8%2FSS8e7Q%3D%3D) |
 | 🚦🤖 Multi-Agent Reinforcement Learning for Traffic Intersection Management | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrresearchers-forabraiabrscientists-activity-7291032407149801473-3ypT?utm_source=share&utm_medium=member_desktop&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BkuXoA8MKQL6rQB8%2FSS8e7Q%3D%3D) |
 
 ## ⛓️ Blockchain
@@ -272,7 +267,7 @@ Browse our collection by research domain:
 |----------|-----------|
 | 🤖📖 Achieving Unanimous Consensus in Decision Making Using Multi-Agents | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7313935057579098112-4KfB?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
 | 🤖🗣️ Smartify: A Multi-Agent Framework for Automated Vulnerability Detection and Repair in Solidity and Move Smart Contracts | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7311857673656766465-g5O8?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
-| ⚡🤖 AI Agents Meet Blockchain: Secure & Scalable Collaboration | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7296959296091652097-ntzG?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc&lipi=urn%3Ali%3Apage%3Ad_flagship3_publishing_post_edit%3BUZxk2Ud2QhWwfW%2Bch%2B1x5A%3D%3D) |
+| ⚡🤖 AI Agents Meet Blockchain: Secure & Scalable Collaboration | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7296959296091652097-ntzG?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3B5PTKEXxESRqMfkTy8OIRZg%3D%3D) |
 | 🧠🔗 AI-Driven Optimization of Blockchain Scalability, Security, and Privacy Protection 🔗🧠 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7326653588347224065-rul2?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
 
 ## 📡 Networking
@@ -296,6 +291,11 @@ Browse our collection by research domain:
 | ⚖️🔍 Fairness Multi-Agent AI Framework | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7296042138474049536-O8_d?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3B5PTKEXxESRqMfkTy8OIRZg%3D%3D) |
 | 🌟🤖 Morally-Aligned AI Agents | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7288800836049145856-IOC9?utm_source=share&utm_medium=member_desktop&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BkuXoA8MKQL6rQB8%2FSS8e7Q%3D%3D) |
 | 🛡️🌐 LOKA Protocol: A Decentralized Framework for Trustworthy and Ethical AI Agent Ecosystems 🛡️🌐 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7324496447398137856-YVmt?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
+
+## 🎓 Education
+| Research | Post |
+|----------|-----------|
+| 🤖🎓 CyberMentor: AI Powered Learning Tool Platform to Address Diverse Student Needs in Cybersecurity Education 🎓🤖 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7331619790534414339-oNS1/) |
 
 ## 🤝 Contributing
 
