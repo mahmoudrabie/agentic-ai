@@ -134,6 +134,7 @@ Browse our collection by research domain:
 ## 💻 Software Engineering
 | Research | Post |
 |----------|-----------|
+| 🤖🛠️ MANTRA: Enhancing Automated Method-Level Refactoring with Contextual RAG and Multi-Agent LLM Collaboration 🛠️🤖 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7332431506730016768-pTcw/) |
 | 🤖🧠 Thinking Longer, Not Larger: Enhancing Software Engineering Agents via Test-Time Compute | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7312949282171510785-lCw8?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
 | 🤖🏗️ MAAD: Knowledge-Based Multi-Agent Framework for Automated Software Architecture Design | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7311114577998483456-3Qro?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
 | 🤖🧠 Is Multi-Agent Debate (MAD) the Silver Bullet for Software Engineering Tasks? | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7310375159855562752-sRWp?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
