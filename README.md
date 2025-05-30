@@ -56,6 +56,7 @@ Browse our collection by research domain:
 | Research | Post |
 |----------|-----------|
 | 🤖🔐 CRAKEN: Cybersecurity LLM Agent with Knowledge-Based Execution 🔐🤖 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7334069802866565120-ddK_?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
+| 🤖💰 BOUNTYBENCH: Dollar Impact of AI Agent Attackers and Defenders on Real-World Cybersecurity Systems 💰🤖 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7334115105221013505-lPF4?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
 | 🤖🛡️ Security of Internet of Agents: Attacks and Countermeasures 🛡️🤖 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7329902342118502401-0sJL/) |
 | 🤖🛡️ Automating Function-Level TARA for Automotive Full-Lifecycle Security 🛡️🤖 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7329461299447328768-X-f8/) |
 | 🤖🛠️ PatchPilot: A Stable and Cost-Efficient Agentic Patching Framework 🛠️🤖 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7329383229067542531-E8z8/) |
