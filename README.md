@@ -216,3 +216,5 @@ Browse our collection by research domain:
 | ⚡🤖 AutoRAG: Auto Optimization for Retrieval-Augmented Generation | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7285124095141175298--MpQ?utm_source=share&utm_medium=member_desktop&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3Bt7Aty5xXSA%2BfsYiaE0qyIg%3D%3D) |Ig%3D%3D) |
 | ⚡🤖 Search-o1: A Document Reasoning Framework for LLMs | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7285013512454639616-AD_L?utm_source=share&utm_medium=member_desktop&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3Bt7Aty5xXSA%2BfsYiaE0qyIg%3D%3D) |2BfsYiaE0qyIg%3D%3D) |
 
+##
+
