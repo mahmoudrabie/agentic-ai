@@ -116,6 +116,7 @@ Browse our collection by research domain:
 ## 🔬 Research
 | Research | Post |
 |----------|-----------|
+| 🤖🚀 Darwin Godel Machine: Open-Ended Evolution of Self-Improving Agents 🚀🤖 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7335490412465340418-D5yW?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
 | 🤖🌀 Vibe Coding vs. Agentic Coding: Fundamentals and Practical Implications of Agentic AI 🌀🤖 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7333674387876802560-BVxm?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
 | 🤖🔗 Topological Structure Learning Should Be A Research Priority for LLM-Based Multi-Agent Systems 🔗🤖 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7334972751125921792-B9ad?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
 | 🤖📊 AgentRewardBench: Evaluating Automatic Evaluations of Web Agent Trajectories | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7318020890359738368-eGX5?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
@@ -178,8 +179,7 @@ Browse our collection by research domain:
 | Research | Post |
 |----------|-----------|
 | 🤖📡 Agentic Search Engine for Real-Time IoT Data | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7313990608920961024-h6vs?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
-| 🤖🔍 MAS-LSTM: A Multi-Agent LSTM-Based Approach for Scalable Anomaly Detection in IIoT Networks | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7304215837790367744-chNn?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3Bk%2B2n9a50QZ%2BRA9L96DOVUw%3D%3D) || 🤖🔍 MAS-LSTM: A Multi-Agent LSTM-Based Approach for Scalable Anomaly Detection in IIoT Networks | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7304215837790367744-chNn?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3Bk%2B2n9a50QZ%2BRA9L96DOVUw%3D%3D) |
-
+| 🤖🔍 MAS-LSTM: A Multi-Agent LSTM-Based Approach for Scalable Anomaly Detection in IIoT Networks | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7304215837790367744-chNn?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAN
 ## 🤖 Robotics
 | Research | Post |
 |----------|-----------|
@@ -274,7 +274,7 @@ Browse our collection by research domain:
 ## 📡 Networking
 | Research | Post |
 |----------|-----------|
-| 🤖🌐 𝘼𝙜𝙚𝙣𝙩𝘿𝙉𝙎: 𝘼 𝙍𝙤𝙤𝙩 𝘿𝙤𝙢𝙖𝙞𝙣 𝙉𝙖𝙢𝙞𝙣𝙜 𝙎𝙮𝙨𝙩𝙚𝙢 𝙛𝙤𝙧 𝙇𝙇𝙈 𝘼𝙜𝙚𝙣𝙩𝙨 🌐🤖 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7335323067893583873-O4Em?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
+| 🤖🌐 AgentDNS: A Root Domain Naming System for LLM Agents 🌐🤖 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7335323067893583873-O4Em?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
 | 🤖📡 CP-AgentNet: Autonomous & Explainable Communication Protocol Design Using Generative Agents | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7313674777762652162-MQWz?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
 | 🤖📦 Multi-Agent DQN: Deep Reinforcement For Smart Cache Management in CDNs | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7311815309647085568-vEwA?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
 | ⚡📡 Agentic AI meets 6G: The Next Evolution in Networking | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7296221753217843200-K2G1?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3B5PTKEXxESRqMfkTy8OIRZg%3D%3D) |
