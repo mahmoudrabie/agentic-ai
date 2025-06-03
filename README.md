@@ -274,6 +274,7 @@ Browse our collection by research domain:
 ## 📡 Networking
 | Research | Post |
 |----------|-----------|
+| 🤖🌐 𝘼𝙜𝙚𝙣𝙩𝘿𝙉𝙎: 𝘼 𝙍𝙤𝙤𝙩 𝘿𝙤𝙢𝙖𝙞𝙣 𝙉𝙖𝙢𝙞𝙣𝙜 𝙎𝙮𝙨𝙩𝙚𝙢 𝙛𝙤𝙧 𝙇𝙇𝙈 𝘼𝙜𝙚𝙣𝙩𝙨 🌐🤖 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7335323067893583873-O4Em?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
 | 🤖📡 CP-AgentNet: Autonomous & Explainable Communication Protocol Design Using Generative Agents | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7313674777762652162-MQWz?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
 | 🤖📦 Multi-Agent DQN: Deep Reinforcement For Smart Cache Management in CDNs | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7311815309647085568-vEwA?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
 | ⚡📡 Agentic AI meets 6G: The Next Evolution in Networking | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7296221753217843200-K2G1?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3B5PTKEXxESRqMfkTy8OIRZg%3D%3D) |
