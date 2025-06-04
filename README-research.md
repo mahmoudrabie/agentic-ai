@@ -2,6 +2,7 @@
 
 | Research | Post |
 |----------|-----------|
+| 🤖🔬 NovelSeek: When Agent Becomes the Scientist -- Building Closed-Loop System from Hypothesis to Verification 🔬🤖 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7335861608293748737-duOQ) |
 | 🤖🚀 Darwin Godel Machine: Open-Ended Evolution of Self-Improving Agents 🚀🤖 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7335490412465340418-D5yW) |
 | 🤖🌀 Vibe Coding vs. Agentic Coding: Fundamentals and Practical Implications of Agentic AI 🌀🤖 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7333674387876802560-BVxm) |
 | 🤖🔗 Topological Structure Learning Should Be A Research Priority for LLM-Based Multi-Agent Systems 🔗🤖 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7334972751125921792-B9ad) |
