@@ -1,12 +1,5 @@
 # Education Research
 
-This section covers research in AI applications for education, including:
-- Intelligent tutoring systems
-- Personalized learning
-- Educational content generation
-- Student assessment and feedback
-- Learning analytics
-- Virtual and augmented reality in education
-
 | Research | Post |
 |----------|-----------|
+| 🤖🎓 CyberMentor: AI Powered Learning Tool Platform to Address Diverse Student Needs in Cybersecurity Education 🎓🤖 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7331619790534414339-oNS1/) |
