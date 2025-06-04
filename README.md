@@ -48,10 +48,6 @@ Please feel free to:
 
 Together, we can keep this knowledge hub comprehensive and current.
 
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE) - see the LICENSE file for details.
-
 ## 👤 Author
 
 **Mahmoud Rabie**
