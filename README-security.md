@@ -1,0 +1,19 @@
+# 🛡️ Security
+
+| Research | Post |
+|----------|-----------|
+| 🤖🔐 CRAKEN: Cybersecurity LLM Agent with Knowledge-Based Execution 🔐🤖 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7334069802866565120-ddK_) |
+| 🤖💰 BOUNTYBENCH: Dollar Impact of AI Agent Attackers and Defenders on Real-World Cybersecurity Systems 💰🤖 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7334115105221013505-lPF4) |
+| 🤖🛡️ D-CIPHER: Dynamic Collaborative Intelligent Multi-Agent System with Planner & Heterogeneous Executors for Offensive Security 🛡️🤖 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7334517393165115392-C4E9) |
+| 🤖🔍 Automating Security Audit Using Large Language Model-Based Agents 🔍🤖 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7334454844688162816-B0-U) |
+| 🤖⚔️ Dynamic Risk Assesments for Offensive Cybersecurity Agents ⚔️🤖 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7333873508826935298-IoLa) |
+| 🤖🛡️ Security of Internet of Agents: Attacks and Countermeasures 🛡️🤖 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7329902342118502401-0sJL/) |
+| 🤖🛡️ Automating Function-Level TARA for Automotive Full-Lifecycle Security 🛡️🤖 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7329461299447328768-X-f8/) |
+| 🤖🛠️ PatchPilot: A Stable and Cost-Efficient Agentic Patching Framework 🛠️🤖 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7329383229067542531-E8z8/) |
+| 🤖🛡️ DoomArena: A Framework for Testing AI Agents Against Evolving Security Threats | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7320879140448956417-0waZ) |
+| 🤖⚠️ Achilles Heel of Distributed Multi-Agent Systems | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7316730141072617472-kMAC) |
+| 🤖🛠️ Agent That Debugs: Dynamic State-Guided Vulnerability Repair | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7316579142802530304-Yiuj) |
+| 🤖🔒🛜 RESTRAIN: Reinforcement Learning-Based Secure Framework for Trigger-Action IoT Environment | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7312141079275868160-MwxW) |
+| 🤖🗣️ SANDMAN: Inducing Personality in LLM-Based Honeypot Agents for Human-Like Agenda Generation | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7311853205989081088-8Rlm) |
+| 🛡️🤖 SafeMate: A Model Context Protocol-Based Multimodal Agent for Emergency Preparedness 🛡️🤖 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7325606858587561986-jnlG) |
+| 🤖🛡️ Multi-Agent Framework for Automated Security Testing | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7299832383447470080-keTb) |
