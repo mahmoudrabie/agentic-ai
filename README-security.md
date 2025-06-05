@@ -2,6 +2,7 @@
 
 | Research | Post |
 |----------|-----------|
+| 🤖🔒 TRiSM for Agentic AI: A Review of Trust, Risk, and Security Management in LLM-based Agentic Multi-Agent Systems 🔒🤖 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7336382913279680514-KEdW) |
 | 🤖🔐 CRAKEN: Cybersecurity LLM Agent with Knowledge-Based Execution 🔐🤖 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7334069802866565120-ddK_) |
 | 🤖💰 BOUNTYBENCH: Dollar Impact of AI Agent Attackers and Defenders on Real-World Cybersecurity Systems 💰🤖 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7334115105221013505-lPF4) |
 | 🤖🛡️ D-CIPHER: Dynamic Collaborative Intelligent Multi-Agent System with Planner & Heterogeneous Executors for Offensive Security 🛡️🤖 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7334517393165115392-C4E9) |
