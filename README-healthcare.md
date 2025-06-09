@@ -2,6 +2,7 @@
 
 | Research | Post |
 |----------|-----------|
+| 🤖🔬 CellVoyager: AI CompBio Agent Generates New Insights by Autonomously Analyzing Biological Data 🔬🤖 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7337912663026380800-lNB9) |
 | 🤖🩻 CBM-RAG: Enhanced Interpretability in Radiology Report Generation with Multi-Agent RAG and Concept Bottleneck Models 🩻🤖 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7330649771751174144-odBT/) |
 | 🤖🩺 Multi-Modal Explainable Medical AI Assistant for Trustworthy Human-AI Collaboration 🩺🤖 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7328850071960162306-zeE0/) |
 | 🤖🧠 EmoAgent: Assessing and Safeguarding Human-AI Interaction for Mental Health Safety | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7318011064556642304-WS9J) |
