@@ -2,6 +2,7 @@
 
 | Research | Post |
 |----------|-----------|
+| 🤖🛡️ Agent Security Bench (ASB): Formalizing and Benchmarking Attacks and Defences in LLM-based Agents 🛡️🤖 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7337768622951432193-xNGC) |
 | 🤖🔍 CyberGym: Evaluating AI Agents' Cybersecurity Capabilities with Real-World Vulnerabilities at Scale 🔍🤖 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7337067353534357504-OJcJ) |
 | 🤖🔒 Comprehensive Vulnerability Analysis is Necessary for Trustworthy LLM-MAS 🔍🤖 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7336761341468155905-KnuW) |
 | 🤖🔒 TRiSM for Agentic AI: A Review of Trust, Risk, and Security Management in LLM-based Agentic Multi-Agent Systems 🔒🤖 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7336382913279680514-KEdW) |
