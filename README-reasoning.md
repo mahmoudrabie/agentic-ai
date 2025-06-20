@@ -2,6 +2,7 @@
 
 | Research | Post |
 |----------|-----------|
+| 🤖🎞️ VideoMind: A Chain-of-LoRA Agent for Long Video Reasoning 🎞️🤖 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7341903892609191938-D-B1) |
 | 🤖🧠 Minimizing Hallucinations in LLM-Based Multi-Agent Systems with Debate & Voting | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7311560779172864000-TxZh) |
 | 🤖💾 Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory 💾🤖 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7331027254552014849-od4s/) |
 | 🤖🌐 Internet of Agents: Fundamentals, Applications, and Challenges 🌐🤖 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7330279828799045634-KTO6/) |
