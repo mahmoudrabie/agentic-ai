@@ -2,6 +2,7 @@
 
 | Research | Post |
 |----------|-----------|
+| 🤖💻 Paper2Code: Automating Code Generation from Scientific Papers in Machine Learning 💻🤖 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7341925691350765569-GZws) |
 | 🤖🧪 Agent Laboratory: Using LLM Agents as Research Assistants 🧪🤖 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7341879198770262017-xGtB) |
 | 🤖🧠 AUTOMIND: Adaptive Knowledgeable Agent for Automated Data Science 🧠🤖 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7339192268714565635-9gB3) |
 | 🤖🔬 NovelSeek: When Agent Becomes the Scientist -- Building Closed-Loop System from Hypothesis to Verification 🔬🤖 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7335861608293748737-duOQ) |
