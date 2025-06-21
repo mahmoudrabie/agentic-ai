@@ -2,6 +2,7 @@
 
 | Research | Post |
 |----------|-----------|
+| 🖼️🤖 Paper2Poster: Towards Multimodal Poster Automation from Scientific Papers 🤖🖼️ | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7342098802377383936-Ti6q) |
 | 🤖🧪 AI-Researcher: Autonomous Scientific Innovation 🧪🤖 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7341934848271335424-SgOz) |
 | 🤖💻 Paper2Code: Automating Code Generation from Scientific Papers in Machine Learning 💻🤖 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7341925691350765569-GZws) |
 | 🤖🧪 Agent Laboratory: Using LLM Agents as Research Assistants 🧪🤖 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7341879198770262017-xGtB) |
