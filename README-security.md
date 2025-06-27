@@ -2,6 +2,11 @@
 
 | Research | Post |
 |----------|-----------|
+| 🤖🛡️ DRIFT: Dynamic Rule-Based Defense with Injection Isolation for Securing LLM Agents 🛡️🤖 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7344398966941220864-w7dw) |
+| 🤖🛡️ RAS-Eval: A Comprehensive Benchmark for Security Evaluation of LLM Agents in Real-World Environments 🛡️🤖 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7344309659442282496-lfXB) | Security
+
+| Research | Post |
+|----------|-----------|
 | 🤖�️ RAS-Eval: A Comprehensive Benchmark for Security Evaluation of LLM Agents in Real-World Environments 🛡️🤖 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7344309659442282496-lfXB) |
 | 🤖�🛠️ Specification and Evaluation of Multi-Agent LLM Systems – Prototype and Cybersecurity Applications 🛠️🤖 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7339208952275963906-6jJj) |
 | 🤖🛡️ Agent Security Bench (ASB): Formalizing and Benchmarking Attacks and Defences in LLM-based Agents 🛡️🤖 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7337768622951432193-xNGC) |
