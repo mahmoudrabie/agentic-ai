@@ -2,6 +2,7 @@
 
 | Research | Post |
 |----------|-----------|
+| 🤖🔍 Decoupled Planning and Execution: A Hierarchical Reasoning Framework for Deep Search 🔍🤖 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7347738518816751616-eHcx) |
 | 🤖🌐 Mind2Web 2: Evaluating Agentic Search with Agent-as-a-Judge 🌐🤖 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7345265937408765952-65OW) |
 | 🖼️🤖 Paper2Poster: Towards Multimodal Poster Automation from Scientific Papers 🤖🖼️ | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7342098802377383936-Ti6q) |
 | 🤖🧪 AI-Researcher: Autonomous Scientific Innovation 🧪🤖 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7341934848271335424-SgOz) |
