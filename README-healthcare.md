@@ -2,6 +2,7 @@
 
 | Research | Post |
 |----------|-----------|
+| 🤖🩺 KERAP: Knowledge-Enhanced Reasoning for Zero-Shot Medical Diagnosis 🩺🤖 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7348056953564139520-glgh) |
 | 🤖🔬 CellVoyager: AI CompBio Agent Generates New Insights by Autonomously Analyzing Biological Data 🔬🤖 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7337912663026380800-lNB9) |
 | 🤖🩻 CBM-RAG: Enhanced Interpretability in Radiology Report Generation with Multi-Agent RAG and Concept Bottleneck Models 🩻🤖 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7330649771751174144-odBT/) |
 | 🤖🩺 Multi-Modal Explainable Medical AI Assistant for Trustworthy Human-AI Collaboration 🩺🤖 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7328850071960162306-zeE0/) |
