@@ -2,6 +2,7 @@
 
 | Research | Post |
 |----------|-----------|
+| 🤖📊 MCPEval: Automatic MCP-based Deep Evaluation for AI Agent Models 📊🤖 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7352304136161275904-N2Ug) |
 | 🔗🤖 Mod-X: A Modular Open Decentralized eXchange Framework for Heterogeneous Interoperable AI Agents 🔗🤖 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7349298979911647233-T8-c) |
 | 💾🤖 Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory 💾🤖 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7331027254552014849-od4s/) |
 | 🤖🌐 Internet of Agents: Fundamentals, Applications, and Challenges 🌐🤖 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7330279828799045634-KTO6/) |
