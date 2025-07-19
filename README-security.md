@@ -2,7 +2,7 @@
 
 | Research | Post |
 |----------|-----------|
-| 🤖� ARPaCCino: An Agentic-RAG for Policy as Code Compliance 🔒🤖 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7352244057437298708-JHWi) |
+| 🤖🔒 ARPaCCino: An Agentic-RAG for Policy as Code Compliance 🔒🤖 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7352244057437298708-JHWi) |
 | 🤖�🛡️ SEC-bench: Automated Benchmarking of LLM Agents on Real-World Software Security Tasks 🔧🤖 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7344405062049226752-MFih) |
 | 🤖🛡️ DRIFT: Dynamic Rule-Based Defense with Injection Isolation for Securing LLM Agents 🛡️🤖 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7344398966941220864-w7dw) |
 | 🤖🛡️ RAS-Eval: A Comprehensive Benchmark for Security Evaluation of LLM Agents in Real-World Environments 🛡️🤖 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7344309659442282496-lfXB) |
