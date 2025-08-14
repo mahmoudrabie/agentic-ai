@@ -2,6 +2,7 @@
 
 | Research | Post |
 |----------|-----------|
+| 🤖🔎🌐 WebWatcher: A Multimodal Deep-Research Agent for Vision+Language 🌐🔎🤖 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7361823546127376386-OnTD) |
 | 🤖🧭⚙️ TURA: Tool-Augmented Unified Retrieval Agent for AI Search ⚙️🧭🤖 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7359954145748905984-rroO) |
 | 🤖🔍✨ MLE-STAR: Machine Learning Engineering Agent via Search and Targeted Refinement ✨🔍🤖 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrarchitects-activity-7357409602868494336-7rey) |
 | 🤖🔍 Decoupled Planning and Execution: A Hierarchical Reasoning Framework for Deep Search 🔍🤖 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7347738518816751616-eHcx) |
