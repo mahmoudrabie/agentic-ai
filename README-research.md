@@ -2,7 +2,7 @@
 
 | Research | Post |
 |----------|-----------|
-| 🤖🔎🌐 𝘽𝙚𝙮𝙤𝙣𝙙 𝙏𝙚𝙣 𝙏𝙪𝙧𝙣𝙨: 𝙐𝙣𝙡𝙤𝙘𝙠𝙞𝙣𝙜 𝙇𝙤𝙣𝙜-𝙃𝙤𝙧𝙞𝙯𝙤𝙣 𝘼𝙜𝙚𝙣𝙩𝙞𝙘 𝙎𝙚𝙖𝙧𝙘𝙝 𝙬𝙞𝙩𝙝 𝙇𝙖𝙧𝙜𝙚-𝙎𝙘𝙖𝙡𝙚 𝘼𝙨𝙮𝙣𝙘 𝙍𝙇 🌐🔎🤖 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7361829827546406913-Jc22?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
+| 🤖🔎🌐 Beyond Ten Turns: Unlocking Long-Horizon Agentic Search with Large-Scale Async RL 🌐🔎🤖 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7361829827546406913-Jc22?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
 | 🤖🔎🌐 WebWatcher: A Multimodal Deep-Research Agent for Vision+Language 🌐🔎🤖 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7361823546127376386-OnTD) |
 | 🤖🧭⚙️ TURA: Tool-Augmented Unified Retrieval Agent for AI Search ⚙️🧭🤖 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7359954145748905984-rroO) |
 | 🤖🔍✨ MLE-STAR: Machine Learning Engineering Agent via Search and Targeted Refinement ✨🔍🤖 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrarchitects-activity-7357409602868494336-7rey) |
