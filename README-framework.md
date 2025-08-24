@@ -2,6 +2,7 @@
 
 | Research | Post |
 |----------|-----------|
+| 🤖⚖️ Auto-Eval Judge: A General Agent-as-a-Judge Framework for Task Completion ⚖️🤖 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7365408802487042048-vS5h?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
 | 🤖🌐 Salesforce MCP-Universe: A Real-World Benchmark for LLM Agents on Model Context Protocol (MCP) 🌐🤖 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7364660589547208705-fNCp?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
 | 🤖�🧬 Self-Evolving AI Agents: A New Paradigm Bridging Foundation Models & Lifelong Agentic Systems 🧬🔁🤖 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7365001116536791040-gZG8?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
 | 🤖�📊 MCPEval: Automatic MCP-based Deep Evaluation for AI Agent Models 📊🤖 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7352304136161275904-N2Ug) |
