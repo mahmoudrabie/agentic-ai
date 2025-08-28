@@ -2,6 +2,7 @@
 
 | Research | Post |
 |----------|-----------|
+| 🤖🛡️ ExCyTIn-Bench: Evaluating LLM Agents on Cyber Threat Investigation 🛡️🤖 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7355299609734184961-a89J?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
 | 🤖🛡️🔧 Cyber-Zero: Training Cybersecurity Agents Without Runtime 🔧🛡️🤖 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabrsecurityabrresearchers-activity-7359656267293913090-6s8I) |
 | 🤖🛡️🧪 ASTRA: Autonomous Spatial-Temporal Red-teaming for AI Software Assistants 🧪🛡️🤖 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabrsecurityabrresearchers-activity-7359644442233860096-MjZH?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
 | 🤖 Agent Safety Alignment via Reinforcement Learning 🛡️🤖 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7352261143169519616-eRtw) |
