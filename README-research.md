@@ -2,6 +2,7 @@
 
 | Research | Post |
 |----------|-----------|
+| 🤖🔎 Universal Deep Research: Bring Your Own Model and Strategy 🔎🤖 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7370516104877682688-HIY8?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
 | 🤖🔎🌐 Beyond Ten Turns: Unlocking Long-Horizon Agentic Search with Large-Scale Async RL 🌐🔎🤖 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7361829827546406913-Jc22?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
 | 🤖🔎🌐 WebWatcher: A Multimodal Deep-Research Agent for Vision+Language 🌐🔎🤖 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7361823546127376386-OnTD) |
 | 🤖🧭⚙️ TURA: Tool-Augmented Unified Retrieval Agent for AI Search ⚙️🧭🤖 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7359954145748905984-rroO) |
