@@ -2,6 +2,7 @@
 
 | Research | Post |
 |----------|-----------|
+| 🤖🏆 Agentic Reward Modeling: Integrating Human Preferences with Verifiable Correctness Signals | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7302769863830233089-7nG6) |
 | 🤖�️ ConvoGen: Enhancing Conversational AI with Synthetic Data and Multi-Agent Collaboration | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7311838154292916224-EB-q) |
 | 🤖�🔎 WebResearcher: Unleashing unbounded reasoning capability in Long-Horizon Agents 🔎🤖 | [Link](https://lnkd.in/p/ecDu9bcN) |
 | 🤖🔎 SFR-DeepResearch: Towards Effective Reinforcement Learning for Autonomously Reasoning Single Agents 🔎🤖 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7372714437260181504-fSLY?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
