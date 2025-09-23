@@ -1,4 +1,0 @@
-# 🔄 Reinforcement Learning
-
-| Research | Post |
-|----------|-----------|
