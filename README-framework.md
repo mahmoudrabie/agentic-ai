@@ -2,7 +2,8 @@
 
 | Research | Post |
 |----------|-----------|
-| 🤖🌍 Towards General Agentic Intelligence via Environment Scaling 🌍🤖 | [Link](https://lnkd.in/p/d3i_v9EE) |
+| � LiveMCP-101: Stress Testing and Diagnosing MCP-enabled Agents on Challenging Queries 🧰🧪 | [Link](https://lnkd.in/p/deKqWTwv) |
+| �🤖🌍 Towards General Agentic Intelligence via Environment Scaling 🌍🤖 | [Link](https://lnkd.in/p/d3i_v9EE) |
 | 🤖🔧🌐 MCP-Bench: A Benchmark for Tool-Using LLM Agents on Real-World MCP Servers 🌐🔧🤖 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7368364734833659905-YIeb?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
 | 🤖⚖️ Auto-Eval Judge: A General Agent-as-a-Judge Framework for Task Completion ⚖️🤖 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7365408802487042048-vS5h?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
 | 🤖🌐 Salesforce MCP-Universe: A Real-World Benchmark for LLM Agents on Model Context Protocol (MCP) 🌐🤖 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7364660589547208705-fNCp?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
