@@ -26,7 +26,7 @@ Browse our collection by research domain:
 | [👁️ Vision](README-vision.md) | [💻 Software Engineering](README-software-engineering.md) | [🎮 Gaming](README-gaming.md) | [📦 Supply Chain](README-supply-chain.md) |
 | [🤖 Foundation Models](README-foundation-models.md) | [📐 Design](README-design.md) | [🧪 Testing](README-testing.md) | [🔌 IoT](README-iot.md) |
 | [🤖 Robotics](README-robotics.md) | [🏆 Reward Modeling](README-reward-modeling.md) | [📊 Visualization](README-visualization.md) | [⚙️ Framework](README-framework.md) |
-| [📋 Planning](README-planning.md) | [🎯 Recommendation](README-recommendation.md) | [🔄 Reinforcement Learning](README-reinforcement-learning.md) | [🔧 Hardware Design](README-hardware-design.md) |
+| [📋 Planning](README-planning.md) | [🎯 Recommendation](README-recommendation.md) | [🌆 Smart Cities](README-smart-cities.md) | [🔧 Hardware Design](README-hardware-design.md) |
 | [⚡ Automation](README-automation.md) | [🔄 Multimodal](README-multimodal.md) | [🌆 Smart Cities](README-smart-cities.md) | [🚦 Transportation](README-transportation.md) |
 | [⛓️ Blockchain](README-blockchain.md) | [📡 Networking](README-networking.md) | [⚖️ Ethics and Safety](README-ethics-and-safety.md) | [🎓 Education](README-education.md) |
 
