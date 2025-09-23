@@ -2,7 +2,8 @@
 
 | Research | Post |
 |----------|-----------|
-| 🤖🔎 WebResearcher: Unleashing unbounded reasoning capability in Long-Horizon Agents 🔎🤖 | [Link](https://lnkd.in/p/ecDu9bcN) |
+| 🤖�️ ConvoGen: Enhancing Conversational AI with Synthetic Data and Multi-Agent Collaboration | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7311838154292916224-EB-q) |
+| 🤖�🔎 WebResearcher: Unleashing unbounded reasoning capability in Long-Horizon Agents 🔎🤖 | [Link](https://lnkd.in/p/ecDu9bcN) |
 | 🤖🔎 SFR-DeepResearch: Towards Effective Reinforcement Learning for Autonomously Reasoning Single Agents 🔎🤖 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7372714437260181504-fSLY?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
 | 🤖🔎 Universal Deep Research: Bring Your Own Model and Strategy 🔎🤖 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7370516104877682688-HIY8?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
 | 🤖🔎🌐 Beyond Ten Turns: Unlocking Long-Horizon Agentic Search with Large-Scale Async RL 🌐🔎🤖 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7361829827546406913-Jc22?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
