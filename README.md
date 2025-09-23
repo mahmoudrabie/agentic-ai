@@ -14,7 +14,7 @@
 
 ## 🌟 Overview
 
-A curated knowledge hub on Agentic AI, featuring the best projects, research, and resources. This repository serves as a comprehensive collection of cutting-edge advancements across 25+ specialized domains—from Healthcare and Reasoning to Security and Ethics. Each section provides direct links to detailed LinkedIn posts offering insights into autonomous AI systems and their real-world applications.
+A curated knowledge hub on Agentic AI, featuring the best projects, research, and resources. This repository currently spans 24 specialized domains—from Healthcare, Vision, and Software Engineering to Security, Robotics, Ethics & Safety, and more. Each domain page links to focused posts and references that highlight practical agentic techniques, frameworks, and real-world applications.
 
 ## 📚 Research Fields
 
