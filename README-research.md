@@ -2,6 +2,7 @@
 
 | Research | Post |
 |----------|-----------|
+| 🤖📄 Paper2Agent: Reimagining Research Papers As Interactive and Reliable AI Agents 📄🤖 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7377001444182351872-N6Tf?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
 | 🤖🏆 Agentic Reward Modeling: Integrating Human Preferences with Verifiable Correctness Signals | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7302769863830233089-7nG6) |
 | 🤖�️ ConvoGen: Enhancing Conversational AI with Synthetic Data and Multi-Agent Collaboration | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7311838154292916224-EB-q) |
 | 🤖🔎 Universal Deep Research: Bring Your Own Model and Strategy 🔎🤖 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7370516104877682688-HIY8?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
