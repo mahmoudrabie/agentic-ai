@@ -2,7 +2,8 @@
 
 | Research | Post |
 |----------|-----------|
-| 🛡️🔍 A Survey on Agentic Security: Applications, Threats and Defenses 🔍🛡️ | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7383187212823097344-WWo2?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
+| 🛡️� LLM-driven Provenance Forensics for Threat Investigation and Detection 🔎🛡️ | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7384306059810619393-3H7k?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
+| 🛡️�🔍 A Survey on Agentic Security: Applications, Threats and Defenses 🔍🛡️ | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7383187212823097344-WWo2?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
 | 🤖🥷🛡️ Cybersecurity AI - Hacking the AI Hackers via Prompt Injection 🛡️🥷🤖 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7369399382938484739-MpQF?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
 | 🤖🛡️🌐 NetMoniAI: Agentic AI for Real-Time Network Security & Monitoring 🌐🛡️🤖 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7369065475055452161-OMCK?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
 | 🤖🛡️ ExCyTIn-Bench: Evaluating LLM Agents on Cyber Threat Investigation 🛡️🤖 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7355299609734184961-a89J?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
