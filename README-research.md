@@ -2,6 +2,7 @@
 
 | Research | Post |
 |----------|-----------|
+| 🧪🔬 Hypothesis Hunting with Evolving Networks of Autonomous Scientific Agents 🔬🧪 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7387423925321891840-W6Ql?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
 | �📊 DeepAnalyze: Agentic Large Language Models for Autonomous Data Science 📊🤖 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7387174217659805697-gu1y?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
 | �🧪👓🤝 LabOS: The AI-XR Co-Scientist That Sees and Works With Humans 🤝👓🧪 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7386836724464812032-Vih6?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
 | 🎧🗣 Overhearing LLM Agents: A Survey, Taxonomy, and Roadmap 🗣🎧 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7378459833210945536-xyvZ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
