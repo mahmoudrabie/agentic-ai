@@ -2,6 +2,7 @@
 
 | Research | Post |
 |----------|-----------|
+| 🤖⚡ WHERE LLM AGENTS FAIL AND HOW THEY CAN LEARN FROM FAILURES ⚡🤖 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7387774581232668672-99rD?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
 | 💻🔐 Benchmarking Correctness and Security in Multi-Turn Code Generation 🔐💻 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-share-7385729701484503040-RHDG?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
 | 🌐 ARE: scaling up agent environments and evaluations 🌐🤖 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7380689397165473792-yA2g?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
 | 🧰 LiveMCP-101: Stress Testing and Diagnosing MCP-enabled Agents on Challenging Queries 🧰🧪 | [Link](https://lnkd.in/p/deKqWTwv) |
