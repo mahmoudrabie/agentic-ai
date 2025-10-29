@@ -2,6 +2,7 @@
 
 | Research | Post |
 |----------|-----------|
+| 🎬📚 Paper2Video: Automatic Video Generation from Scientific Papers 📚🎬 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7389344664245489664-4waj?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
 | 🧪🧬 An Encoder-Decoder Foundation Chemical Language Model for Generative Polymer Design 🧬🧪 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7387187521333481472-nQdU?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
 | 🧪🔬 Hypothesis Hunting with Evolving Networks of Autonomous Scientific Agents 🔬🧪 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7387423925321891840-W6Ql?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
 | 📊 DeepAnalyze: Agentic Large Language Models for Autonomous Data Science 📊🤖 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7387174217659805697-gu1y?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
