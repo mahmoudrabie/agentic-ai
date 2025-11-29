@@ -15,3 +15,4 @@
 | 🤖♟️ SPIN-Bench: Testing LLMs in Strategic Planning and Social Reasoning | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7307655716972949522-Sjp-) |
 | 🤖🩺 MedR-Bench: Quantifying The Reasoning Abilities of LLMs on Real-world Clinical Cases | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7304225248403456000-7bHA) |
 | 🤖🔎 WebResearcher: Unleashing unbounded reasoning capability in Long-Horizon Agents 🔎🤖 | [Link](https://lnkd.in/p/ecDu9bcN) |
+| 🧠🤝 Latent Collaboration in Multi-Agent Systems 🤝🧠 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7400458951923847168-8KUG?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
