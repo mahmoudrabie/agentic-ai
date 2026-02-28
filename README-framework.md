@@ -2,6 +2,7 @@
 
 | Research | Post |
 |----------|-----------|
+| 🧠🩻 Anatomy of Agentic Memory: Taxonomy and Empirical Analysis of Evaluation and System Limitations 🩻🧠 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7433594433977274368-nXPl?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
 | 🧠 Benchmarking Agent Memory in Interdependent Multi-Session Agentic Tasks 🧠 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7431920669245894656-R8DQ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
 | 🤖🧪 Scaling Agent Learning via Experience Synthesis 🧪🤖 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7393332288606060544-vOV5?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
 | 🤖🛠 Don't Just Fine-tune the Agent, Tune the Environment 🛠🤖 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7384643474148593664-WSqC?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
