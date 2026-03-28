@@ -2,6 +2,7 @@
 
 | Research | Post |
 |----------|-----------|
+| 🔎🧪 Dr. Zero: Self-Evolving Search Agents without Training Data 🧪🔎 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7417963670715949057-bcW9?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
 | 🧠 ClawInstitute: A Research Exchange for AI Scientists | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7439595936936308736-6X03?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
 | 🗺♿ StreetReaderAI: Making Street View Accessible Using Context-Aware Multimodal AI ♿🗺 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7389704395686297601-jeLT?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
 | 🎬📚 Paper2Video: Automatic Video Generation from Scientific Papers 📚🎬 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7389344664245489664-4waj?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
