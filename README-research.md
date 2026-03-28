@@ -2,6 +2,7 @@
 
 | Research | Post |
 |----------|-----------|
+| 🧠 ClawInstitute: A Research Exchange for AI Scientists | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7439595936936308736-6X03?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
 | 🗺♿ StreetReaderAI: Making Street View Accessible Using Context-Aware Multimodal AI ♿🗺 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7389704395686297601-jeLT?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
 | 🎬📚 Paper2Video: Automatic Video Generation from Scientific Papers 📚🎬 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7389344664245489664-4waj?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
 | 🧪🧬 An Encoder-Decoder Foundation Chemical Language Model for Generative Polymer Design 🧬🧪 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7387187521333481472-nQdU?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
