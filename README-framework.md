@@ -2,6 +2,7 @@
 
 | Research | Post |
 |----------|-----------|
+| 🤖🧠 Agent0: Unleashing Self-Evolving Agents from Zero Data via Tool-Integrated Reasoning 🧠🤖 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7398328064138579968-lJ37?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
 | 🧠 Scaling Agentic Capabilities, Not Context: Efficient Reinforcement Finetuning for Large Toolspaces ⚙ | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7440014928196812800-NJbf?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
 | 🦞🧠 MetaClaw: Just Talk - An Agent That Meta-Learns and Evolves in the Wild 🧠🦞 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7440756786980220928-mjAB/?utm_source=share&utm_medium=member_android&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
 | 🧠🏢 ENTERPRISEOPS-GYM: Environments and Evaluations for Stateful Agentic Planning and Tool Use in Enterprise Settings 🏢🧠 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7440344698923245568-YWLw?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
