@@ -20,14 +20,63 @@ A curated knowledge hub on Agentic AI, featuring the best projects, research, an
 
 Browse our collection by research domain:
 
-| Domain | Domain | Domain | Domain |
-|--------|--------|--------|--------|
-| [💊 Healthcare](README-healthcare.md) | [🛡️ Security](README-security.md) | [🔬 Research](README-research.md) | [🎓 Education](README-education.md) |
-| [👁️ Vision](README-vision.md) | [💻 Software Engineering](README-software-engineering.md) | [🎮 Gaming](README-gaming.md) | [📦 Supply Chain](README-supply-chain.md) |
-| [🤖 Foundation Models](README-foundation-models.md) | [📐 Design](README-design.md) | [🧪 Testing](README-testing.md) | [🏭 OT/IoT](README-iot.md) |
-| [🤖 Robotics](README-robotics.md) | [⚡ Automation](README-automation.md) | [⚙️ Framework](README-framework.md) | [📋 Planning](README-planning.md) |
-| [🎯 Recommendation](README-recommendation.md) | [🌆 Smart Cities](README-smart-cities.md) | [🔧 Hardware Design](README-hardware-design.md) | [⛓️ Blockchain](README-blockchain.md) |
-| [📡 Networking](README-networking.md) | [🚦 Transportation](README-transportation.md) | [⚖️ Ethics and Safety](README-ethics-and-safety.md) | [🧠 Reasoning](README-reasoning.md) |
+(( 𝑪𝒐𝒓𝒆 𝑨𝑰 & 𝑪𝒐𝒈𝒏𝒊𝒕𝒊𝒐𝒏 ))
+
+[🤖 Foundation Models](README-foundation-models.md): Scaling agentic abilities and transfer learning.
+
+[🧠 Reasoning](README-reasoning.md): Logic-based inference and cognitive architectures.
+
+[📋 Planning](README-planning.md): Multi-step decision making and goal assignment.
+
+[👁️ Vision](README-vision.md): Visual perception and spatial reasoning.
+
+[🎯 Recommendation](README-recommendation.md): Personalized, proactive content discovery.
+
+(( 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓𝒊𝒏𝒈, 𝑫𝒆𝒗𝑻𝒐𝒐𝒍𝒔 & 𝑭𝒓𝒂𝒎𝒆𝒘𝒐𝒓𝒌𝒔 ))
+
+[💻 Software Engineering](README-software-engineering.md): AI coding, bug detection, and refactoring.
+
+[🧪 Testing](README-testing.md): Automated quality assurance and performance metrics.
+
+[⚙️ Framework](README-framework.md): Development tools and orchestration platforms.
+
+[⚡ Automation](README-automation.md): Process optimization and efficient workflows.
+
+(( 𝑨𝒑𝒑𝒍𝒊𝒆𝒅 𝑰𝒏𝒅𝒖𝒔𝒕𝒓𝒚 & 𝑪𝒊𝒗𝒊𝒄 𝑫𝒐𝒎𝒂𝒊𝒏𝒔 ))
+
+[💊 Healthcare](README-healthcare.md): Autonomous medical agents and diagnostic systems.
+
+[🛡️ Security](README-security.md): Autonomous defense and threat detection.
+
+[🏭 OT/IoT](README-iot.md): Smart manufacturing and dynamic control.
+
+[🌆 Smart Cities](README-smart-cities.md): Urban management and resource allocation.
+
+[🚦 Transportation](README-transportation.md): Autonomous vehicles and fleet management.
+
+[📦 Supply Chain](README-supply-chain.md): Dynamic routing and inventory optimization.
+
+(( 𝑯𝒂𝒓𝒅𝒘𝒂𝒓𝒆, 𝑷𝒉𝒚𝒔𝒊𝒄𝒂𝒍 𝑺𝒚𝒔𝒕𝒆𝒎𝒔 & 𝑵𝒆𝒕𝒘𝒐𝒓𝒌𝒔 ))
+
+[🤖 Robotics](README-robotics.md): Manipulation, path planning, and human-robot interaction.
+
+[🔧 Hardware Design](README-hardware-design.md): Architecture optimization and circuit layout.
+
+[📐 Design](README-design.md): Generative design and aesthetic optimization.
+
+[📡 Networking](README-networking.md): Self-healing networks and dynamic routing.
+
+[⛓️ Blockchain](README-blockchain.md): Decentralized agents and secure transactions.
+
+(( 𝑺𝒑𝒆𝒄𝒊𝒂𝒍𝒊𝒛𝒆𝒅 𝑬𝒄𝒐𝒔𝒚𝒔𝒕𝒆𝒎𝒔, 𝑳𝒆𝒂𝒓𝒏𝒊𝒏𝒈 & 𝑬𝒕𝒉𝒊𝒄𝒔 ))
+
+[🔬 Research](README-research.md): New methodologies and cutting-edge papers.
+
+[🎓 Education](README-education.md): Tutoring systems and personalized learning.
+
+[🎮 Gaming](README-gaming.md): Intelligent NPCs and procedural content creation.
+
+[⚖️ Ethics and Safety](README-ethics-and-safety.md): Value alignment, robustness, and legal considerations.
 
 ## 🤝 Contributing
 
