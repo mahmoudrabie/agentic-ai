@@ -16,11 +16,9 @@
 
 A curated knowledge hub on Agentic AI, featuring the best projects, research, and resources. This repository currently spans 24 specialized domains—from Healthcare, Vision, and Software Engineering to Security, Robotics, Ethics & Safety, and more. Each domain page links to focused posts and references that highlight practical agentic techniques, frameworks, and real-world applications.
 
-## 📚 Research Fields
-
 Browse our collection by research domain:
 
-(( 𝑪𝒐𝒓𝒆 𝑨𝑰 & 𝑪𝒐𝒈𝒏𝒊𝒕𝒊𝒐𝒏 ))
+## 🧠 Core AI & Cognition
 
 [🤖 Foundation Models](README-foundation-models.md): Scaling agentic abilities and transfer learning.
 
@@ -32,7 +30,7 @@ Browse our collection by research domain:
 
 [🎯 Recommendation](README-recommendation.md): Personalized, proactive content discovery.
 
-(( 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓𝒊𝒏𝒈, 𝑫𝒆𝒗𝑻𝒐𝒐𝒍𝒔 & 𝑭𝒓𝒂𝒎𝒆𝒘𝒐𝒓𝒌𝒔 ))
+## 🛠️ Engineering, DevTools & Frameworks
 
 [💻 Software Engineering](README-software-engineering.md): AI coding, bug detection, and refactoring.
 
@@ -42,7 +40,7 @@ Browse our collection by research domain:
 
 [⚡ Automation](README-automation.md): Process optimization and efficient workflows.
 
-(( 𝑨𝒑𝒑𝒍𝒊𝒆𝒅 𝑰𝒏𝒅𝒖𝒔𝒕𝒓𝒚 & 𝑪𝒊𝒗𝒊𝒄 𝑫𝒐𝒎𝒂𝒊𝒏𝒔 ))
+## 🌍 Applied Industry & Civic Domains
 
 [💊 Healthcare](README-healthcare.md): Autonomous medical agents and diagnostic systems.
 
@@ -56,7 +54,7 @@ Browse our collection by research domain:
 
 [📦 Supply Chain](README-supply-chain.md): Dynamic routing and inventory optimization.
 
-(( 𝑯𝒂𝒓𝒅𝒘𝒂𝒓𝒆, 𝑷𝒉𝒚𝒔𝒊𝒄𝒂𝒍 𝑺𝒚𝒔𝒕𝒆𝒎𝒔 & 𝑵𝒆𝒕𝒘𝒐𝒓𝒌𝒔 ))
+## 🤖 Hardware, Physical Systems & Networks
 
 [🤖 Robotics](README-robotics.md): Manipulation, path planning, and human-robot interaction.
 
@@ -68,7 +66,7 @@ Browse our collection by research domain:
 
 [⛓️ Blockchain](README-blockchain.md): Decentralized agents and secure transactions.
 
-(( 𝑺𝒑𝒆𝒄𝒊𝒂𝒍𝒊𝒛𝒆𝒅 𝑬𝒄𝒐𝒔𝒚𝒔𝒕𝒆𝒎𝒔, 𝑳𝒆𝒂𝒓𝒏𝒊𝒏𝒈 & 𝑬𝒕𝒉𝒊𝒄𝒔 ))
+## 🎓 Specialized Ecosystems, Learning & Ethics
 
 [🔬 Research](README-research.md): New methodologies and cutting-edge papers.
 
