@@ -2,6 +2,7 @@
 
 | Research | Post |
 |----------|-----------|
+| 🧠📝 PaperOrchestra: A Multi-Agent Framework for Automated AI Research Paper Writing 📝🧠 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7447712408158031874-6QQW?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
 | 🧠🗂️ OMNIMEM: Autoresearch-Guided Discovery of Lifelong Multimodal Agent Memory 🗂️🧠 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7446308124216713216-Mgqm?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
 | 🔎🧪 Dr. Zero: Self-Evolving Search Agents without Training Data 🧪🔎 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7417963670715949057-bcW9?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
 | 🧠 ClawInstitute: A Research Exchange for AI Scientists | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7439595936936308736-6X03?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
