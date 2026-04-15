@@ -7,10 +7,21 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/mahmoudrabie/agentic-ai/graphs/commit-activity)
+[![GitHub stars](https://img.shields.io/github/stars/mahmoudrabie/agentic-ai?style=social)](https://github.com/mahmoudrabie/agentic-ai/stargazers)
 
-> A comprehensive knowledge hub for Agentic AI—your gateway to the future of autonomous AI systems.
+> A curated, high-signal hub for Agentic AI research, frameworks, and real-world implementations across 24 domains.
+
+[⭐ Star This Repo](https://github.com/mahmoudrabie/agentic-ai) • [🗂 Explore Domains](#-core-ai--cognition) • [🤝 Contribute](#-contributing)
+
+⭐ If this repository helps you, please star it and share it with one builder.
 
 </div>
+
+## ⚡ Quick Start
+
+1. Choose a domain section below that matches your use case.
+2. Open the linked domain README to access curated posts and resources.
+3. Star the repo and submit new resources via issue or PR.
 
 ## 🌟 Overview
 
