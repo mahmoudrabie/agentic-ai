@@ -2,6 +2,8 @@
 
 | Research | Post |
 |----------|-----------|
+| 🧠🔎 Marco DeepResearch: Unlocking Efficient Deep Research Agents via Verification-Centric Design 🔎🧠 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7444832528189882368-3W06?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
+| 🧠📝 FactReview: Evidence-Grounded Reviews with Literature Positioning and Execution-Based Claim Verification 📝🧠 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7448437218735628288-yfwT?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
 | 🧠📝 PaperOrchestra: A Multi-Agent Framework for Automated AI Research Paper Writing 📝🧠 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7447712408158031874-6QQW?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
 | 🧠🗂️ OMNIMEM: Autoresearch-Guided Discovery of Lifelong Multimodal Agent Memory 🗂️🧠 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7446308124216713216-Mgqm?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
 | 🔎🧪 Dr. Zero: Self-Evolving Search Agents without Training Data 🧪🔎 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7417963670715949057-bcW9?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |

@@ -2,6 +2,7 @@
 
 | Research | Post |
 |----------|-----------|
+| 🧠🛠 Act Wisely: Cultivating Meta-Cognitive Tool Use in Agentic Multimodal Models 🛠🧠 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7449173757954359296-8nBs?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
 | 🧠🧩 Agentic Reasoning for Large Language Models 🧩🧠 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7420859537328549888-GXvp?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
 | 🤖🧠 Unlocking the Power of Multi-Agent LLM for Reasoning: From Lazy Agents to Deliberation 🧠🤖 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-share-7392867484627898368-UkK4?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
 | 🤖🔎 SFR-DeepResearch: Towards Effective Reinforcement Learning for Autonomously Reasoning Single Agents 🔎🤖 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7372714437260181504-fSLY?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |

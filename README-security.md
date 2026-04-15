@@ -2,6 +2,7 @@
 
 | Research | Post |
 |----------|-----------|
+| 🧠🪤 AI Agent Traps 🪤🧠 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7445225615118454784-yLw-?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
 | 🛡🤖 Securing Agentic AI Systems - A Multilayer Security Framework 🤖🛡 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7410362328707321856-uhjW?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
 | 🛡️🧠 How Vulnerable Are AI Agents to Indirect Prompt Injections? Insights from a Large-Scale Public Competition 🧠🛡️ | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7441543607368589312-hBRR?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
 | 🛡🔒 AGENTIC AI SECURITY: THREATS, DEFENSES, EVALUATION, AND OPEN CHALLENGES 🔒🛡 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7394086989290979328-uWPM?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
