@@ -2,6 +2,7 @@
 
 | Research | Post |
 |----------|-----------|
+| 🧠🥽 Vibe Coding XR: Accelerating AI + XR Prototyping with XR Blocks and Gemini 🥽🧠 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7450014794163712000-RgCQ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
 | 🧠🛠 Scaling Coding Agents via Atomic Skills 🛠🧠 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7448101530148487168-SvEx?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
 | 🎨📱 ColorAgent: Building A Robust, Personalized, and Interactive OS Agent 📱🎨 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7388675064679985153-t9o6/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
 | 🧪🤝 CooperBench: Why Coding Agents Cannot be Your Teammates Yet 🤝🧪 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7425002577790148608-2YZs?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
