@@ -2,7 +2,7 @@
 
 | Research | Post |
 |----------|-----------|
-| 🤖🌐 Federation of Agents: A Semantics-Aware Communication Fabric for Large-Scale Agentic AI 🌐🤖 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7377636340093452289-m8nH?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
+| 🤖🌐 Federation of Agents: A Semantics-Aware Communication Fabric for Large-Scale Agentic AI 🌐🤖 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7377636340093452289-m8nH) |
 | 🛰️🌕 Agentic Semantic Control for Autonomous Wireless Space Networks — Extending Space-O-RAN with MCP-Driven Distributed Intelligence 🌕 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7339196515065761792-ub-c) |
 | 🤖🌐 AgentDNS: A Root Domain Naming System for LLM Agents 🌐🤖 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7335323067893583873-O4Em) |
 | 🤖📡 CP-AgentNet: Autonomous & Explainable Communication Protocol Design Using Generative Agents | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7313674777762652162-MQWz) |

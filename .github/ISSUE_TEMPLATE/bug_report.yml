@@ -1,0 +1,27 @@
+name: Bug report
+description: Report broken links, formatting issues, or incorrect categorization
+title: "[Bug]: "
+labels: [bug]
+body:
+  - type: textarea
+    id: summary
+    attributes:
+      label: What happened?
+      description: Describe the problem clearly.
+      placeholder: Broken link in README-framework.md row X
+    validations:
+      required: true
+  - type: input
+    id: location
+    attributes:
+      label: File/location
+      description: Provide file path and row if possible.
+      placeholder: README-framework.md
+  - type: textarea
+    id: expected
+    attributes:
+      label: What did you expect?
+  - type: textarea
+    id: repro
+    attributes:
+      label: Steps to reproduce

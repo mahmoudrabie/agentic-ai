@@ -1,0 +1,55 @@
+name: Resource addition
+description: Suggest a new paper/post/resource to include
+title: "[Resource]: "
+labels: [enhancement]
+body:
+  - type: input
+    id: title
+    attributes:
+      label: Resource title
+      placeholder: Paper title in plain text
+    validations:
+      required: true
+  - type: input
+    id: link
+    attributes:
+      label: Resource link
+      placeholder: https://...
+    validations:
+      required: true
+  - type: dropdown
+    id: domain
+    attributes:
+      label: Suggested domain
+      options:
+        - Foundation Models
+        - Reasoning
+        - Planning
+        - Vision
+        - Recommendation
+        - Software Engineering
+        - Testing
+        - Framework
+        - Automation
+        - Healthcare
+        - Security
+        - OT/IoT
+        - Smart Cities
+        - Transportation
+        - Supply Chain
+        - Robotics
+        - Hardware Design
+        - Design
+        - Networking
+        - Blockchain
+        - Research
+        - Education
+        - Gaming
+        - Ethics and Safety
+    validations:
+      required: true
+  - type: textarea
+    id: notes
+    attributes:
+      label: Notes
+      description: Optional context for why this belongs in the selected domain.

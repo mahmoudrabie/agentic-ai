@@ -5,7 +5,7 @@
 <img src="agenticai.png" alt="Agentic AI Logo" width="100%"/>
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://makeapullrequest.com)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/mahmoudrabie/agentic-ai/graphs/commit-activity)
 [![GitHub stars](https://img.shields.io/github/stars/mahmoudrabie/agentic-ai?style=social)](https://github.com/mahmoudrabie/agentic-ai/stargazers)
 

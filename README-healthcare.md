@@ -2,7 +2,7 @@
 
 | Research | Post |
 |----------|-----------|
-| 🩺📈 The Anatomy of a Personal Health Agent 📈🩺 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7386140683910393858-Frdx?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
+| 🩺📈 The Anatomy of a Personal Health Agent 📈🩺 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7386140683910393858-Frdx) |
 | 🤖🔬 CellVoyager: AI CompBio Agent Generates New Insights by Autonomously Analyzing Biological Data 🔬🤖 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7337912663026380800-lNB9) |
 | 🤖🩻 CBM-RAG: Enhanced Interpretability in Radiology Report Generation with Multi-Agent RAG and Concept Bottleneck Models 🩻🤖 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7330649771751174144-odBT/) |
 | 🤖🩺 Multi-Modal Explainable Medical AI Assistant for Trustworthy Human-AI Collaboration 🩺🤖 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7328850071960162306-zeE0/) |

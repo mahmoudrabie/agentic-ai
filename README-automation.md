@@ -2,7 +2,7 @@
 
 | Research | Post |
 |----------|-----------|
-| 🧠💻 Terminal Agents Suffice for Enterprise Automation 💻🧠 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7445587640256598016-iV8G?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
+| 🧠💻 Terminal Agents Suffice for Enterprise Automation 💻🧠 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7445587640256598016-iV8G) |
 | 🤖🏭 Agentic AI for Intent-Based Industrial Automation 🏭🤖 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7337783546377388034-dFU4) |
 | 🤖🔧⚙ Application of a Simulation-Based Digital Twin for Predicting Distributed Manufacturing Control System Performance | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7314336098002911232-hQQ6) |
 | 🤖📱 UI-R1: Enhancing GUI Agent Action Prediction via Reinforcement Learning | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7311822749717438464-7hi5) |
