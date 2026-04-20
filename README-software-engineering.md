@@ -2,6 +2,7 @@
 
 | Research | Post |
 |----------|-----------|
+| 🧠🔁 Memory Transfer Learning: How Memories are Transferred Across Domains in Coding Agents 🔁🧠 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7451864521142398976-Ka2-) |
 | 🧠🥽 Vibe Coding XR: Accelerating AI + XR Prototyping with XR Blocks and Gemini 🥽🧠 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7450014794163712000-RgCQ) |
 | 🧠🛠 Scaling Coding Agents via Atomic Skills 🛠🧠 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7448101530148487168-SvEx) |
 | 🎨📱 ColorAgent: Building A Robust, Personalized, and Interactive OS Agent 📱🎨 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7388675064679985153-t9o6/) |
