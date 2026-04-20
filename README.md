@@ -87,6 +87,10 @@ Browse our collection by research domain:
 
 [⚖️ Ethics and Safety](README-ethics-and-safety.md): Value alignment, robustness, and legal considerations.
 
+## 🏷️ Hashtags
+
+#AgenticAI #AIAgents #LLM #LLMAgents #MultiAgentSystems #AutonomousAgents #AIResearch #MachineLearning #FoundationModels #ReasoningAI #PlanningAI #AIAutomation #SoftwareEngineering #AIDevTools #PromptEngineering #ToolUse #ModelContextProtocol #MCP #RAG #DeepResearch #AIEvaluation #AIBenchmarks #AISafety #AISecurity #ComputerVision #Robotics #SmartCities #IoT #OpenSource #GitHub
+
 ## 🤝 Contributing
 
 We welcome contributions! Whether you have:
