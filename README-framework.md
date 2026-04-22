@@ -2,6 +2,7 @@
 
 | Research | Post |
 |----------|-----------|
+| 🧠🤝 Multi-Agent Systems: From Classical Paradigms to Large Foundation Model-Enabled Futures 🤝🧠 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7452438532452757504-S3OC) |
 | 🤖🧠 Agent0: Unleashing Self-Evolving Agents from Zero Data via Tool-Integrated Reasoning 🧠🤖 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7398328064138579968-lJ37) |
 | 🧠 Scaling Agentic Capabilities, Not Context: Efficient Reinforcement Finetuning for Large Toolspaces ⚙ | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7440014928196812800-NJbf) |
 | 🦞🧠 MetaClaw: Just Talk - An Agent That Meta-Learns and Evolves in the Wild 🧠🦞 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7440756786980220928-mjAB/) |
