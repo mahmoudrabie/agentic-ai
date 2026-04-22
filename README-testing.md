@@ -2,6 +2,7 @@
 
 | Research | Post |
 |----------|-----------|
+| 🧠⏳ Gaia2: Benchmarking LLM Agents on Dynamic and Asynchronous Environments ⏳🧠 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7452757645792333824-pZJa) |
 | 🧠🏭 OCCUBENCH: Evaluating AI Agents on Real-World Professional Tasks via Language Environment Simulation 🏭🧠 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7450962048496156673-8BXa) |
 | 🧠🔎 MiroEval: Benchmarking Multimodal Deep Research Agents in Process and Outcome 🔎🧠 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7445940946808061952-EBG9) |
 | 🤖⚡ WHERE LLM AGENTS FAIL AND HOW THEY CAN LEARN FROM FAILURES ⚡🤖 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7387774581232668672-99rD) |
