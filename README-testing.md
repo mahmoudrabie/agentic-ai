@@ -3,6 +3,7 @@
 | Research | Post |
 |----------|-----------|
 | 🧠🔎 DR3-Eval: Towards Realistic and Reproducible Deep Research Evaluation 🔎🧠 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7451314145104297984-feGc) |
+| 🧠🔎 AgentSearchBench: A Benchmark for AI Agent Search in the Wild 🔎🧠 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-share-7454777062160097280-SBtC?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
 | 🧠⏳ Gaia2: Benchmarking LLM Agents on Dynamic and Asynchronous Environments ⏳🧠 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7452757645792333824-pZJa) |
 | 🧠🏭 OCCUBENCH: Evaluating AI Agents on Real-World Professional Tasks via Language Environment Simulation 🏭🧠 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7450962048496156673-8BXa) |
 | 🧠🔎 MiroEval: Benchmarking Multimodal Deep Research Agents in Process and Outcome 🔎🧠 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7445940946808061952-EBG9) |
