@@ -2,6 +2,7 @@
 
 | Research | Post |
 |----------|-----------|
+| 🧠🛡️ DecodingTrust-Agent Platform (DTap): A Controllable and Interactive Red-Teaming Platform for AI Agents 🛡️🧠 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7459303251721678848-0qgS?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
 | 🧠🪤 AI Agent Traps 🪤🧠 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7445225615118454784-yLw-) |
 | 🛡🤖 Securing Agentic AI Systems - A Multilayer Security Framework 🤖🛡 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7410362328707321856-uhjW) |
 | 🛡️🧠 How Vulnerable Are AI Agents to Indirect Prompt Injections? Insights from a Large-Scale Public Competition 🧠🛡️ | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7441543607368589312-hBRR) |
