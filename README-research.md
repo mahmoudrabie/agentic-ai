@@ -3,6 +3,7 @@
 | Research | Post |
 |----------|-----------|
 | 🧠🔍 MiroMind.ai MiroThinker-1.7 & H1: Towards Heavy-Duty Research Agents via Verification 🔍🧠 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-share-7461321805425770496-ZucQ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
+| 🧠🔎 Beyond Semantic Similarity: Rethinking Retrieval for Agentic Search via Direct Corpus Interaction 🔎🧠 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7460586186856738816-Ctgw?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
 | 🧠🔬 Toward Autonomous Long-Horizon Engineering for ML Research 🔬🧠 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7450841015239778304-FsqC) |
 | 🧠🔎 Marco DeepResearch: Unlocking Efficient Deep Research Agents via Verification-Centric Design 🔎🧠 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7444832528189882368-3W06) |
 | 🧠📝 FactReview: Evidence-Grounded Reviews with Literature Positioning and Execution-Based Claim Verification 📝🧠 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7448437218735628288-yfwT) |
