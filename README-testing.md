@@ -10,6 +10,7 @@
 | 🧠🔎 MiroEval: Benchmarking Multimodal Deep Research Agents in Process and Outcome 🔎🧠 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7445940946808061952-EBG9) |
 | Multimodal Reinforcement Learning with Agentic Verifier for AI Agents | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_foraiscientists-forairesearchers-foraiarchitects-activity-7420491464335568896-5MjF) |
 | Measuring Agents in Production | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_foraiscientists-forairesearchers-foraiarchitects-activity-7403124617537683456-I0jl) |
+| DeepScholar-Bench: Live benchmark for generative research synthesis | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_foraiscientists-forairesearchers-foraiarchitects-activity-7400103672363446272-zrKN) |
 | 🤖⚡ WHERE LLM AGENTS FAIL AND HOW THEY CAN LEARN FROM FAILURES ⚡🤖 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7387774581232668672-99rD) |
 | 💻🔐 Benchmarking Correctness and Security in Multi-Turn Code Generation 🔐💻 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-share-7385729701484503040-RHDG) |
 | 🌐 ARE: scaling up agent environments and evaluations 🌐🤖 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7380689397165473792-yA2g) |
