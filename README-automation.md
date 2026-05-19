@@ -4,7 +4,9 @@
 |----------|-----------|
 | Synthetic Computers at Scale for Long-Horizon Productivity Simulation | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_foraiscientists-forairesearchers-foraiarchitects-activity-7456056945469296640-g7PX) |
 | 🧠💻 Terminal Agents Suffice for Enterprise Automation 💻🧠 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7445587640256598016-iV8G) |
+| OpenAI realtime voice intelligence for agents | [Link](https://uk.linkedin.com/in/harri-renney-971770155) |
 | ProAgent: Harnessing On-Demand Sensory Contexts for Proactive LLM Agent Systems | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_foraiscientists-forairesearchers-foraiarchitects-activity-7406755535431168000-dsNG) |
+| DataFlow: An LLM-Driven Framework for Unified Data Preparation and Workflow Automation in the Era of Data-Centric AI | [Link](https://www.linkedin.com/posts/anthony-alcaraz-b80763155_your-agents-context-window-isnt-the-problem-activity-7402642950276423680-Y8Mq) |
 | Ferret-UI Lite: Lessons from Building Small On-Device GUI Agents | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_foraiscientists-forairesearchers-foraiarchitects-activity-7381038371873259521-RWb_) |
 | ScaleCUA: Scaling Open-Source Computer Use Agents with Cross-Platform Data | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_foraiscientists-forairesearchers-foraiarchitects-activity-7375059745885458432-TFFL) |
 | 🤖🏭 Agentic AI for Intent-Based Industrial Automation 🏭🤖 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7337783546377388034-dFU4) |
