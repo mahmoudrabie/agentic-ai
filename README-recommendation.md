@@ -2,6 +2,7 @@
 
 | Research | Post |
 |----------|-----------|
+| Learning Personalized Agents from Human Feedback | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_foraiscientists-forairesearchers-foraiarchitects-activity-7431258236688678912-fC4_) |
 | 🤖🎯 Towards Agentic Recommender Systems in the Era of Multimodal LLMs | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7310019980534702081-IUg8) |
 | 🤖🔍 MACRec: A Multi-Agent Collaboration Framework for Recommendation | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7300545215897956353-hIXP) |
 | 🤖🎯 InstructAgent: A New LLM-Powered Agent that Puts Users In Control of Recommender Systems | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7299029683365421056-EbSt) |
