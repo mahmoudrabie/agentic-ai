@@ -2,6 +2,7 @@
 
 | Research | Post |
 |----------|-----------|
+| A Layered Protocol Architecture for the Internet of Agents | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_foraiscientists-forairesearchers-foraiarchitects-activity-7402441305550675968-3X7e) |
 | 🤖🌐 Federation of Agents: A Semantics-Aware Communication Fabric for Large-Scale Agentic AI 🌐🤖 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7377636340093452289-m8nH) |
 | 🛰️🌕 Agentic Semantic Control for Autonomous Wireless Space Networks — Extending Space-O-RAN with MCP-Driven Distributed Intelligence 🌕 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7339196515065761792-ub-c) |
 | 🤖🌐 AgentDNS: A Root Domain Naming System for LLM Agents 🌐🤖 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7335323067893583873-O4Em) |
