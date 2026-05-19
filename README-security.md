@@ -3,11 +3,19 @@
 | Research | Post |
 |----------|-----------|
 | 🧠🛡️ DecodingTrust-Agent Platform (DTap): A Controllable and Interactive Red-Teaming Platform for AI Agents 🛡️🧠 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7459303251721678848-0qgS?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
+| Dynamic Cyber Ranges | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forairesearchers-foraiscientists-foraiarchitects-activity-7456722996037267456-Taaj) |
 | 🧠🪤 AI Agent Traps 🪤🧠 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7445225615118454784-yLw-) |
+| SKILL-INJECT: Measuring Agent Vulnerability to Skill File Attacks | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_foraiscientists-forairesearchers-foraiarchitects-activity-7433229933910515713-V5d8) |
+| CoTDeceptor:Adversarial Code Obfuscation Against CoT-Enhanced LLM Code Agents | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_foraiscientists-forairesearchers-foraiarchitects-activity-7412215742193995777-VfWg) |
 | 🛡🤖 Securing Agentic AI Systems - A Multilayer Security Framework 🤖🛡 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7410362328707321856-uhjW) |
+| Automated Penetration Testing with LLM Agents and Classical Planning | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_foraiscientists-forairesearchers-foraiarchitects-activity-7408604097173655552-gZZk) |
+| PentestEval: Benchmarking LLM-based Penetration Testing with Modular and Stage-Level Design | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_foraiscientists-forairesearchers-foraiarchitects-activity-7407728793278275584-iSnz) |
+| MALF: A Multi-Agent LLM Framework for Intelligent Fuzzing of Industrial Control Protocols | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_foraiscientists-forairesearchers-foraiarchitects-activity-7404277387741540354-_xDU) |
+| Cybersecurity AI: The World's Top AI Agent for Security Capture-the-Flag (CTF) | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_foraiarchitects-foraiscientists-forairesearchers-activity-7402067418983936000-oEvQ) |
 | 🛡️🧠 How Vulnerable Are AI Agents to Indirect Prompt Injections? Insights from a Large-Scale Public Competition 🧠🛡️ | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7441543607368589312-hBRR) |
 | 🛡🔒 AGENTIC AI SECURITY: THREATS, DEFENSES, EVALUATION, AND OPEN CHALLENGES 🔒🛡 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7394086989290979328-uWPM) |
 | 🛡💻 RedCodeAgent: Automatic Red-teaming Agent against Diverse Code Agents 💻🛡 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7392589038697873408-piry) |
+| GRIDAI: Generating and Repairing Intrusion Detection Rules via Collaboration among Multiple LLM-based Agents | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_foraiscientists-forairesearchers-foraiarchitects-activity-7388282463510425602-kza3) |
 | 🔓🕸 HackWorld: Evaluating Computer-Use Agents on Exploiting Web Application Vulnerabilities 🕸🔓 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-share-7385299240123777024-2PkQ) |
 | 🛡️🔎 LLM-driven Provenance Forensics for Threat Investigation and Detection 🔎🛡️ | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7384306059810619393-3H7k) |
 | 🛡️🔍 A Survey on Agentic Security: Applications, Threats and Defenses 🔍🛡️ | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7383187212823097344-WWo2) |
