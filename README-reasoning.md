@@ -2,8 +2,12 @@
 
 | Research | Post |
 |----------|-----------|
+| Brain-Inspired Graph Multi-Agent Systems for LLM Reasoning | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_foraiscientists-forairesearchers-foraiarchitects-activity-7441847742311731200-KMfy) |
 | 🧠🛠 Act Wisely: Cultivating Meta-Cognitive Tool Use in Agentic Multimodal Models 🛠🧠 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7449173757954359296-8nBs) |
 | 🧠🧩 Agentic Reasoning for Large Language Models 🧩🧠 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7420859537328549888-GXvp) |
+| Agent-R1: Training Powerful LLM Agents with End-to-End Reinforcement Learning | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_foraiscientists-forairesearchers-foraiarchitects-activity-7399201688416399360-S66g) |
+| Solving a Million-Step LLM Task with Zero Errors | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_foraiscientists-forairesearchers-foraiarchitects-activity-7398097169012101122-5tPU) |
+| Demystifying Reinforcement Learning in Agentic Reasoning | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_foraiscientists-forairesearchers-foraiarchitects-activity-7383919273938771968-v3OA) |
 | 🤖🧠 Unlocking the Power of Multi-Agent LLM for Reasoning: From Lazy Agents to Deliberation 🧠🤖 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-share-7392867484627898368-UkK4) |
 | 🤖🔎 SFR-DeepResearch: Towards Effective Reinforcement Learning for Autonomously Reasoning Single Agents 🔎🤖 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7372714437260181504-fSLY) |
 | 🤖🧮 THOR: Tool-Integrated Hierarchical Optimization via RL for Mathematical Reasoning 🧮🤖 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7378116495232544768-HLLK) |
