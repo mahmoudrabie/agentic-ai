@@ -3,6 +3,7 @@
 | Research | Post |
 |----------|-----------|
 | 🧠🔎 DR3-Eval: Towards Realistic and Reproducible Deep Research Evaluation 🔎🧠 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7451314145104297984-feGc) |
+| 🧠🧩 Code as Agent Harness: Toward Executable, Verifiable, and Stateful Agent Systems 🧩🧠 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-share-7462909473976688641--7D2?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
 | AutoHarness: Improving LLM Agents by Automatically Synthesizing a Code Harness | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_foraiscientists-forairesearchers-foraiarchitects-activity-7438939566155292672-wWbJ) |
 | 🧠🔎 AgentSearchBench: A Benchmark for AI Agent Search in the Wild 🔎🧠 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-share-7454777062160097280-SBtC?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
 | 🧠⏳ Gaia2: Benchmarking LLM Agents on Dynamic and Asynchronous Environments ⏳🧠 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7452757645792333824-pZJa) |
