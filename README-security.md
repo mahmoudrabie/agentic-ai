@@ -2,6 +2,7 @@
 
 | Research | Post |
 |----------|-----------|
+| 🧠🛡️ ExploitGym: Can AI Agents Turn Security Vulnerabilities into Real Attacks? 🛡️🧠 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7463492980604108801-BNa7?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
 | 🧠🛡️ Architecting Secure AI Agents: Perspectives on System-Level Defenses Against Indirect Prompt Injection Attacks 🛡️🧠 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7461978046401740800-dFEg?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
 | 🧠🛡️ DecodingTrust-Agent Platform (DTap): A Controllable and Interactive Red-Teaming Platform for AI Agents 🛡️🧠 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7459303251721678848-0qgS?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
 | Dynamic Cyber Ranges | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forairesearchers-foraiscientists-foraiarchitects-activity-7456722996037267456-Taaj) |
