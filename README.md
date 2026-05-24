@@ -38,32 +38,32 @@ If this saves you research time, starring the repo helps more builders discover 
 
 ## Domain Index
 
-| Domain | Resources | Focus |
+| Domain | Researches | Focus |
 | --- | ---: | --- |
-| [Research](README-research.md) | 61 | AI scientists, deep research, autonomous discovery |
-| [Framework](README-framework.md) | 54 | Agent runtimes, memory, tools, orchestration |
-| [Security](README-security.md) | 49 | Prompt injection, red teaming, cyber agents, defenses |
-| [Reasoning](README-reasoning.md) | 20 | Inference, deliberation, cognitive architectures |
-| [Testing](README-testing.md) | 18 | Benchmarks, harnesses, evaluation methodology |
-| [Automation](README-automation.md) | 14 | Process automation and workflow optimization |
-| [Healthcare](README-healthcare.md) | 15 | Medical agents, diagnosis, pharma, biomedical research |
-| [Software Engineering](README-software-engineering.md) | 15 | Coding agents, debugging, refactoring, code review |
-| [Networking](README-networking.md) | 9 | Self-healing networks and routing |
-| [Vision](README-vision.md) | 6 | Visual agents and multimodal grounding |
-| [Foundation Models](README-foundation-models.md) | 5 | Agentic capabilities in foundation models |
-| [Ethics and Safety](README-ethics-and-safety.md) | 5 | Alignment, fairness, trust, governance |
-| [Hardware Design](README-hardware-design.md) | 5 | EDA, chip design, verification |
-| [OT/IoT](README-iot.md) | 5 | Industrial systems and device control |
-| [Recommendation](README-recommendation.md) | 5 | Personalization and proactive discovery |
-| [Smart Cities](README-smart-cities.md) | 5 | Urban operations and civic systems |
-| [Blockchain](README-blockchain.md) | 4 | Decentralized agents and secure transactions |
-| [Gaming](README-gaming.md) | 4 | NPCs, simulation, procedural content |
-| [Transportation](README-transportation.md) | 3 | Autonomous vehicles and fleet management |
-| [Design](README-design.md) | 2 | Generative and collaborative design |
-| [Planning](README-planning.md) | 2 | Multi-step decision making and goal assignment |
-| [Education](README-education.md) | 1 | Tutoring and personalized learning |
-| [Robotics](README-robotics.md) | 1 | Embodied agents and physical systems |
-| [Supply Chain](README-supply-chain.md) | 1 | Routing, inventory, logistics optimization |
+| [🔬 Research](README-research.md) | 61 | AI scientists, deep research, autonomous discovery |
+| [⚙️ Framework](README-framework.md) | 54 | Agent runtimes, memory, tools, orchestration |
+| [🛡️ Security](README-security.md) | 49 | Prompt injection, red teaming, cyber agents, defenses |
+| [🧠 Reasoning](README-reasoning.md) | 20 | Inference, deliberation, cognitive architectures |
+| [🧪 Testing](README-testing.md) | 18 | Benchmarks, harnesses, evaluation methodology |
+| [⚡ Automation](README-automation.md) | 14 | Process automation and workflow optimization |
+| [💊 Healthcare](README-healthcare.md) | 15 | Medical agents, diagnosis, pharma, biomedical research |
+| [💻 Software Engineering](README-software-engineering.md) | 15 | Coding agents, debugging, refactoring, code review |
+| [📡 Networking](README-networking.md) | 9 | Self-healing networks and routing |
+| [👁️ Vision](README-vision.md) | 6 | Visual agents and multimodal grounding |
+| [🤖 Foundation Models](README-foundation-models.md) | 5 | Agentic capabilities in foundation models |
+| [⚖️ Ethics and Safety](README-ethics-and-safety.md) | 5 | Alignment, fairness, trust, governance |
+| [🔧 Hardware Design](README-hardware-design.md) | 5 | EDA, chip design, verification |
+| [🏭 OT/IoT](README-iot.md) | 5 | Industrial systems and device control |
+| [🎯 Recommendation](README-recommendation.md) | 5 | Personalization and proactive discovery |
+| [🌆 Smart Cities](README-smart-cities.md) | 5 | Urban operations and civic systems |
+| [⛓️ Blockchain](README-blockchain.md) | 4 | Decentralized agents and secure transactions |
+| [🎮 Gaming](README-gaming.md) | 4 | NPCs, simulation, procedural content |
+| [🚦 Transportation](README-transportation.md) | 3 | Autonomous vehicles and fleet management |
+| [📐 Design](README-design.md) | 2 | Generative and collaborative design |
+| [📋 Planning](README-planning.md) | 2 | Multi-step decision making and goal assignment |
+| [🎓 Education](README-education.md) | 1 | Tutoring and personalized learning |
+| [🤖 Robotics](README-robotics.md) | 1 | Embodied agents and physical systems |
+| [📦 Supply Chain](README-supply-chain.md) | 1 | Routing, inventory, logistics optimization |
 
 ## Curation Standard
 
