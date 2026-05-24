@@ -26,16 +26,14 @@ Agentic AI moves fast, and useful work is scattered across papers, code reposito
 
 If this saves you research time, starring the repo helps more builders discover it.
 
-## Start Here
+## Suggested Paths
 
-| Goal | Best entry point |
+| Path | Follow these domains |
 | --- | --- |
-| Build or compare agent frameworks | [Framework](README-framework.md) |
-| Track agent security risks and defenses | [Security](README-security.md) |
-| Follow deep research and AI scientist systems | [Research](README-research.md) |
-| Evaluate agents and benchmarks | [Testing](README-testing.md) |
-| Apply agents to coding workflows | [Software Engineering](README-software-engineering.md) |
-| Explore reasoning and planning | [Reasoning](README-reasoning.md), [Planning](README-planning.md) |
+| Build agent systems | [Framework](README-framework.md), [Planning](README-planning.md), [Reasoning](README-reasoning.md), [Automation](README-automation.md) |
+| Evaluate and harden agents | [Testing](README-testing.md), [Security](README-security.md), [Ethics and Safety](README-ethics-and-safety.md) |
+| Track research frontiers | [Research](README-research.md), [Foundation Models](README-foundation-models.md), [Vision](README-vision.md) |
+| Apply agents in production domains | [Software Engineering](README-software-engineering.md), [Healthcare](README-healthcare.md), [OT/IoT](README-iot.md), [Robotics](README-robotics.md) |
 
 ## Domain Index
 
