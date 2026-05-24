@@ -1,12 +1,12 @@
 # 🛡️ Security
 
-| Research | Post |
+| Research | Links |
 |----------|-----------|
-| 🧠🛡️ ExploitGym: Can AI Agents Turn Security Vulnerabilities into Real Attacks? 🛡️🧠 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7463492980604108801-BNa7?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
-| 🧠🛡️ Architecting Secure AI Agents: Perspectives on System-Level Defenses Against Indirect Prompt Injection Attacks 🛡️🧠 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7461978046401740800-dFEg?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
-| 🧠🛡️ DecodingTrust-Agent Platform (DTap): A Controllable and Interactive Red-Teaming Platform for AI Agents 🛡️🧠 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7459303251721678848-0qgS?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
+| 🧠🛡️ ExploitGym: Can AI Agents Turn Security Vulnerabilities into Real Attacks? 🛡️🧠 | [Paper](https://arxiv.org/abs/2605.11086) · [Post](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7463492980604108801-BNa7?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
+| 🧠🛡️ Architecting Secure AI Agents: Perspectives on System-Level Defenses Against Indirect Prompt Injection Attacks 🛡️🧠 | [Paper](https://arxiv.org/abs/2603.30016) · [Post](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7461978046401740800-dFEg?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
+| 🧠🛡️ DecodingTrust-Agent Platform (DTap): A Controllable and Interactive Red-Teaming Platform for AI Agents 🛡️🧠 | [Project](https://decodingtrust-agent.com/) · [Docs](https://decodingtrust-agent.com/docs) · [Paper](https://arxiv.org/abs/2605.04808) · [Post](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7459303251721678848-0qgS?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
 | Dynamic Cyber Ranges | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forairesearchers-foraiscientists-foraiarchitects-activity-7456722996037267456-Taaj) |
-| 🧠🪤 AI Agent Traps 🪤🧠 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7445225615118454784-yLw-) |
+| 🧠🪤 AI Agent Traps 🪤🧠 | [Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6372438) · [Post](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7445225615118454784-yLw-) |
 | SKILL-INJECT: Measuring Agent Vulnerability to Skill File Attacks | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_foraiscientists-forairesearchers-foraiarchitects-activity-7433229933910515713-V5d8) |
 | CoTDeceptor:Adversarial Code Obfuscation Against CoT-Enhanced LLM Code Agents | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_foraiscientists-forairesearchers-foraiarchitects-activity-7412215742193995777-VfWg) |
 | 🛡🤖 Securing Agentic AI Systems - A Multilayer Security Framework 🤖🛡 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7410362328707321856-uhjW) |

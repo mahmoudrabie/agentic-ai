@@ -1,10 +1,10 @@
 # ⚙️ Framework
 
-| Research | Post |
+| Research | Links |
 |----------|-----------|
-| FAMA: Failure-Aware Meta-Agentic Framework for Open-Source LLMs in Interactive Tool Use Environments | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_foraiscientists-forairesearchers-foraiarchitects-activity-7456338983632105472-bSzQ) |
-| Skill Retrieval Augmentation (SRA) for Agentic AI | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_foraiarchitects-forairesearchers-foraiscientists-activity-7455114675001733121-9aZ6) |
-| 🧠🛠️ SkillOS: Learning Skill Curation for Self-Evolving Agents 🛠️🧠 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7458776912698519552-6MuT?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
+| FAMA: Failure-Aware Meta-Agentic Framework for Open-Source LLMs in Interactive Tool Use Environments | [Paper](https://arxiv.org/abs/2604.25135) · [Post](https://www.linkedin.com/posts/mahmoudrabie2004_foraiscientists-forairesearchers-foraiarchitects-activity-7456338983632105472-bSzQ) |
+| Skill Retrieval Augmentation (SRA) for Agentic AI | [Paper](https://arxiv.org/abs/2604.24594) · [Dataset](https://huggingface.co/datasets/WeihangSu/SRA-Bench) · [Post](https://www.linkedin.com/posts/mahmoudrabie2004_foraiarchitects-forairesearchers-foraiscientists-activity-7455114675001733121-9aZ6) |
+| 🧠🛠️ SkillOS: Learning Skill Curation for Self-Evolving Agents 🛠️🧠 | [Paper](https://arxiv.org/abs/2605.06614) · [Post](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7458776912698519552-6MuT?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) |
 | 🧠🤝 Multi-Agent Systems: From Classical Paradigms to Large Foundation Model-Enabled Futures 🤝🧠 | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7452438532452757504-S3OC) |
 | MEMCOLLAB: Cross-Agent Memory Collaboration via Contrastive Trajectory Distillation | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_foraiscientists-forairesearchers-foraiarchitects-activity-7443299647076483072-c7Sc) |
 | OpenSage: Self-programming Agent Generation Engine | [Link](https://www.linkedin.com/posts/mahmoudrabie2004_foraiscientists-forairesearchers-foraiarchitects-activity-7442661470917591042-ECiS) |

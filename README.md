@@ -77,15 +77,6 @@ The repo is moving toward GitHub-native, canonical resource links:
 See [CONTRIBUTING.md](CONTRIBUTING.md) for the full contribution checklist.
 See [CURATION.md](CURATION.md) for the detailed resource quality bar and link-priority rules.
 
-## Contribution Priorities
-
-The highest-impact contributions right now are:
-
-- Add canonical paper/code/project links for existing LinkedIn-only entries.
-- Expand thin domains: Education, Robotics, Supply Chain, Planning, Design, Blockchain, and Transportation.
-- Add short summaries and tags for high-impact resources.
-- Report broken links, duplicates, or stale entries.
-
 ## Author
 
 **Mahmoud Rabie**
