@@ -1,0 +1,52 @@
+name: Domain expansion
+description: Propose resources for a thin or under-covered domain
+title: "[Domain expansion]: "
+labels: [enhancement, help wanted]
+body:
+  - type: dropdown
+    id: domain
+    attributes:
+      label: Domain to expand
+      options:
+        - Education
+        - Robotics
+        - Supply Chain
+        - Planning
+        - Design
+        - Blockchain
+        - Transportation
+        - Foundation Models
+        - Reasoning
+        - Vision
+        - Recommendation
+        - Software Engineering
+        - Testing
+        - Framework
+        - Automation
+        - Healthcare
+        - Security
+        - OT/IoT
+        - Smart Cities
+        - Hardware Design
+        - Networking
+        - Research
+        - Gaming
+        - Ethics and Safety
+    validations:
+      required: true
+  - type: textarea
+    id: resources
+    attributes:
+      label: Suggested resources
+      description: Add one resource per line. Prefer canonical paper, project, benchmark, docs, or code links.
+      placeholder: |
+        Title - https://...
+        Title - https://...
+    validations:
+      required: true
+  - type: textarea
+    id: notes
+    attributes:
+      label: Notes
+      description: Optional context, tags, or why this domain needs the suggested resources.
+

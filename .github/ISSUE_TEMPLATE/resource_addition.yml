@@ -11,10 +11,39 @@ body:
     validations:
       required: true
   - type: input
-    id: link
+    id: canonical_link
     attributes:
-      label: Resource link
+      label: Canonical resource link
+      description: Prefer the original paper, code repository, benchmark, docs, or official project page.
+      placeholder: https://arxiv.org/abs/...
+    validations:
+      required: true
+  - type: input
+    id: code_link
+    attributes:
+      label: Code or project link
+      description: Optional. Add this when it differs from the canonical paper or project page.
+      placeholder: https://github.com/owner/repo
+  - type: input
+    id: commentary_link
+    attributes:
+      label: Commentary link
+      description: Optional. LinkedIn, X, blog, or summary post.
       placeholder: https://...
+  - type: dropdown
+    id: resource_type
+    attributes:
+      label: Resource type
+      options:
+        - Paper
+        - Benchmark
+        - Framework
+        - Tool
+        - Survey
+        - Dataset
+        - Case study
+        - Implementation
+        - Other
     validations:
       required: true
   - type: dropdown
@@ -52,4 +81,4 @@ body:
     id: notes
     attributes:
       label: Notes
-      description: Optional context for why this belongs in the selected domain.
+      description: Optional context for why this belongs in the selected domain, plus any relevant tags.

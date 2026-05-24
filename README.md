@@ -1,112 +1,96 @@
-# Agentic AI
+# Agentic AI Research Radar
 
 <div align="center">
 
-<img src="agenticai.png" alt="Agentic AI Logo" width="1408"/>
+<img src="agenticai-preview.jpg" alt="Agentic AI" width="720"/>
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://makeapullrequest.com)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/mahmoudrabie/agentic-ai/graphs/commit-activity)
 [![GitHub stars](https://img.shields.io/github/stars/mahmoudrabie/agentic-ai?style=social)](https://github.com/mahmoudrabie/agentic-ai/stargazers)
 
-> A curated, high-signal hub for Agentic AI research, frameworks, and real-world implementations across 24 domains.
+**300+ curated agentic AI papers, benchmarks, frameworks, and real-world systems across 24 domains.**
 
-[⭐ Star This Repo](https://github.com/mahmoudrabie/agentic-ai) • [🗂 Explore Domains](#-core-ai--cognition) • [🤝 Contribute](#-contributing)
-
-⭐ If this repository helps you, please star it and share it with one builder.
+[Start with Frameworks](README-framework.md) | [Explore Security](README-security.md) | [Browse Research](README-research.md) | [Contribute a Resource](CONTRIBUTING.md)
 
 </div>
 
-## ⚡ Quick Start
+## Why This Repo
 
-1. Choose a domain section below that matches your use case.
-2. Open the linked domain README to access curated posts and resources.
-3. Star the repo and submit new resources via issue or PR.
+Agentic AI moves fast, and useful work is scattered across papers, code repositories, benchmark releases, technical posts, and domain-specific case studies. This repo tracks high-signal work in one place so builders and researchers can quickly find:
 
-## 🌟 Overview
+- frameworks and orchestration patterns for building agents
+- evaluation, testing, and benchmark resources
+- security, safety, and governance research
+- domain applications in healthcare, robotics, software engineering, IoT, education, and more
 
-A curated knowledge hub on Agentic AI, featuring the best projects, research, and resources. This repository currently spans 24 specialized domains—from Healthcare, Vision, and Software Engineering to Security, Robotics, Ethics & Safety, and more. Each domain page links to focused posts and references that highlight practical agentic techniques, frameworks, and real-world applications.
+If this saves you research time, starring the repo helps more builders discover it.
 
-Browse our collection by research domain:
+## Start Here
 
-## 🧠 Core AI & Cognition
+| Goal | Best entry point |
+| --- | --- |
+| Build or compare agent frameworks | [Framework](README-framework.md) |
+| Track agent security risks and defenses | [Security](README-security.md) |
+| Follow deep research and AI scientist systems | [Research](README-research.md) |
+| Evaluate agents and benchmarks | [Testing](README-testing.md) |
+| Apply agents to coding workflows | [Software Engineering](README-software-engineering.md) |
+| Explore reasoning and planning | [Reasoning](README-reasoning.md), [Planning](README-planning.md) |
 
-[🤖 Foundation Models](README-foundation-models.md): Scaling agentic abilities and transfer learning.
+## Domain Index
 
-[🧠 Reasoning](README-reasoning.md): Logic-based inference and cognitive architectures.
+| Domain | Resources | Focus |
+| --- | ---: | --- |
+| [Research](README-research.md) | 61 | AI scientists, deep research, autonomous discovery |
+| [Framework](README-framework.md) | 54 | Agent runtimes, memory, tools, orchestration |
+| [Security](README-security.md) | 49 | Prompt injection, red teaming, cyber agents, defenses |
+| [Reasoning](README-reasoning.md) | 20 | Inference, deliberation, cognitive architectures |
+| [Testing](README-testing.md) | 18 | Benchmarks, harnesses, evaluation methodology |
+| [Automation](README-automation.md) | 14 | Process automation and workflow optimization |
+| [Healthcare](README-healthcare.md) | 15 | Medical agents, diagnosis, pharma, biomedical research |
+| [Software Engineering](README-software-engineering.md) | 15 | Coding agents, debugging, refactoring, code review |
+| [Networking](README-networking.md) | 9 | Self-healing networks and routing |
+| [Vision](README-vision.md) | 6 | Visual agents and multimodal grounding |
+| [Foundation Models](README-foundation-models.md) | 5 | Agentic capabilities in foundation models |
+| [Ethics and Safety](README-ethics-and-safety.md) | 5 | Alignment, fairness, trust, governance |
+| [Hardware Design](README-hardware-design.md) | 5 | EDA, chip design, verification |
+| [OT/IoT](README-iot.md) | 5 | Industrial systems and device control |
+| [Recommendation](README-recommendation.md) | 5 | Personalization and proactive discovery |
+| [Smart Cities](README-smart-cities.md) | 5 | Urban operations and civic systems |
+| [Blockchain](README-blockchain.md) | 4 | Decentralized agents and secure transactions |
+| [Gaming](README-gaming.md) | 4 | NPCs, simulation, procedural content |
+| [Transportation](README-transportation.md) | 3 | Autonomous vehicles and fleet management |
+| [Design](README-design.md) | 2 | Generative and collaborative design |
+| [Planning](README-planning.md) | 2 | Multi-step decision making and goal assignment |
+| [Education](README-education.md) | 1 | Tutoring and personalized learning |
+| [Robotics](README-robotics.md) | 1 | Embodied agents and physical systems |
+| [Supply Chain](README-supply-chain.md) | 1 | Routing, inventory, logistics optimization |
 
-[📋 Planning](README-planning.md): Multi-step decision making and goal assignment.
+## Curation Standard
 
-[👁️ Vision](README-vision.md): Visual perception and spatial reasoning.
+The repo is moving toward GitHub-native, canonical resource links:
 
-[🎯 Recommendation](README-recommendation.md): Personalized, proactive content discovery.
+- Primary links should point to the paper, code repository, benchmark, docs, or project page.
+- LinkedIn/X posts are useful as commentary, but should be secondary links.
+- Titles should be plain readable text.
+- Resources should be placed in the most relevant domain and avoid duplicates.
 
-## 🛠️ Engineering, DevTools & Frameworks
+See [CONTRIBUTING.md](CONTRIBUTING.md) for the full contribution checklist.
+See [CURATION.md](CURATION.md) for the detailed resource quality bar and link-priority rules.
 
-[💻 Software Engineering](README-software-engineering.md): AI coding, bug detection, and refactoring.
+## Contribution Priorities
 
-[🧪 Testing](README-testing.md): Automated quality assurance and performance metrics.
+The highest-impact contributions right now are:
 
-[⚙️ Framework](README-framework.md): Development tools and orchestration platforms.
+- Add canonical paper/code/project links for existing LinkedIn-only entries.
+- Expand thin domains: Education, Robotics, Supply Chain, Planning, Design, Blockchain, and Transportation.
+- Add short summaries and tags for high-impact resources.
+- Report broken links, duplicates, or stale entries.
 
-[⚡ Automation](README-automation.md): Process optimization and efficient workflows.
-
-## 🌍 Applied Industry & Civic Domains
-
-[💊 Healthcare](README-healthcare.md): Autonomous medical agents and diagnostic systems.
-
-[🛡️ Security](README-security.md): Autonomous defense and threat detection.
-
-[🏭 OT/IoT](README-iot.md): Smart manufacturing and dynamic control.
-
-[🌆 Smart Cities](README-smart-cities.md): Urban management and resource allocation.
-
-[🚦 Transportation](README-transportation.md): Autonomous vehicles and fleet management.
-
-[📦 Supply Chain](README-supply-chain.md): Dynamic routing and inventory optimization.
-
-## 🤖 Hardware, Physical Systems & Networks
-
-[🤖 Robotics](README-robotics.md): Manipulation, path planning, and human-robot interaction.
-
-[🔧 Hardware Design](README-hardware-design.md): Architecture optimization and circuit layout.
-
-[📐 Design](README-design.md): Generative design and aesthetic optimization.
-
-[📡 Networking](README-networking.md): Self-healing networks and dynamic routing.
-
-[⛓️ Blockchain](README-blockchain.md): Decentralized agents and secure transactions.
-
-## 🎓 Specialized Ecosystems, Learning & Ethics
-
-[🔬 Research](README-research.md): New methodologies and cutting-edge papers.
-
-[🎓 Education](README-education.md): Tutoring systems and personalized learning.
-
-[🎮 Gaming](README-gaming.md): Intelligent NPCs and procedural content creation.
-
-[⚖️ Ethics and Safety](README-ethics-and-safety.md): Value alignment, robustness, and legal considerations.
-
-## 🤝 Contributing
-
-We welcome contributions! Whether you have:
-- New resources to add
-- Updates to existing content
-- Suggestions for improvements
-- Bug reports
-
-Please feel free to:
-1. Open an issue
-2. Submit a pull request
-3. Start a discussion
-
-Together, we can keep this knowledge hub comprehensive and current.
-
-## 👤 Author
+## Author
 
 **Mahmoud Rabie**
-- [LinkedIn Profile](https://www.linkedin.com/in/mahmoudrabie2004/)
-- [GitHub Profile](https://github.com/mahmoudrabie)
-- [X Profile](https://x.com/MahRabie)
 
----
+- [LinkedIn](https://www.linkedin.com/in/mahmoudrabie2004/)
+- [GitHub](https://github.com/mahmoudrabie)
+- [X](https://x.com/MahRabie)
