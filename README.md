@@ -30,10 +30,11 @@ If this saves you research time, starring the repo helps more builders discover 
 
 | Path | Follow these domains |
 | --- | --- |
-| Build agent systems | [Framework](README-framework.md), [Planning](README-planning.md), [Reasoning](README-reasoning.md), [Automation](README-automation.md) |
-| Evaluate and harden agents | [Testing](README-testing.md), [Security](README-security.md), [Ethics and Safety](README-ethics-and-safety.md) |
-| Track research frontiers | [Research](README-research.md), [Foundation Models](README-foundation-models.md), [Vision](README-vision.md) |
-| Apply agents in production domains | [Software Engineering](README-software-engineering.md), [Healthcare](README-healthcare.md), [OT/IoT](README-iot.md), [Robotics](README-robotics.md) |
+| Core AI & Cognition | [Foundation Models](README-foundation-models.md), [Reasoning](README-reasoning.md), [Planning](README-planning.md), [Vision](README-vision.md), [Recommendation](README-recommendation.md) |
+| Engineering, DevTools & Frameworks | [Software Engineering](README-software-engineering.md), [Testing](README-testing.md), [Framework](README-framework.md), [Automation](README-automation.md) |
+| Applied Industry & Civic Domains | [Healthcare](README-healthcare.md), [Security](README-security.md), [OT/IoT](README-iot.md), [Smart Cities](README-smart-cities.md), [Transportation](README-transportation.md), [Supply Chain](README-supply-chain.md) |
+| Hardware, Physical Systems & Networks | [Robotics](README-robotics.md), [Hardware Design](README-hardware-design.md), [Design](README-design.md), [Networking](README-networking.md), [Blockchain](README-blockchain.md) |
+| Specialized Ecosystems, Learning & Ethics | [Research](README-research.md), [Education](README-education.md), [Gaming](README-gaming.md), [Ethics and Safety](README-ethics-and-safety.md) |
 
 ## Domain Index
 
