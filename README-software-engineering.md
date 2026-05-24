@@ -1,6 +1,6 @@
 # 💻 Software Engineering
 
-| Research | Post |
+| Research | Links |
 |----------|-----------|
 | 🧠🔁 Memory Transfer Learning: How Memories are Transferred Across Domains in Coding Agents 🔁🧠 | [Post](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7451864521142398976-Ka2-) · [Paper](https://arxiv.org/pdf/2604.14004) |
 | 🧠🥽 Vibe Coding XR: Accelerating AI + XR Prototyping with XR Blocks and Gemini 🥽🧠 | [Post](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7450014794163712000-RgCQ) · [Paper](https://arxiv.org/pdf/2509.25504) |

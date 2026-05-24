@@ -1,6 +1,6 @@
 # 🎯 Recommendation
 
-| Research | Post |
+| Research | Links |
 |----------|-----------|
 | Learning Personalized Agents from Human Feedback | [Post](https://www.linkedin.com/posts/mahmoudrabie2004_foraiscientists-forairesearchers-foraiarchitects-activity-7431258236688678912-fC4_) · [Paper](https://arxiv.org/pdf/2602.16173) |
 | 🤖🎯 Towards Agentic Recommender Systems in the Era of Multimodal LLMs | [Post](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7310019980534702081-IUg8) · [Paper](https://arxiv.org/abs/2503.16734) |

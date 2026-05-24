@@ -1,6 +1,6 @@
 # 🔬 Research
 
-| Research | Post |
+| Research | Links |
 |----------|-----------|
 | 🧠🔎 OpenResearcher: A Fully Open Pipeline for Long-Horizon Deep Research Trajectory Synthesis 🔎🧠 | [Post](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7463857342187732992-XkUK?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) · [Paper](https://arxiv.org/pdf/2603.20278) |
 | 🧠🔍 MiroMind.ai MiroThinker-1.7 & H1: Towards Heavy-Duty Research Agents via Verification 🔍🧠 | [Post](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-share-7461321805425770496-ZucQ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) · [Paper](https://arxiv.org/pdf/2603.15726) |

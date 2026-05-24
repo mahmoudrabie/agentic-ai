@@ -1,6 +1,6 @@
 # 🏭 OT/IoT
 
-| Research | Post |
+| Research | Links |
 |----------|-----------|
 | 🛡️🏭 Characterizing AI-Assisted Bot Traffic in Darknet Data: Implications for ICS and IIoT Security 🏭🛡️ | [Post](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-share-7462383559564013569-P52n?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) · [Paper](https://arxiv.org/pdf/2605.14209) |
 | 🛡️🏭 CritBench: A Framework for Evaluating Cybersecurity Capabilities of Large Language Models in IEC 61850 Digital Substation Environments 🏭🛡️ | [Post](https://www.linkedin.com/posts/mahmoudrabie2004_forabrotabrarchitects-forabrsecurityabrresearchers-activity-7461642396221562880-uHT1?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) · [Paper](https://arxiv.org/pdf/2604.06019) |

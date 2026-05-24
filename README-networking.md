@@ -1,6 +1,6 @@
 # 📡 Networking
 
-| Research | Post |
+| Research | Links |
 |----------|-----------|
 | A Layered Protocol Architecture for the Internet of Agents | [Post](https://www.linkedin.com/posts/mahmoudrabie2004_foraiscientists-forairesearchers-foraiarchitects-activity-7402441305550675968-3X7e) · [Paper](https://arxiv.org/pdf/2511.19699) |
 | 🤖🌐 Federation of Agents: A Semantics-Aware Communication Fabric for Large-Scale Agentic AI 🌐🤖 | [Post](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7377636340093452289-m8nH) · [Paper](https://arxiv.org/pdf/2509.20175) |

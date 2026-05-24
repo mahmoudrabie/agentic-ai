@@ -1,6 +1,6 @@
 # 👁️ Vision
 
-| Research | Post |
+| Research | Links |
 |----------|-----------|
 | 🧠🏗️ Think, Act, Build: An Agentic Framework with Vision Language Models for Zero-Shot 3D Visual Grounding 🏗️🧠 | [Post](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7446667524298981376-6WlD) · [Paper](https://arxiv.org/pdf/2604.00528) |
 | 🧠🖼️ Unify-Agent: A Unified Multimodal Agent for World-Grounded Image Synthesis 🖼️🧠 | [Post](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7447020925926969345-h1oe) · [Paper](https://arxiv.org/pdf/2603.29620) |

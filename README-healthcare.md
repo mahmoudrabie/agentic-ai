@@ -1,6 +1,6 @@
 # 💊 Healthcare
 
-| Research | Post |
+| Research | Links |
 |----------|-----------|
 | 🩺📈 The Anatomy of a Personal Health Agent 📈🩺 | [Post](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7386140683910393858-Frdx) · [Paper](https://arxiv.org/pdf/2508.20148) |
 | 🤖🔬 CellVoyager: AI CompBio Agent Generates New Insights by Autonomously Analyzing Biological Data 🔬🤖 | [Post](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7337912663026380800-lNB9) · [Paper](https://doi.org/10.1101/2025.06.03.657517) |

@@ -1,6 +1,6 @@
 # 🤖 Foundation Models
 
-| Research | Post |
+| Research | Links |
 |----------|-----------|
 | 🧠🤝 Multi-Agent Systems: From Classical Paradigms to Large Foundation Model-Enabled Futures 🤝🧠 | [Post](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7452438532452757504-S3OC) · [Paper](https://arxiv.org/pdf/2604.18133) |
 | 🧠🔁 Pioneer Agent: Continual Improvement of Small Language Models in Production 🔁🧠 | [Post](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-share-7450417343601500160-Hyfd) · [Paper](https://arxiv.org/pdf/2604.09791) |

@@ -1,6 +1,6 @@
 # ⚖️ Ethics and Safety
 
-| Research | Post |
+| Research | Links |
 |----------|-----------|
 | 🧠⚠️ Emergent Social Intelligence Risks in Generative Multi-Agent Systems ⚠️🧠 | [Post](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7445141691625414656-XhEN) · [Paper](https://arxiv.org/pdf/2603.27771) |
 | 🤖🔧⚙ Trustworthiness Optimisation Process: A Methodology for Assessing and Enhancing Trust in AI Systems | [Post](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7314386670726918144-jR9y) |

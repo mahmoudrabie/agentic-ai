@@ -1,6 +1,6 @@
 # ⚡ Automation
 
-| Research | Post |
+| Research | Links |
 |----------|-----------|
 | Synthetic Computers at Scale for Long-Horizon Productivity Simulation | [Post](https://www.linkedin.com/posts/mahmoudrabie2004_foraiscientists-forairesearchers-foraiarchitects-activity-7456056945469296640-g7PX) · [Paper](https://arxiv.org/pdf/2604.28181) |
 | 🧠💻 Terminal Agents Suffice for Enterprise Automation 💻🧠 | [Post](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7445587640256598016-iV8G) · [Paper](https://arxiv.org/pdf/2604.00073) |

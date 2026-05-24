@@ -1,6 +1,6 @@
 # 🔧 Hardware Design
 
-| Research | Post |
+| Research | Links |
 |----------|-----------|
 | 🧠⚙️ Autonomous Evolution of EDA Tools: Multi-Agent Self-Evolved ABC ⚙️🧠 | [Post](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7452750919877763072-lYcA) · [Paper](https://arxiv.org/pdf/2604.15082) |
 | The Dawn of Agentic EDA: A Survey of Autonomous Digital Chip Design | [Post](https://www.linkedin.com/posts/mahmoudrabie2004_foraiscientists-forairesearchers-foraiarchitects-activity-7412814558777569281-mRi0) · [Paper](https://arxiv.org/pdf/2512.23189) |

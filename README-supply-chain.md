@@ -1,5 +1,5 @@
 # 📦 Supply Chain
 
-| Research | Post |
+| Research | Links |
 |----------|-----------|
 | 🤖📦 SustAI-SCM: Agentic AI for Sustainable Supply Chain Automation | [Post](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7305351488883589120-Dzrg) |

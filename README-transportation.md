@@ -1,6 +1,6 @@
 # 🚦 Transportation
 
-| Research | Post |
+| Research | Links |
 |----------|-----------|
 | 🚦🤖 PyTSC: Revolutionizing Multi-Agent Reinforcement Learning for Traffic Signal Control | [Post](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7298709281036525569-0VL2) |
 | ⚡🤖 Electric Vehicles as Evolutionary Robots | [Post](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7297682324060561409-u2B8) |
