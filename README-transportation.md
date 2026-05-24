@@ -2,6 +2,6 @@
 
 | Research | Links |
 |----------|-----------|
-| 🚦🤖 PyTSC: Revolutionizing Multi-Agent Reinforcement Learning for Traffic Signal Control | [Post](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7298709281036525569-0VL2) |
-| ⚡🤖 Electric Vehicles as Evolutionary Robots | [Post](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7297682324060561409-u2B8) |
-| 🚦🤖 Multi-Agent Reinforcement Learning for Traffic Intersection Management | [Post](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrresearchers-forabraiabrscientists-activity-7291032407149801473-3ypT) |
+| 🚦🤖 PyTSC: Revolutionizing Multi-Agent Reinforcement Learning for Traffic Signal Control | [Post](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7298709281036525569-0VL2) · [Paper](https://arxiv.org/abs/2410.18202) |
+| ⚡🤖 Electric Vehicles as Evolutionary Robots | [Post](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7297682324060561409-u2B8) · [Paper](https://www.frontiersin.org/journals/robotics-and-ai/articles/10.3389/frobt.2025.1499215) |
+| 🚦🤖 Multi-Agent Reinforcement Learning for Traffic Intersection Management | [Post](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrresearchers-forabraiabrscientists-activity-7291032407149801473-3ypT) · [Paper](https://www.mdpi.com/2218-6581/13/7/109) |
