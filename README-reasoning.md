@@ -2,6 +2,7 @@
 
 | Research | Links |
 |----------|-----------|
+| 🧠🕸️ Rethinking Memory as Continuously Evolving Connectivity 🕸️🧠 | [Post](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7465808958751096832-nTrT?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) · [Paper](https://arxiv.org/pdf/2605.28773) |
 | Brain-Inspired Graph Multi-Agent Systems for LLM Reasoning | [Post](https://www.linkedin.com/posts/mahmoudrabie2004_foraiscientists-forairesearchers-foraiarchitects-activity-7441847742311731200-KMfy) · [Paper](https://arxiv.org/pdf/2603.15371) |
 | 🧠🛠 Act Wisely: Cultivating Meta-Cognitive Tool Use in Agentic Multimodal Models 🛠🧠 | [Post](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7449173757954359296-8nBs) · [Paper](https://arxiv.org/pdf/2604.08545) |
 | 🧠🧩 Agentic Reasoning for Large Language Models 🧩🧠 | [Post](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7420859537328549888-GXvp) · [Paper](https://arxiv.org/pdf/2601.12538) |

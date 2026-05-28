@@ -43,7 +43,7 @@ If this saves you research time, starring the repo helps more builders discover 
 | [🔬 Research](README-research.md) | 61 | AI scientists, deep research, autonomous discovery |
 | [⚙️ Framework](README-framework.md) | 56 | Agent runtimes, memory, tools, orchestration |
 | [🛡️ Security](README-security.md) | 49 | Prompt injection, red teaming, cyber agents, defenses |
-| [🧠 Reasoning](README-reasoning.md) | 20 | Inference, deliberation, cognitive architectures |
+| [🧠 Reasoning](README-reasoning.md) | 21 | Inference, deliberation, cognitive architectures |
 | [🧪 Testing](README-testing.md) | 18 | Benchmarks, harnesses, evaluation methodology |
 | [💊 Healthcare](README-healthcare.md) | 15 | Medical agents, diagnosis, pharma, biomedical research |
 | [💻 Software Engineering](README-software-engineering.md) | 15 | Coding agents, debugging, refactoring, code review |
