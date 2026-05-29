@@ -50,7 +50,7 @@ If this saves you research time, starring the repo helps more builders discover 
 | [⚡ Automation](README-automation.md) | 12 | Process automation and workflow optimization |
 | [📡 Networking](README-networking.md) | 9 | Self-healing networks and routing |
 | [👁️ Vision](README-vision.md) | 6 | Visual agents and multimodal grounding |
-| [🤖 Foundation Models](README-foundation-models.md) | 5 | Agentic capabilities in foundation models |
+| [🤖 Foundation Models](README-foundation-models.md) | 6 | Agentic capabilities in foundation models |
 | [⚖️ Ethics and Safety](README-ethics-and-safety.md) | 5 | Alignment, fairness, trust, governance |
 | [🔧 Hardware Design](README-hardware-design.md) | 5 | EDA, chip design, verification |
 | [🏭 OT/IoT](README-iot.md) | 5 | Industrial systems and device control |
@@ -61,8 +61,8 @@ If this saves you research time, starring the repo helps more builders discover 
 | [🚦 Transportation](README-transportation.md) | 3 | Autonomous vehicles and fleet management |
 | [📐 Design](README-design.md) | 2 | Generative and collaborative design |
 | [📋 Planning](README-planning.md) | 2 | Multi-step decision making and goal assignment |
-| [🤖 Robotics](README-robotics.md) | 2 | Embodied agents and physical systems |
 | [🎓 Education](README-education.md) | 1 | Tutoring and personalized learning |
+| [🤖 Robotics](README-robotics.md) | 1 | Embodied agents and physical systems |
 | [📦 Supply Chain](README-supply-chain.md) | 1 | Routing, inventory, logistics optimization |
 
 ## Curation Standard
