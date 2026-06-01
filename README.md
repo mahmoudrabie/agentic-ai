@@ -47,7 +47,7 @@ If this saves you research time, starring the repo helps more builders discover 
 | [🧪 Testing](README-testing.md) | 18 | Benchmarks, harnesses, evaluation methodology |
 | [💊 Healthcare](README-healthcare.md) | 15 | Medical agents, diagnosis, pharma, biomedical research |
 | [💻 Software Engineering](README-software-engineering.md) | 15 | Coding agents, debugging, refactoring, code review |
-| [⚡ Automation](README-automation.md) | 12 | Process automation and workflow optimization |
+| [⚡ Automation](README-automation.md) | 13 | Process automation and workflow optimization |
 | [📡 Networking](README-networking.md) | 9 | Self-healing networks and routing |
 | [👁️ Vision](README-vision.md) | 6 | Visual agents and multimodal grounding |
 | [🤖 Foundation Models](README-foundation-models.md) | 6 | Agentic capabilities in foundation models |

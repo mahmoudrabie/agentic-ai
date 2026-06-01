@@ -2,6 +2,7 @@
 
 | Research | Links |
 |----------|-----------|
+| 🧠⏰ Do Proactive Agents Really Need an LLM to Decide When to Wake and What to Anchor? ⏰🧠 | [Post](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-share-7467167193823195137-soEo/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) · [Paper](https://arxiv.org/pdf/2605.30152) |
 | Synthetic Computers at Scale for Long-Horizon Productivity Simulation | [Post](https://www.linkedin.com/posts/mahmoudrabie2004_foraiscientists-forairesearchers-foraiarchitects-activity-7456056945469296640-g7PX) · [Paper](https://arxiv.org/pdf/2604.28181) |
 | 🧠💻 Terminal Agents Suffice for Enterprise Automation 💻🧠 | [Post](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7445587640256598016-iV8G) · [Paper](https://arxiv.org/pdf/2604.00073) |
 | ProAgent: Harnessing On-Demand Sensory Contexts for Proactive LLM Agent Systems | [Post](https://www.linkedin.com/posts/mahmoudrabie2004_foraiscientists-forairesearchers-foraiarchitects-activity-7406755535431168000-dsNG) · [Paper](https://arxiv.org/pdf/2512.06721) |
