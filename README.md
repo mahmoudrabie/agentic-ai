@@ -59,7 +59,7 @@ If this saves you research time, starring the repo helps more builders discover 
 | [⛓️ Blockchain](README-blockchain.md) | 4 | Decentralized agents and secure transactions |
 | [🎮 Gaming](README-gaming.md) | 4 | NPCs, simulation, procedural content |
 | [🚦 Transportation](README-transportation.md) | 3 | Autonomous vehicles and fleet management |
-| [📐 Design](README-design.md) | 2 | Generative and collaborative design |
+| [📐 Design](README-design.md) | 3 | Generative and collaborative design |
 | [📋 Planning](README-planning.md) | 2 | Multi-step decision making and goal assignment |
 | [🎓 Education](README-education.md) | 1 | Tutoring and personalized learning |
 | [🤖 Robotics](README-robotics.md) | 1 | Embodied agents and physical systems |
