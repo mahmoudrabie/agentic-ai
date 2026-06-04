@@ -2,6 +2,7 @@
 
 | Research | Links |
 |----------|-----------|
+| 🧠🗂️ EverMemOS: A Self-Organizing Memory Operating System for Structured Long-Horizon Reasoning 🗂️🧠 | [Post](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7468011627347443712-6hk5?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) · [Paper](https://arxiv.org/pdf/2601.02163) |
 | 🧠🕸️ Rethinking Memory as Continuously Evolving Connectivity 🕸️🧠 | [Post](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7465808958751096832-nTrT?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) · [Paper](https://arxiv.org/pdf/2605.28773) |
 | ParamMem: Augmenting Language Agents with Parametric Reflective Memory | [Post](https://www.linkedin.com/posts/mahmoudrabie2004_foraiscientists-forairesearchers-foraiarchitects-activity-7442291498911612928-hl6O) · [Paper](https://arxiv.org/pdf/2602.23320) |
 | Memex(RL): Scaling Long-Horizon LLM Agents via Indexed Experience Memory | [Post](https://www.linkedin.com/posts/mahmoudrabie2004_foraiscientists-forairesearchers-foraiarchitects-activity-7439317077967949825-tsAm) · [Paper](https://arxiv.org/pdf/2603.04257) |
