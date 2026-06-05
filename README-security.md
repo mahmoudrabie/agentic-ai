@@ -2,6 +2,7 @@
 
 | Research | Links |
 |----------|-----------|
+| 🧠🛡️ AI Agents Enable Adaptive Computer Worms 🛡️🧠 | [Post](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7468629146936586240-rMuj?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) · [Paper](https://arxiv.org/pdf/2606.03811) |
 | 🧠🛡️ ExploitGym: Can AI Agents Turn Security Vulnerabilities into Real Attacks? 🛡️🧠 | [Post](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7463492980604108801-BNa7?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) · [Paper](https://arxiv.org/abs/2605.11086) |
 | 🧠🛡️ Architecting Secure AI Agents: Perspectives on System-Level Defenses Against Indirect Prompt Injection Attacks 🛡️🧠 | [Post](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7461978046401740800-dFEg?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) · [Paper](https://arxiv.org/abs/2603.30016) |
 | 🧠🛡️ DecodingTrust-Agent Platform (DTap): A Controllable and Interactive Red-Teaming Platform for AI Agents 🛡️🧠 | [Post](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7459303251721678848-0qgS?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) · [Paper](https://arxiv.org/abs/2605.04808) |
