@@ -40,7 +40,7 @@ If this saves you research time, starring the repo helps more builders discover 
 
 | Domain | Researches | Focus |
 | --- | ---: | --- |
-| [🔬 Research](README-research.md) | 62 | AI scientists, deep research, autonomous discovery |
+| [🔬 Research](README-research.md) | 63 | AI scientists, deep research, autonomous discovery |
 | [⚙️ Framework](README-framework.md) | 52 | Agent runtimes, memory, tools, orchestration |
 | [🛡️ Security](README-security.md) | 50 | Prompt injection, red teaming, cyber agents, defenses |
 | [🧠 Reasoning](README-reasoning.md) | 26 | Inference, deliberation, cognitive architectures |
