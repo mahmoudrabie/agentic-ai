@@ -61,7 +61,7 @@ If this saves you research time, starring the repo helps more builders discover 
 | [🚦 Transportation](README-transportation.md) | 3 | Autonomous vehicles and fleet management |
 | [📐 Design](README-design.md) | 3 | Generative and collaborative design |
 | [📋 Planning](README-planning.md) | 2 | Multi-step decision making and goal assignment |
-| [🤖 Physical AI/Robotics](README-robotics.md) | 2 | Physical AI, embodied agents, and robot systems |
+| [🤖 Physical AI/Robotics](README-robotics.md) | 3 | Physical AI, embodied agents, and robot systems |
 | [🎓 Education](README-education.md) | 1 | Tutoring and personalized learning |
 | [📦 Supply Chain](README-supply-chain.md) | 1 | Routing, inventory, logistics optimization |
 
