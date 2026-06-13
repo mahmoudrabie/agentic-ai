@@ -43,8 +43,8 @@ If this saves you research time, starring the repo helps more builders discover 
 | [🔬 Research](README-research.md) | 63 | AI scientists, deep research, autonomous discovery |
 | [⚙️ Framework](README-framework.md) | 52 | Agent runtimes, memory, tools, orchestration |
 | [🛡️ Security](README-security.md) | 50 | Prompt injection, red teaming, cyber agents, defenses |
-| [🧠 Reasoning](README-reasoning.md) | 26 | Inference, deliberation, cognitive architectures |
-| [🧪 Testing](README-testing.md) | 18 | Benchmarks, harnesses, evaluation methodology |
+| [🧠 Reasoning](README-reasoning.md) | 25 | Inference, deliberation, cognitive architectures |
+| [🧪 Testing](README-testing.md) | 19 | Benchmarks, harnesses, evaluation methodology |
 | [💊 Healthcare](README-healthcare.md) | 15 | Medical agents, diagnosis, pharma, biomedical research |
 | [💻 Software Engineering](README-software-engineering.md) | 15 | Coding agents, debugging, refactoring, code review |
 | [⚡ Automation](README-automation.md) | 13 | Process automation and workflow optimization |
@@ -56,12 +56,12 @@ If this saves you research time, starring the repo helps more builders discover 
 | [🏭 OT/IoT](README-iot.md) | 5 | Industrial systems and device control |
 | [🎯 Recommendation](README-recommendation.md) | 5 | Personalization and proactive discovery |
 | [🌆 Smart Cities](README-smart-cities.md) | 5 | Urban operations and civic systems |
+| [🤖 Physical AI/Robotics](README-robotics.md) | 5 | Physical AI, embodied agents, and robot systems |
 | [⛓️ Blockchain](README-blockchain.md) | 4 | Decentralized agents and secure transactions |
 | [🎮 Gaming](README-gaming.md) | 4 | NPCs, simulation, procedural content |
-| [🚦 Transportation](README-transportation.md) | 3 | Autonomous vehicles and fleet management |
 | [📐 Design](README-design.md) | 3 | Generative and collaborative design |
+| [🚦 Transportation](README-transportation.md) | 2 | Autonomous vehicles and fleet management |
 | [📋 Planning](README-planning.md) | 2 | Multi-step decision making and goal assignment |
-| [🤖 Physical AI/Robotics](README-robotics.md) | 3 | Physical AI, embodied agents, and robot systems |
 | [🎓 Education](README-education.md) | 1 | Tutoring and personalized learning |
 | [📦 Supply Chain](README-supply-chain.md) | 1 | Routing, inventory, logistics optimization |
 

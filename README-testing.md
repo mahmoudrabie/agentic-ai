@@ -2,6 +2,7 @@
 
 | Research | Links |
 |----------|-----------|
+| 🧠🏁 Agents' Last Exam: Benchmarking AI Agents on Real Professional Workflows 🏁🧠 | [Post](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7471247686281641993-IBPp?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) · [Paper](https://arxiv.org/pdf/2606.05405) |
 | 🧠🔎 DR3-Eval: Towards Realistic and Reproducible Deep Research Evaluation 🔎🧠 | [Post](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7451314145104297984-feGc) · [Paper](https://arxiv.org/pdf/2604.14683) |
 | 🧠🧩 Code as Agent Harness: Toward Executable, Verifiable, and Stateful Agent Systems 🧩🧠 | [Post](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-share-7462909473976688641--7D2?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) · [Paper](https://arxiv.org/pdf/2605.18747) |
 | AutoHarness: Improving LLM Agents by Automatically Synthesizing a Code Harness | [Post](https://www.linkedin.com/posts/mahmoudrabie2004_foraiscientists-forairesearchers-foraiarchitects-activity-7438939566155292672-wWbJ) · [Paper](https://arxiv.org/pdf/2603.03329) |
