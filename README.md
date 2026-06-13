@@ -22,7 +22,7 @@ Agentic AI moves fast, and useful work is scattered across papers, code reposito
 - frameworks and orchestration patterns for building agents
 - evaluation, testing, and benchmark resources
 - security, safety, and governance research
-- domain applications in healthcare, robotics, software engineering, IoT, education, and more
+- domain applications in healthcare, Physical AI/robotics, software engineering, IoT, education, and more
 
 If this saves you research time, starring the repo helps more builders discover it.
 
@@ -33,7 +33,7 @@ If this saves you research time, starring the repo helps more builders discover 
 | Core AI & Cognition | [Foundation Models](README-foundation-models.md), [Reasoning](README-reasoning.md), [Planning](README-planning.md), [Vision](README-vision.md), [Recommendation](README-recommendation.md) |
 | Engineering, DevTools & Frameworks | [Software Engineering](README-software-engineering.md), [Testing](README-testing.md), [Framework](README-framework.md), [Automation](README-automation.md) |
 | Applied Industry & Civic Domains | [Healthcare](README-healthcare.md), [Security](README-security.md), [OT/IoT](README-iot.md), [Smart Cities](README-smart-cities.md), [Transportation](README-transportation.md), [Supply Chain](README-supply-chain.md) |
-| Hardware, Physical Systems & Networks | [Robotics](README-robotics.md), [Hardware Design](README-hardware-design.md), [Design](README-design.md), [Networking](README-networking.md), [Blockchain](README-blockchain.md) |
+| Hardware, Physical Systems & Networks | [Physical AI/Robotics](README-robotics.md), [Hardware Design](README-hardware-design.md), [Design](README-design.md), [Networking](README-networking.md), [Blockchain](README-blockchain.md) |
 | Specialized Ecosystems, Learning & Ethics | [Research](README-research.md), [Education](README-education.md), [Gaming](README-gaming.md), [Ethics and Safety](README-ethics-and-safety.md) |
 
 ## Domain Index
@@ -61,7 +61,7 @@ If this saves you research time, starring the repo helps more builders discover 
 | [🚦 Transportation](README-transportation.md) | 3 | Autonomous vehicles and fleet management |
 | [📐 Design](README-design.md) | 3 | Generative and collaborative design |
 | [📋 Planning](README-planning.md) | 2 | Multi-step decision making and goal assignment |
-| [🤖 Robotics](README-robotics.md) | 2 | Embodied agents and physical systems |
+| [🤖 Physical AI/Robotics](README-robotics.md) | 2 | Physical AI, embodied agents, and robot systems |
 | [🎓 Education](README-education.md) | 1 | Tutoring and personalized learning |
 | [📦 Supply Chain](README-supply-chain.md) | 1 | Routing, inventory, logistics optimization |
 

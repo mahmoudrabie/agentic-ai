@@ -1,4 +1,4 @@
-# 🤖 Robotics
+# 🤖 Physical AI/Robotics
 
 | Research | Links |
 |----------|-----------|
