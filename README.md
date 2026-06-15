@@ -51,12 +51,12 @@ If this saves you research time, starring the repo helps more builders discover 
 | [📡 Networking](README-networking.md) | 9 | Self-healing networks and routing |
 | [👁️ Vision](README-vision.md) | 6 | Visual agents and multimodal grounding |
 | [🤖 Foundation Models](README-foundation-models.md) | 6 | Agentic capabilities in foundation models |
+| [🤖 Physical AI/Robotics](README-robotics.md) | 6 | Physical AI, embodied agents, and robot systems |
 | [⚖️ Ethics and Safety](README-ethics-and-safety.md) | 5 | Alignment, fairness, trust, governance |
 | [🔧 Hardware Design](README-hardware-design.md) | 5 | EDA, chip design, verification |
 | [🏭 OT/IoT](README-iot.md) | 5 | Industrial systems and device control |
 | [🎯 Recommendation](README-recommendation.md) | 5 | Personalization and proactive discovery |
 | [🌆 Smart Cities](README-smart-cities.md) | 5 | Urban operations and civic systems |
-| [🤖 Physical AI/Robotics](README-robotics.md) | 5 | Physical AI, embodied agents, and robot systems |
 | [⛓️ Blockchain](README-blockchain.md) | 4 | Decentralized agents and secure transactions |
 | [🎮 Gaming](README-gaming.md) | 4 | NPCs, simulation, procedural content |
 | [📐 Design](README-design.md) | 3 | Generative and collaborative design |
