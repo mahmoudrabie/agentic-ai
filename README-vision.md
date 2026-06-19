@@ -2,6 +2,7 @@
 
 | Research | Links |
 |----------|-----------|
+| 🧠🌐 SpatialClaw: Rethinking Action Interface for Agentic Spatial Reasoning 🌐🧠 | [Post](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-share-7473455078067253249-LZOn/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) · [Paper](https://spatialclaw.github.io/static/pdfs/spatialclaw.pdf) |
 | 🧠🏗️ Think, Act, Build: An Agentic Framework with Vision Language Models for Zero-Shot 3D Visual Grounding 🏗️🧠 | [Post](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7446667524298981376-6WlD) · [Paper](https://arxiv.org/pdf/2604.00528) |
 | 🧠🖼️ Unify-Agent: A Unified Multimodal Agent for World-Grounded Image Synthesis 🖼️🧠 | [Post](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7447020925926969345-h1oe) · [Paper](https://arxiv.org/pdf/2603.29620) |
 | 🧠🌐 MolmoWeb: Open Visual Web Agent and Open Data for the Open Web 🌐🧠 | [Post](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7448928400486084608-P3q-) · [Paper](https://arxiv.org/abs/2604.08516) |

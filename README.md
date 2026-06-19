@@ -49,7 +49,7 @@ If this saves you research time, starring the repo helps more builders discover 
 | [💻 Software Engineering](README-software-engineering.md) | 15 | Coding agents, debugging, refactoring, code review |
 | [⚡ Automation](README-automation.md) | 13 | Process automation and workflow optimization |
 | [📡 Networking](README-networking.md) | 9 | Self-healing networks and routing |
-| [👁️ Vision](README-vision.md) | 6 | Visual agents and multimodal grounding |
+| [👁️ Vision](README-vision.md) | 7 | Visual agents and multimodal grounding |
 | [🤖 Foundation Models](README-foundation-models.md) | 6 | Agentic capabilities in foundation models |
 | [🤖 Physical AI/Robotics](README-robotics.md) | 6 | Physical AI, embodied agents, and robot systems |
 | [⚖️ Ethics and Safety](README-ethics-and-safety.md) | 5 | Alignment, fairness, trust, governance |
