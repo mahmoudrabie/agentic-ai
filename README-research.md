@@ -2,6 +2,7 @@
 
 | Research | Links |
 |----------|-----------|
+| 🧠📊 Autodata: An Agentic Data Scientist for High-Quality Synthetic Data 📊🧠 | [Post](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-share-7477043833331945472-Y_oP/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) · [Paper](https://arxiv.org/pdf/2606.25996) |
 | 🧠🔬 EvoScientist: Towards Multi-Agent Evolving AI Scientists for End-to-End Scientific Discovery 🔬🧠 | [Post](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-share-7469060082991816704-vnsU/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) · [Paper](https://arxiv.org/pdf/2603.08127) |
 | AutoScientists: Self-Organizing Agent Teams for Long-Running Scientific Experimentation | [Post](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-share-7466423296759201792-0nLH/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) · [Paper](https://arxiv.org/pdf/2605.28655) |
 | 🧠🔎 OpenResearcher: A Fully Open Pipeline for Long-Horizon Deep Research Trajectory Synthesis 🔎🧠 | [Post](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7463857342187732992-XkUK?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) · [Paper](https://arxiv.org/pdf/2603.20278) |
