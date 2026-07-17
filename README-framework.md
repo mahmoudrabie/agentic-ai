@@ -2,6 +2,7 @@
 
 | Research | Links |
 |----------|-----------|
+| 🧠🔄 Self-Improvements in Modern Agentic Systems: A Survey 🔄🧠 | [Post](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-share-7483765828535119872-nqoB/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) · [Paper](https://arxiv.org/pdf/2607.13104) |
 | 🧠⚙️ SkillOpt: Executive Strategy for Self-Evolving Agent Skills ⚙️🧠 | [Post](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7465431635489087490-N58x?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) · [Paper](https://arxiv.org/pdf/2605.23904) |
 | FAMA: Failure-Aware Meta-Agentic Framework for Open-Source LLMs in Interactive Tool Use Environments | [Post](https://www.linkedin.com/posts/mahmoudrabie2004_foraiscientists-forairesearchers-foraiarchitects-activity-7456338983632105472-bSzQ) · [Paper](https://arxiv.org/abs/2604.25135) |
 | Skill Retrieval Augmentation (SRA) for Agentic AI | [Post](https://www.linkedin.com/posts/mahmoudrabie2004_foraiarchitects-forairesearchers-foraiscientists-activity-7455114675001733121-9aZ6) · [Paper](https://arxiv.org/abs/2604.24594) |
