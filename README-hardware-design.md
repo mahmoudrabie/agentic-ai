@@ -2,6 +2,7 @@
 
 | Research | Links |
 |----------|-----------|
+| 🧠⚡ SOLAR: AI-Powered Speed-of-Light Performance Analysis ⚡🧠 | [Post](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-share-7476714224032018432-2895/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) · [Paper](https://arxiv.org/pdf/2606.26383) |
 | 🧠⚙️ Autonomous Evolution of EDA Tools: Multi-Agent Self-Evolved ABC ⚙️🧠 | [Post](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7452750919877763072-lYcA) · [Paper](https://arxiv.org/pdf/2604.15082) |
 | The Dawn of Agentic EDA: A Survey of Autonomous Digital Chip Design | [Post](https://www.linkedin.com/posts/mahmoudrabie2004_foraiscientists-forairesearchers-foraiarchitects-activity-7412814558777569281-mRi0) · [Paper](https://arxiv.org/pdf/2512.23189) |
 | Distributed quantum architecture search using multi-agent reinforcement learning | [Post](https://www.linkedin.com/posts/mahmoudrabie2004_foraiscientists-forairesearchers-foraiarchitects-activity-7401688412736438272-WhK3) · [Paper](https://arxiv.org/pdf/2511.22708) |
