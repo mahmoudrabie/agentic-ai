@@ -50,8 +50,8 @@ If this saves you research time, starring the repo helps more builders discover 
 | [⚡ Automation](README-automation.md) | 13 | Process automation and workflow optimization |
 | [📡 Networking](README-networking.md) | 9 | Self-healing networks and routing |
 | [👁️ Vision](README-vision.md) | 7 | Visual agents and multimodal grounding |
+| [🤖 Physical AI/Robotics](README-robotics.md) | 7 | Physical AI, embodied agents, and robot systems |
 | [🤖 Foundation Models](README-foundation-models.md) | 6 | Agentic capabilities in foundation models |
-| [🤖 Physical AI/Robotics](README-robotics.md) | 6 | Physical AI, embodied agents, and robot systems |
 | [🔧 Hardware Design](README-hardware-design.md) | 6 | EDA, chip design, verification |
 | [⚖️ Ethics and Safety](README-ethics-and-safety.md) | 5 | Alignment, fairness, trust, governance |
 | [🏭 OT/IoT](README-iot.md) | 5 | Industrial systems and device control |
