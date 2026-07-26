@@ -2,6 +2,7 @@
 
 | Research | Links |
 |----------|-----------|
+| ClawBench: Can AI Agents Complete Everyday Online Tasks? | [Paper](https://arxiv.org/abs/2604.08523) · [Code](https://github.com/TIGER-AI-Lab/ClawBench) · [Project](https://claw-bench.com/) |
 | 🧠🏁 Agents' Last Exam: Benchmarking AI Agents on Real Professional Workflows 🏁🧠 | [Post](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7471247686281641993-IBPp?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) · [Paper](https://arxiv.org/pdf/2606.05405) |
 | 🧠🔎 DR3-Eval: Towards Realistic and Reproducible Deep Research Evaluation 🔎🧠 | [Post](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7451314145104297984-feGc) · [Paper](https://arxiv.org/pdf/2604.14683) |
 | 🧠🧩 Code as Agent Harness: Toward Executable, Verifiable, and Stateful Agent Systems 🧩🧠 | [Post](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-share-7462909473976688641--7D2?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) · [Paper](https://arxiv.org/pdf/2605.18747) |
