@@ -2,6 +2,7 @@
 
 | Research | Links |
 |----------|-----------|
+| 🧠📄 Towards Automating Scientific Review with Google’s Paper Assistant Tool 📄🧠 | [Post](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-share-7477810601927532544-0gpt/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) · [Paper](https://arxiv.org/abs/2606.28277) |
 | 🧠📊 Autodata: An Agentic Data Scientist for High-Quality Synthetic Data 📊🧠 | [Post](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-share-7477043833331945472-Y_oP/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) · [Paper](https://arxiv.org/pdf/2606.25996) |
 | 🧠🔬 EvoScientist: Towards Multi-Agent Evolving AI Scientists for End-to-End Scientific Discovery 🔬🧠 | [Post](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-share-7469060082991816704-vnsU/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) · [Paper](https://arxiv.org/pdf/2603.08127) |
 | AutoScientists: Self-Organizing Agent Teams for Long-Running Scientific Experimentation | [Post](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-share-7466423296759201792-0nLH/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) · [Paper](https://arxiv.org/pdf/2605.28655) |

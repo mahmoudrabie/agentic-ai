@@ -2,6 +2,8 @@
 
 | Research | Links |
 |----------|-----------|
+| 🧠📱 UI-Voyager: A Self-Evolving GUI Agent Learning via Failed Experience 📱🧠 | [Post](https://www.linkedin.com/posts/daily-papers-ab213b360_mobile-gui-agents-that-actually-learn-from-activity-7443027434842578945-Ku5S) · [Paper](https://arxiv.org/abs/2603.24533) |
+| 🧠⚙️ DataFlow: An LLM-Driven Framework for Unified Data Preparation and Workflow Automation in the Era of Data-Centric AI ⚙️🧠 | [Post](https://www.linkedin.com/posts/mahmoudrabie2004_foraiscientists-forairesearchers-foraiarchitects-activity-7410730062963965953-iUSc) · [Paper](https://arxiv.org/abs/2512.16676) |
 | 🧠⏰ Do Proactive Agents Really Need an LLM to Decide When to Wake and What to Anchor? ⏰🧠 | [Post](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-share-7467167193823195137-soEo/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) · [Paper](https://arxiv.org/pdf/2605.30152) |
 | Synthetic Computers at Scale for Long-Horizon Productivity Simulation | [Post](https://www.linkedin.com/posts/mahmoudrabie2004_foraiscientists-forairesearchers-foraiarchitects-activity-7456056945469296640-g7PX) · [Paper](https://arxiv.org/pdf/2604.28181) |
 | 🧠💻 Terminal Agents Suffice for Enterprise Automation 💻🧠 | [Post](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7445587640256598016-iV8G) · [Paper](https://arxiv.org/pdf/2604.00073) |
