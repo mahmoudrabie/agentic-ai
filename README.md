@@ -53,7 +53,7 @@ If this saves you research time, starring the repo helps more builders discover 
 | [🤖 Physical AI/Robotics](README-robotics.md) | 7 | Physical AI, embodied agents, and robot systems |
 | [🤖 Foundation Models](README-foundation-models.md) | 6 | Agentic capabilities in foundation models |
 | [🔧 Hardware Design](README-hardware-design.md) | 6 | EDA, chip design, verification |
-| [⚖️ Ethics and Safety](README-ethics-and-safety.md) | 5 | Alignment, fairness, trust, governance |
+| [⚖️ Ethics and Safety](README-ethics-and-safety.md) | 6 | Alignment, fairness, trust, governance |
 | [🏭 OT/IoT](README-iot.md) | 5 | Industrial systems and device control |
 | [🎯 Recommendation](README-recommendation.md) | 5 | Personalization and proactive discovery |
 | [🌆 Smart Cities](README-smart-cities.md) | 5 | Urban operations and civic systems |
