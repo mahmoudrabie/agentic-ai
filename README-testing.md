@@ -2,6 +2,7 @@
 
 | Research | Links |
 |----------|-----------|
+| Agent QA: YAML-based web and mobile regression testing via CLI and local MCP | [Code](https://github.com/vostride/agent-qa) · [Docs](https://vostride.com/docs/agent-qa) |
 | 🧠🌍 AgentWorld: Benchmarking Long-Horizon Collaboration of Multi-agent LLMs 🌍🧠 | [Post](https://lnkd.in/p/dyHEWxJc) · [Paper](https://arxiv.org/abs/2609.31590) |
 | 🧠⚖️ Reliability without Validity: Rethinking LLM-as-a-Judge Evaluation ⚖️🧠 | [Post](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-share-7474888006059958272-RuET/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) · [Paper](https://arxiv.org/abs/2606.19544) |
 | 🧠🛠️ Reinforced Agent: Inference-Time Feedback for Tool-Calling Agents 🛠️🧠 | [Post](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7459674220671877120-L03k?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) · [Paper](https://arxiv.org/abs/2604.27233) |
