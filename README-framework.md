@@ -2,6 +2,8 @@
 
 | Research | Links |
 |----------|-----------|
+| 🧠🏢 Agensh: Scaling Organizational Intelligence to 1,024 Agents 🏢🧠 | [Post](https://lnkd.in/p/dpG8Xrfv) · [Paper](https://arxiv.org/abs/2609.26781) |
+| 🧠🧰 Harness-Zero: Harness Distillation via Agent-as-Harness 🧰🧠 | [Post](https://lnkd.in/p/dGU3DdWE) · [Paper](https://arxiv.org/abs/2609.24974) |
 | 🧠🛠️ Reinforcing Agents with Collective Skills 🛠️🧠 | [Post](https://lnkd.in/p/d-7ztrUR) · [Paper](https://github.com/NVlabs/Skill2Env/blob/main/paper/Skill2Env_arXiv.pdf) |
 | 🧠🕸️ Procedural Graphs: Self-Evolving Execution Structures for LLM Agents 🕸️🧠 | [Post](https://lnkd.in/p/dVufiVuU) · [Paper](https://arxiv.org/abs/2609.09153) |
 | 🧠📚 WikiSkill: Compiling Agent Experience into Persistent Knowledge for Skill Evolution 📚🧠 | [Post](https://lnkd.in/p/dZW-Zga5) · [Paper](https://arxiv.org/abs/2608.27454) |

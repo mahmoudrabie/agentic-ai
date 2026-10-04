@@ -41,17 +41,17 @@ If this saves you research time, starring the repo helps more builders discover 
 | Domain | Researches | Focus |
 | --- | ---: | --- |
 | [🔬 Research](README-research.md) | 65 | AI scientists, deep research, autonomous discovery |
-| [⚙️ Framework](README-framework.md) | 60 | Agent runtimes, memory, tools, orchestration |
-| [🛡️ Security](README-security.md) | 52 | Prompt injection, red teaming, cyber agents, defenses |
+| [⚙️ Framework](README-framework.md) | 62 | Agent runtimes, memory, tools, orchestration |
+| [🛡️ Security](README-security.md) | 53 | Prompt injection, red teaming, cyber agents, defenses |
 | [🧠 Reasoning](README-reasoning.md) | 25 | Inference, deliberation, cognitive architectures |
-| [🧪 Testing](README-testing.md) | 23 | Benchmarks, harnesses, evaluation methodology |
-| [💊 Healthcare](README-healthcare.md) | 15 | Medical agents, diagnosis, pharma, biomedical research |
+| [🧪 Testing](README-testing.md) | 24 | Benchmarks, harnesses, evaluation methodology |
+| [💊 Healthcare](README-healthcare.md) | 16 | Medical agents, diagnosis, pharma, biomedical research |
 | [💻 Software Engineering](README-software-engineering.md) | 15 | Coding agents, debugging, refactoring, code review |
 | [⚡ Automation](README-automation.md) | 15 | Process automation and workflow optimization |
 | [📡 Networking](README-networking.md) | 9 | Self-healing networks and routing |
 | [👁️ Vision](README-vision.md) | 8 | Visual agents and multimodal grounding |
 | [🤖 Physical AI/Robotics](README-robotics.md) | 8 | Physical AI, embodied agents, and robot systems |
-| [🤖 Foundation Models](README-foundation-models.md) | 7 | Agentic capabilities in foundation models |
+| [🤖 Foundation Models](README-foundation-models.md) | 8 | Agentic capabilities in foundation models |
 | [🔧 Hardware Design](README-hardware-design.md) | 6 | EDA, chip design, verification |
 | [⚖️ Ethics and Safety](README-ethics-and-safety.md) | 6 | Alignment, fairness, trust, governance |
 | [🏭 OT/IoT](README-iot.md) | 6 | Industrial systems and device control |

@@ -2,6 +2,7 @@
 
 | Research | Links |
 |----------|-----------|
+| 🧠🌅 Atria Dawn: The Dawn of Agentic Superintelligence 🌅🧠 | [Post](https://lnkd.in/p/dWWvzmt7) · [Paper](https://arxiv.org/abs/2609.15818) |
 | 🧠🎙️ OpenAI realtime voice intelligence for agents 🎙️🧠 | [Post](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrarchitects-forabrsolutionsabrarchitects-activity-7458796517957459969-Xt63?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) · [Source](https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api/) |
 | 🧠🌍 Agentic World Modeling: Foundations, Capabilities, Laws, and Beyond 🌍🧠 | [Post](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7464995974801948672-uHfk?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) · [Paper](https://arxiv.org/pdf/2604.22748) |
 | 🧠🤝 Multi-Agent Systems: From Classical Paradigms to Large Foundation Model-Enabled Futures 🤝🧠 | [Post](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7452438532452757504-S3OC) · [Paper](https://arxiv.org/pdf/2604.18133) |
