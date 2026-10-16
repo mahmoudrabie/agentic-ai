@@ -2,7 +2,6 @@
 
 | Research | Links |
 |----------|-----------|
-| 🛡️🔎 Vulnerability Localization Benchmark: Measuring Agentic Security Analysis at Repository Scale 🔎🛡️ | [Post](https://lnkd.in/p/djtepS88) · [Paper](https://arxiv.org/abs/2609.15939) |
 | 🧠🛡️ CASPIAN: Online Detection and Attribution of Cascade Attacks in LLM Multi-Agent Systems via Cross-Channel Causal Monitoring 🛡️🧠 | [Post](https://lnkd.in/p/dPbt7dTJ) · [Paper](https://arxiv.org/abs/2605.19240) |
 | 🧠🛡️ Efficient and Sound Probabilistic Verification for AI Agents 🛡️🧠 | [Post](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-share-7475273757570306049-f0z_/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) · [Paper](https://arxiv.org/abs/2606.20510) |
 | 🔎🛡️ SecureForge: Finding and Preventing Vulnerabilities in LLM-Generated Code via Prompt Optimization 🛡️🔎 | [Post](https://www.linkedin.com/posts/mahmoudrabie2004_forabrsecurityabrresearchers-forabraiabrarchitects-share-7460015872242511873-PsYp?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) · [Paper](https://arxiv.org/abs/2605.08382) |
