@@ -2,6 +2,7 @@
 
 | Research | Links |
 |----------|-----------|
+| 🧬 MILO: Automated Harness Discovery via Orchestrated Multi-Agent Evolution 🧬 | [Post](https://www.linkedin.com/feed/update/urn:li:activity:7518363214225498112/) · [Paper](https://arxiv.org/abs/2609.38349) · [Project](https://jprithwish.github.io/MILO/) |
 | 🧠🌍 EnvHarness: Awakening Static Worlds for Agent Learning 🌍🧠 | [Post](https://lnkd.in/p/djtepS88) · [Paper](https://arxiv.org/abs/2608.19880) |
 | 🧠🏢 Agensh: Scaling Organizational Intelligence to 1,024 Agents 🏢🧠 | [Post](https://lnkd.in/p/dpG8Xrfv) · [Paper](https://arxiv.org/abs/2609.26781) |
 | 🧠🧰 Harness-Zero: Harness Distillation via Agent-as-Harness 🧰🧠 | [Post](https://lnkd.in/p/dGU3DdWE) · [Paper](https://arxiv.org/abs/2609.24974) |
