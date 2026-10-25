@@ -46,7 +46,7 @@ If this saves you research time, starring the repo helps more builders discover 
 | [🧠 Reasoning](README-reasoning.md) | 25 | Inference, deliberation, cognitive architectures |
 | [🧪 Testing](README-testing.md) | 24 | Benchmarks, harnesses, evaluation methodology |
 | [💊 Healthcare](README-healthcare.md) | 16 | Medical agents, diagnosis, pharma, biomedical research |
-| [💻 Software Engineering](README-software-engineering.md) | 15 | Coding agents, debugging, refactoring, code review |
+| [💻 Software Engineering](README-software-engineering.md) | 16 | Coding agents, debugging, refactoring, code review |
 | [⚡ Automation](README-automation.md) | 15 | Process automation and workflow optimization |
 | [📡 Networking](README-networking.md) | 9 | Self-healing networks and routing |
 | [👁️ Vision](README-vision.md) | 8 | Visual agents and multimodal grounding |
