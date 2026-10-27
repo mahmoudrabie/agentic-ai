@@ -2,6 +2,7 @@
 
 | Research | Links |
 |----------|-----------|
+| 🧠🔄 Are Self-Evolving Agents Continual Learners? 🔄🧠 | [Post](https://lnkd.in/p/dna69SWR) · [Paper](https://arxiv.org/abs/2610.25858) |
 | 🔎🧠 VeriHarness: Scaling Agentic Verification for Long-Horizon Tasks 🧠🔎 | [Post](https://lnkd.in/p/dTYpACZY) · [Paper](https://arxiv.org/abs/2610.00972) |
 | 🧠🌍 AgentWorld: Benchmarking Long-Horizon Collaboration of Multi-agent LLMs 🌍🧠 | [Post](https://lnkd.in/p/dyHEWxJc) · [Paper](https://arxiv.org/abs/2609.31590) |
 | 🧠⚖️ Reliability without Validity: Rethinking LLM-as-a-Judge Evaluation ⚖️🧠 | [Post](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-share-7474888006059958272-RuET/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANl-ukBNmz5qhlJOrQNtSt-ajHYfLd2Bvc) · [Paper](https://arxiv.org/abs/2606.19544) |
