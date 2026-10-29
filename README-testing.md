@@ -2,6 +2,7 @@
 
 | Research | Links |
 |----------|-----------|
+| 🖥️ PersonaCUABench: Benchmarking Computer-Use Agents Serving Diverse Personas 🖥️ | [Post](https://lnkd.in/p/d2hb-Wgk) · [Paper](https://arxiv.org/abs/2610.22990) |
 | 🧠🔄 Are Self-Evolving Agents Continual Learners? 🔄🧠 | [Post](https://lnkd.in/p/dna69SWR) · [Paper](https://arxiv.org/abs/2610.25858) |
 | 🔎🧠 VeriHarness: Scaling Agentic Verification for Long-Horizon Tasks 🧠🔎 | [Post](https://lnkd.in/p/dTYpACZY) · [Paper](https://arxiv.org/abs/2610.00972) |
 | 🧠🌍 AgentWorld: Benchmarking Long-Horizon Collaboration of Multi-agent LLMs 🌍🧠 | [Post](https://lnkd.in/p/dyHEWxJc) · [Paper](https://arxiv.org/abs/2609.31590) |
