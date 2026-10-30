@@ -57,9 +57,3 @@
 | 🤖🗣️ SANDMAN: Inducing Personality in LLM-Based Honeypot Agents for Human-Like Agenda Generation | [Lancaster University, UK (School of Computing and Communications)](https://www.linkedin.com/company/lancaster-university-scc/) | [Post](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7311853205989081088-8Rlm) · [Paper](https://arxiv.org/pdf/2503.19752) |
 | 🛡️🤖 SafeMate: A Model Context Protocol-Based Multimodal Agent for Emergency Preparedness 🛡️🤖 | [University of Texas at Austin](https://www.linkedin.com/school/theuniversityoftexasataustin-/) | [Post](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7325606858587561986-jnlG) · [Paper](https://arxiv.org/pdf/2505.02306) |
 | 🤖🥷 Hiding in the AI Traffic: Abusing MCP for LLM-Powered Agentic Red Teaming 🥷🤖 | [Massachusetts Institute of Technology](https://www.linkedin.com/school/mit/); [Vectra AI](https://www.linkedin.com/company/vectra_ai/) | [Post](https://www.linkedin.com/posts/mahmoudrabie2004_forabraiabrscientists-forabraiabrresearchers-activity-7402851104113197056-KPRQ) · [Paper](https://arxiv.org/pdf/2511.15998) |
-
-Some LinkedIn links point to the parent organisation or broader division, not a dedicated page for the named lab, department, or subsidiary. Paper affiliation names are preserved.
-
-A LinkedIn organisation page could not be verified for Anheng Vision (Chengdu) Information Technology Co., LTD. This affiliation is intentionally left unlinked rather than assigned an unverified page.
-
-Independent Researcher and unspecified affiliations are not linked because they do not identify an organisation.
