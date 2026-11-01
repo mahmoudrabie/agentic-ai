@@ -74,12 +74,12 @@ Counts use the recorded affiliations in all section tables: one count per unique
 | [Stanford University](https://www.linkedin.com/school/stanford-university/) | [Ethics and Safety], [Framework], [Gaming], [Healthcare], [Planning], [Reasoning], [Research], [Security], [Software Engineering], [Testing] | 27 |
 | [Google](https://www.linkedin.com/company/google/) | [Automation], [Framework], [Healthcare], [Reasoning], [Research], [Security], [Software Engineering], [Testing] | 23 |
 | [University of Illinois Urbana-Champaign](https://www.linkedin.com/school/university-of-illinois-urbana-champaign/) | [Design], [Framework], [Healthcare], [Physical AI/Robotics], [Reasoning], [Recommendation], [Research], [Security], [Testing] | 23 |
+| [Microsoft](https://www.linkedin.com/company/microsoft/) | [Automation], [Ethics and Safety], [Foundation Models], [Framework], [Reasoning], [Research], [Security], [Software Engineering], [Testing] | 20 |
 | [University of California, Berkeley](https://www.linkedin.com/school/uc-berkeley/) | [Foundation Models], [Framework], [Physical AI/Robotics], [Research], [Security], [Testing] | 20 |
-| [Microsoft](https://www.linkedin.com/company/microsoft/) | [Automation], [Ethics and Safety], [Foundation Models], [Framework], [Reasoning], [Research], [Security], [Software Engineering], [Testing] | 19 |
 | [National University of Singapore](https://www.linkedin.com/school/national-university-of-singapore/) | [Foundation Models], [Framework], [Healthcare], [Physical AI/Robotics], [Reasoning], [Research], [Security], [Testing] | 18 |
 | [NVIDIA](https://www.linkedin.com/company/nvidia/) | [Foundation Models], [Framework], [Gaming], [Hardware Design], [Physical AI/Robotics], [Reasoning], [Research], [Security], [Software Engineering], [Vision] | 17 |
 | [Meta](https://www.linkedin.com/company/meta/) | [Framework], [Reasoning], [Recommendation], [Research], [Security], [Testing], [Vision] | 16 |
-| [Carnegie Mellon University](https://www.linkedin.com/school/carnegie-mellon-university/) | [Ethics and Safety], [Foundation Models], [Framework], [Healthcare], [Physical AI/Robotics], [Reasoning], [Research], [Security], [Testing] | 14 |
+| [Carnegie Mellon University](https://www.linkedin.com/school/carnegie-mellon-university/) | [Ethics and Safety], [Foundation Models], [Framework], [Healthcare], [Physical AI/Robotics], [Reasoning], [Research], [Security], [Software Engineering], [Testing] | 15 |
 | [Nanyang Technological University](https://www.linkedin.com/school/ntusg/) | [Foundation Models], [Framework], [Reasoning], [Recommendation], [Research], [Security], [Software Engineering], [Testing] | 14 |
 | [University of Washington](https://www.linkedin.com/school/university-of-washington/) | [Ethics and Safety], [Foundation Models], [Framework], [Healthcare], [Research], [Security], [Testing], [Vision] | 13 |
 | [Amazon](https://www.linkedin.com/company/amazon/) | [Framework], [Reasoning], [Recommendation], [Research], [Security], [Testing] | 12 |
@@ -219,6 +219,7 @@ Counts use the recorded affiliations in all section tables: one count per unique
 | [University of Science and Technology Beijing](https://www.linkedin.com/school/%E5%8C%97%E4%BA%AC%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6/) | [Blockchain], [Networking] | 2 |
 | [University of Utah](https://www.linkedin.com/school/university-of-utah/) | [Reasoning], [Testing] | 2 |
 | [Université de Montréal](https://www.linkedin.com/school/universite-de-montreal/) | [Automation], [Framework] | 2 |
+| [University of Virginia](https://www.linkedin.com/school/university-of-virginia/) | [Healthcare], [Software Engineering] | 2 |
 | [Verdent AI](https://www.linkedin.com/company/verdent-ai/) | [Research] | 2 |
 | [Virtue AI](https://www.linkedin.com/company/virtue-ai/) | [Security] | 2 |
 | [Zoom](https://www.linkedin.com/company/zoom/) | [Framework], [Testing] | 2 |
@@ -488,7 +489,6 @@ Counts use the recorded affiliations in all section tables: one count per unique
 | [University of Texas Southwestern Medical Center](https://www.linkedin.com/school/utsw) | [Testing] | 1 |
 | [University of the Peloponnese](https://www.linkedin.com/school/university-of-the-peloponnese/) | [Research] | 1 |
 | [University of the West of England](https://www.linkedin.com/school/university-of-the-west-of-england/) | [Framework] | 1 |
-| [University of Virginia](https://www.linkedin.com/school/university-of-virginia/) | [Healthcare] | 1 |
 | [US CAISI](https://www.linkedin.com/company/nist/) | [Security] | 1 |
 | [Vanderbilt University](https://www.linkedin.com/school/vumedicine/) | [Healthcare] | 1 |
 | [Vectra AI](https://www.linkedin.com/company/vectra_ai/) | [Security] | 1 |
