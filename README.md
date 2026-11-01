@@ -82,11 +82,11 @@ Counts use the recorded affiliations in all section tables: one count per unique
 | [Carnegie Mellon University](https://www.linkedin.com/school/carnegie-mellon-university/) | [Ethics and Safety], [Foundation Models], [Framework], [Healthcare], [Physical AI/Robotics], [Reasoning], [Research], [Security], [Testing] | 14 |
 | [Nanyang Technological University](https://www.linkedin.com/school/ntusg/) | [Foundation Models], [Framework], [Reasoning], [Recommendation], [Research], [Security], [Software Engineering], [Testing] | 14 |
 | [University of Washington](https://www.linkedin.com/school/university-of-washington/) | [Ethics and Safety], [Foundation Models], [Framework], [Healthcare], [Research], [Security], [Testing], [Vision] | 13 |
+| [Amazon](https://www.linkedin.com/company/amazon/) | [Framework], [Reasoning], [Recommendation], [Research], [Security], [Testing] | 12 |
+| [Georgia Institute of Technology](https://www.linkedin.com/school/georgia-institute-of-technology/) | [Automation], [Foundation Models], [Framework], [Reasoning], [Research], [Testing] | 12 |
 | [Tsinghua University](https://www.linkedin.com/school/tsinghua-university/) | [Design], [Framework], [Healthcare], [Reasoning], [Recommendation], [Research], [Security] | 12 |
 | [University of California, San Diego](https://www.linkedin.com/school/ucsandiego/) | [Framework], [Healthcare], [Networking], [Planning], [Reasoning], [Recommendation], [Research], [Security], [Testing] | 12 |
 | [Alibaba Group](https://www.linkedin.com/company/alibaba-group/) | [Automation], [Framework], [Reasoning], [Research], [Software Engineering], [Testing] | 11 |
-| [Amazon](https://www.linkedin.com/company/amazon/) | [Framework], [Reasoning], [Recommendation], [Research], [Security], [Testing] | 11 |
-| [Georgia Institute of Technology](https://www.linkedin.com/school/georgia-institute-of-technology/) | [Automation], [Foundation Models], [Framework], [Reasoning], [Research], [Testing] | 11 |
 | [Princeton University](https://www.linkedin.com/school/princeton-university/) | [Framework], [Healthcare], [Reasoning], [Recommendation], [Research], [Security], [Testing] | 11 |
 | [Zhejiang University](https://www.linkedin.com/school/zhejiang-university/) | [Framework], [Hardware Design], [Reasoning], [Research], [Security] | 10 |
 | [Harvard University](https://www.linkedin.com/school/harvard-university/) | [Framework], [Healthcare], [Reasoning], [Research], [Testing] | 9 |
