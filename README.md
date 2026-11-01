@@ -100,6 +100,8 @@ Counts use the recorded affiliations in all section tables: one count per unique
 | [Fudan University](https://www.linkedin.com/school/fudan-university/) | [Foundation Models], [Framework], [Healthcare], [Reasoning] | 7 |
 | [IBM](https://www.linkedin.com/company/ibm/) | [Education], [Ethics and Safety], [Framework], [Research], [Security], [Testing] | 7 |
 | [KAIST](https://www.linkedin.com/company/kaist/) | [Foundation Models], [Framework], [Research], [Software Engineering], [Vision] | 7 |
+| [Rutgers University](https://www.linkedin.com/school/rutgersu/) | [Framework], [Reasoning], [Recommendation], [Security], [Software Engineering], [Vision] | 7 |
+| [Salesforce](https://www.linkedin.com/company/salesforce/) | [Framework], [Healthcare], [Reasoning], [Software Engineering] | 7 |
 | [The Hong Kong University of Science and Technology](https://www.linkedin.com/school/hkust/) | [Automation], [Foundation Models], [Framework], [Healthcare], [Research], [Security], [Vision] | 7 |
 | [The University of Hong Kong](https://www.linkedin.com/school/universityofhongkong/) | [Foundation Models], [Framework], [Research], [Software Engineering], [Vision] | 7 |
 | [The University of Texas at Austin](https://www.linkedin.com/school/theuniversityoftexasataustin-/) | [Framework], [Gaming], [Healthcare], [Physical AI/Robotics], [Reasoning], [Security] | 7 |
@@ -111,8 +113,6 @@ Counts use the recorded affiliations in all section tables: one count per unique
 | [Mohamed bin Zayed University of Artificial Intelligence](https://www.linkedin.com/school/mbzuai/) | [Framework], [Gaming], [Healthcare], [Reasoning] | 6 |
 | [New York University](https://www.linkedin.com/school/new-york-university/) | [Framework], [Security], [Software Engineering], [Testing] | 6 |
 | [Northeastern University](https://www.linkedin.com/school/northeastern-university/) | [Framework], [Healthcare], [Networking], [Research], [Testing], [Transportation] | 6 |
-| [Rutgers University](https://www.linkedin.com/school/rutgersu/) | [Framework], [Reasoning], [Recommendation], [Security], [Vision] | 6 |
-| [Salesforce](https://www.linkedin.com/company/salesforce/) | [Framework], [Healthcare], [Reasoning], [Software Engineering] | 6 |
 | [University College London](https://www.linkedin.com/school/university-college-london/) | [Ethics and Safety], [Framework], [Healthcare], [Physical AI/Robotics], [Research], [Testing] | 6 |
 | [University of Maryland](https://www.linkedin.com/school/university-of-maryland/) | [Foundation Models], [Framework], [Gaming], [Hardware Design], [Testing], [Vision] | 6 |
 | [University of Michigan](https://www.linkedin.com/school/university-of-michigan/) | [Framework], [Healthcare], [Physical AI/Robotics], [Testing] | 6 |
@@ -186,6 +186,7 @@ Counts use the recorded affiliations in all section tables: one count per unique
 | [Indian Institute of Technology Kanpur](https://www.linkedin.com/school/indian-institute-of-technology-kanpur/) | [Security] | 2 |
 | [Iowa State University](https://www.linkedin.com/school/iowastateu) | [Physical AI/Robotics], [Testing] | 2 |
 | [Karlsruhe Institute of Technology](https://www.linkedin.com/school/kit/) | [OT/IoT], [Testing] | 2 |
+| [Lehigh University](https://www.linkedin.com/school/lehigh-university/) | [Software Engineering], [Testing] | 2 |
 | [Leiden University](https://www.linkedin.com/school/leiden-university/) | [Framework], [Research] | 2 |
 | [LG AI Research](https://www.linkedin.com/company/lgairesearch/) | [Research], [Testing] | 2 |
 | [McGill University](https://www.linkedin.com/school/mcgill-university/) | [Research], [Testing] | 2 |
@@ -333,7 +334,6 @@ Counts use the recorded affiliations in all section tables: one count per unique
 | [Kumamoto University](https://www.linkedin.com/school/kumamoto-university/) | [Blockchain] | 1 |
 | [La Trobe University](https://www.linkedin.com/school/la-trobe-university/) | [Smart Cities] | 1 |
 | [Lancaster University](https://www.linkedin.com/company/lancaster-university-scc/) | [Security] | 1 |
-| [Lehigh University](https://www.linkedin.com/school/lehigh-university/) | [Testing] | 1 |
 | [Lerna AI](https://www.linkedin.com/company/lerna-ai/) | [Framework] | 1 |
 | LeverArch.ai | [Testing] | 1 |
 | [Likelihood Lab](https://www.linkedin.com/company/likelihood-lab) | [Testing] | 1 |
