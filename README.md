@@ -42,7 +42,7 @@ If this saves you research time, starring the repo helps more builders discover 
 | --- | ---: | --- |
 | [🔬 Research](README-research.md) | 67 | AI scientists, deep research, autonomous discovery |
 | [⚙️ Framework](README-framework.md) | 67 | Agent runtimes, memory, tools, orchestration |
-| [🛡️ Security](README-security.md) | 55 | Prompt injection, red teaming, cyber agents, defenses |
+| [🛡️ Security](README-security.md) | 56 | Prompt injection, red teaming, cyber agents, defenses |
 | [🧠 Reasoning](README-reasoning.md) | 26 | Inference, deliberation, cognitive architectures |
 | [🧪 Testing](README-testing.md) | 27 | Benchmarks, harnesses, evaluation methodology |
 | [💊 Healthcare](README-healthcare.md) | 16 | Medical agents, diagnosis, pharma, biomedical research |
@@ -92,8 +92,8 @@ Counts use the recorded affiliations in all section tables: one count per unique
 | [Harvard University](https://www.linkedin.com/school/harvard-university/) | [Framework], [Healthcare], [Reasoning], [Research], [Testing] | 9 |
 | [Massachusetts Institute of Technology](https://www.linkedin.com/school/mit/) | [Design], [Framework], [Healthcare], [Research], [Security], [Testing] | 9 |
 | [Shanghai Jiao Tong University](https://www.linkedin.com/school/sjtu1896/) | [Automation], [Framework], [Networking], [Reasoning], [Research], [Software Engineering] | 9 |
+| [The Chinese University of Hong Kong](https://www.linkedin.com/school/the-chinese-university-of-hong-kong/) | [Automation], [Foundation Models], [Framework], [Security], [Testing], [Vision] | 9 |
 | [University of Chicago](https://www.linkedin.com/school/uchicago/) | [Framework], [Gaming], [Reasoning], [Research], [Security], [Testing] | 9 |
-| [The Chinese University of Hong Kong](https://www.linkedin.com/school/the-chinese-university-of-hong-kong/) | [Automation], [Foundation Models], [Framework], [Testing], [Vision] | 8 |
 | [The Hong Kong University of Science and Technology](https://www.linkedin.com/school/hkust/) | [Automation], [Foundation Models], [Framework], [Healthcare], [Research], [Security], [Vision] | 8 |
 | [University of California, Santa Barbara](https://www.linkedin.com/school/ucsantabarbara/) | [Ethics and Safety], [Framework], [Research], [Security], [Testing] | 8 |
 | [University of North Carolina at Chapel Hill](https://www.linkedin.com/school/university-of-north-carolina-at-chapel-hill/) | [Framework], [Research], [Testing], [Vision] | 8 |
@@ -176,6 +176,7 @@ Counts use the recorded affiliations in all section tables: one count per unique
 | [Anthropic](https://www.linkedin.com/company/anthropicresearch/) | [Security] | 2 |
 | [Beihang University](https://www.linkedin.com/school/beihang-university/) | [Framework], [Security] | 2 |
 | [Beijing Jiaotong University](https://www.linkedin.com/school/beijing-jiaotong-university/) | [Automation], [Framework] | 2 |
+| [Beijing University of Posts and Telecommunications](https://www.linkedin.com/school/%E5%8C%97%E4%BA%AC%E9%82%AE%E7%94%B5%E5%A4%A7%E5%AD%A6/) | [Security] | 2 |
 | [BIT Sindri](https://www.linkedin.com/school/bit-sindri/) | [Ethics and Safety] | 2 |
 | [Brigham and Women’s Hospital](https://www.linkedin.com/company/brigham-and-women%27s-hospital/) | [Healthcare], [Research] | 2 |
 | [California Institute of Technology](https://www.linkedin.com/school/california-institute-of-technology/) | [Gaming], [Testing] | 2 |
@@ -239,7 +240,6 @@ Counts use the recorded affiliations in all section tables: one count per unique
 | [Baylor College of Medicine](https://www.linkedin.com/school/baylor-college-of-medicine/) | [Healthcare] | 1 |
 | [Beijing Academy of Artificial Intelligence](https://www.linkedin.com/company/beijingbaai/) | [Reasoning] | 1 |
 | [Beijing Institute of Technology](https://www.linkedin.com/school/beijing-institute-of-technology/) | [Framework] | 1 |
-| [Beijing University of Posts and Telecommunications](https://www.linkedin.com/school/%E5%8C%97%E4%BA%AC%E9%82%AE%E7%94%B5%E5%A4%A7%E5%AD%A6/) | [Security] | 1 |
 | [Bioinformatics Institute, A*STAR](https://sg.linkedin.com/company/astarbii) | [Physical AI/Robotics] | 1 |
 | [Boston College](https://www.linkedin.com/school/boston-college/) | [Healthcare] | 1 |
 | [Boston University](https://www.linkedin.com/school/boston-university/) | [Testing] | 1 |
@@ -463,6 +463,7 @@ Counts use the recorded affiliations in all section tables: one count per unique
 | [University of Rochester](https://www.linkedin.com/school/university-of-rochester/) | [Vision] | 1 |
 | [University of Sheffield](https://www.linkedin.com/school/university-of-sheffield/) | [Framework] | 1 |
 | [University of South Florida](https://www.linkedin.com/company/usfbellini/) | [Security] | 1 |
+| [University of Surrey](https://www.linkedin.com/school/university-of-surrey/) | [Security] | 1 |
 | [University of Szczecin](https://www.linkedin.com/school/uniwersytet-szczecinski/) | [Networking] | 1 |
 | [University of Technology Sydney](https://www.linkedin.com/school/university-of-technology-sydney/) | [Recommendation] | 1 |
 | [University of Texas Southwestern Medical Center](https://www.linkedin.com/school/utsw) | [Testing] | 1 |
