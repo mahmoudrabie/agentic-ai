@@ -230,16 +230,12 @@ Counts use the recorded affiliations in all section tables: one count per unique
 | [actAVA.ai](https://www.linkedin.com/company/actava/) | [Healthcare] | 1 |
 | [ADAPT Centre](https://www.linkedin.com/school/adapt-centre/) | [Networking] | 1 |
 | [AIOS Foundation](https://www.linkedin.com/company/aios-foundation/) | [Framework] | 1 |
-| Anheng Vision (Chengdu) Information Technology Co., LTD | [Security] | 1 |
-| ANP Community | [Networking] | 1 |
 | [Apodex](https://www.linkedin.com/company/apodex/) | [Framework] | 1 |
 | [Argonne National Laboratory](https://www.linkedin.com/company/argonne-national-laboratory/) | [Research] | 1 |
 | [AstraZeneca](https://www.linkedin.com/company/astrazeneca/) | [Testing] | 1 |
 | [Atlassian](https://www.linkedin.com/company/atlassian/) | [Framework] | 1 |
 | [Australian National University](https://www.linkedin.com/school/australian-national-university/) | [Security] | 1 |
-| AweAI Team | [Research] | 1 |
 | [Baidu](https://www.linkedin.com/company/baidu-inc/) | [Research] | 1 |
-| Bake AI | [Ethics and Safety] | 1 |
 | [Baylor College of Medicine](https://www.linkedin.com/school/baylor-college-of-medicine/) | [Healthcare] | 1 |
 | [Beijing Academy of Artificial Intelligence](https://www.linkedin.com/company/beijingbaai/) | [Reasoning] | 1 |
 | [Beijing Institute of Technology](https://www.linkedin.com/school/beijing-institute-of-technology/) | [Framework] | 1 |
@@ -248,7 +244,6 @@ Counts use the recorded affiliations in all section tables: one count per unique
 | [Boston College](https://www.linkedin.com/school/boston-college/) | [Healthcare] | 1 |
 | [Boston University](https://www.linkedin.com/school/boston-university/) | [Testing] | 1 |
 | [BRAC University](https://www.linkedin.com/school/brac-university/) | [Security] | 1 |
-| BreathingCORE Limited | [Testing] | 1 |
 | [Brix Labs](https://www.linkedin.com/company/joinbrix/) | [Testing] | 1 |
 | [ByteDance](https://www.linkedin.com/company/bytedance/) | [Framework] | 1 |
 | [CAMEL-AI.org](https://www.linkedin.com/company/camel-ai-org/) | [Gaming] | 1 |
@@ -263,7 +258,6 @@ Counts use the recorded affiliations in all section tables: one count per unique
 | [Chongqing University of Technology](https://www.linkedin.com/company/cqut/) | [Blockchain] | 1 |
 | [City University of Hong Kong](https://www.linkedin.com/school/cityu/) | [Research] | 1 |
 | [Cognizant](https://www.linkedin.com/showcase/cognizant-ai-lab/) | [Reasoning] | 1 |
-| Continue-AI | [Framework] | 1 |
 | [CYBER RANGES](https://www.linkedin.com/company/cyber-ranges/) | [Security] | 1 |
 | [Daegu Gyeongbuk Institute of Science and Technology](https://www.linkedin.com/school/dgist-daegu-gyeongbuk-institute-of-science-and-technology/) | [Physical AI/Robotics] | 1 |
 | [Dakota State University](https://www.linkedin.com/company/bcccs/) | [Security] | 1 |
@@ -277,7 +271,6 @@ Counts use the recorded affiliations in all section tables: one count per unique
 | [East China Normal University](https://www.linkedin.com/school/east-china-normal-university/) | [Framework] | 1 |
 | [East China University of Science and Technology](https://www.linkedin.com/school/east-china-universtiy-of-science-and-technology/) | [Foundation Models], [Framework] | 1 |
 | [ELLIS Institute Tübingen](https://www.linkedin.com/company/ellis-institute-tuebingen/) | [Security] | 1 |
-| EnvX Team | [Framework] | 1 |
 | [EURECOM](https://www.linkedin.com/school/eurecom/) | [Framework] | 1 |
 | [EverMind](https://www.linkedin.com/company/ai-evermind/) | [Reasoning] | 1 |
 | [Fastino Labs](https://www.linkedin.com/company/fastinoai/) | [Foundation Models] | 1 |
@@ -293,7 +286,6 @@ Counts use the recorded affiliations in all section tables: one count per unique
 | [Graphen](https://www.linkedin.com/company/graphenai/) | [Healthcare] | 1 |
 | [Gray Swan AI](https://www.linkedin.com/company/grayswanai/) | [Security] | 1 |
 | [Guangdong University of Technology](https://www.linkedin.com/school/%E5%B9%BF%E4%B8%9C%E5%B7%A5%E4%B8%9A%E5%A4%A7%E5%AD%A6/) | [Framework] | 1 |
-| Guangxi Police College | [OT/IoT] | 1 |
 | [Guangzhou University](https://www.linkedin.com/school/%E5%B9%BF%E5%B7%9E%E5%A4%A7%E5%AD%A6/) | [Security] | 1 |
 | [Hippocratic AI](https://www.linkedin.com/company/hippocratic-ai-health/) | [Testing] | 1 |
 | [Hithink RoyalFlush Information Network](https://www.linkedin.com/company/hithink-royalflush-information-network-co-ltd-/) | [Research] | 1 |
@@ -305,7 +297,6 @@ Counts use the recorded affiliations in all section tables: one count per unique
 | [HPC-AI Tech](https://www.linkedin.com/company/hpc-ai-technology/) | [Framework] | 1 |
 | [Huazhong University of Science and Technology](https://www.linkedin.com/school/huazhong-university-of-science-and-technology/) | [Reasoning] | 1 |
 | [HubSpot](https://www.linkedin.com/company/hubspot/) | [Testing] | 1 |
-| Humani Labs | [Framework] | 1 |
 | [ICREA](https://www.linkedin.com/company/icrea/) | [Smart Cities] | 1 |
 | [iFLYTEK](https://www.linkedin.com/company/iflytekcoltd./) | [Reasoning] | 1 |
 | [IMT School for Advanced Studies Lucca](https://www.linkedin.com/school/imt-lucca-institute-for-advanced-studies/) | [Security] | 1 |
@@ -313,7 +304,6 @@ Counts use the recorded affiliations in all section tables: one count per unique
 | [Indiana University](https://www.linkedin.com/company/indiana-university/) | [Recommendation] | 1 |
 | [Innopolis University](https://www.linkedin.com/school/innopolis-university/) | [Blockchain] | 1 |
 | [Inria](https://www.linkedin.com/company/inria/) | [Framework] | 1 |
-| Institute for Advanced Algorithms Research, Shanghai | [Automation] | 1 |
 | [Institute of Information Engineering, Chinese Academy of Sciences](https://www.linkedin.com/company/%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E9%99%A2%E4%BF%A1%E6%81%AF%E5%B7%A5%E7%A8%8B%E7%A0%94%E7%A9%B6%E6%89%80/) | [Security] | 1 |
 | [Intellipro](https://www.linkedin.com/company/intellipro) | [Testing] | 1 |
 | [International Digital Economy Academy](https://www.linkedin.com/company/idearesearch/) | [Research] | 1 |
@@ -321,9 +311,7 @@ Counts use the recorded affiliations in all section tables: one count per unique
 | [INTI International University](https://www.linkedin.com/school/inti-international-university-colleges) | [Networking] | 1 |
 | [ITMO University](https://www.linkedin.com/school/itmouni/) | [Smart Cities] | 1 |
 | [James Silberrad Brown Center for Artificial Intelligence](https://www.linkedin.com/company/jsbaicenter/) | [Framework] | 1 |
-| Jiji Information & Communication Technology Branch | [Testing] | 1 |
 | [Jilin University](https://www.linkedin.com/school/jilin-university/) | [Framework] | 1 |
-| Jiutian Research | [Testing] | 1 |
 | [Johns Hopkins Medicine](https://www.linkedin.com/company/johns-hopkins-medicine/) | [Healthcare] | 1 |
 | [JPMorgan Chase](https://www.linkedin.com/company/jpmorganchase/) | [Testing] | 1 |
 | [Kaze Technologies / Kaze Consulting](https://www.linkedin.com/company/kazeconsulting/) | [Framework] | 1 |
@@ -335,10 +323,7 @@ Counts use the recorded affiliations in all section tables: one count per unique
 | [La Trobe University](https://www.linkedin.com/school/la-trobe-university/) | [Smart Cities] | 1 |
 | [Lancaster University](https://www.linkedin.com/company/lancaster-university-scc/) | [Security] | 1 |
 | [Lerna AI](https://www.linkedin.com/company/lerna-ai/) | [Framework] | 1 |
-| LeverArch.ai | [Testing] | 1 |
 | [Likelihood Lab](https://www.linkedin.com/company/likelihood-lab) | [Testing] | 1 |
-| LLaMA-Factory Team | [Automation] | 1 |
-| LMSYS Org | [Framework] | 1 |
 | [LMU Munich](https://www.linkedin.com/school/lmu.muenchen/) | [Ethics and Safety] | 1 |
 | [LogicStar AI](https://www.linkedin.com/company/logicstar-ai/) | [Software Engineering] | 1 |
 | [Lovely Professional University](https://www.linkedin.com/school/lovely-professional-university/) | [Healthcare] | 1 |
@@ -354,7 +339,6 @@ Counts use the recorded affiliations in all section tables: one count per unique
 | [Mercy University](https://www.linkedin.com/school/mercyuniversityny/) | [Education] | 1 |
 | [Merit Network](https://www.linkedin.com/company/merit-network/) | [OT/IoT] | 1 |
 | [Mission San Jose High School](https://www.linkedin.com/school/mission-san-jose-high-school/) | [Testing] | 1 |
-| ModelsLive | [Framework] | 1 |
 | [Monroe Carell Jr. Children’s Hospital at Vanderbilt](https://www.linkedin.com/company/monroe-carell-jr.-children%27s-hospital/) | [Healthcare] | 1 |
 | [Morgan Stanley](https://www.linkedin.com/company/morgan-stanley/) | [Testing] | 1 |
 | [Moscow Institute of Physics and Technology](https://www.linkedin.com/school/moscowinstituteofphysicsandtechnology/) | [Hardware Design] | 1 |
@@ -378,20 +362,16 @@ Counts use the recorded affiliations in all section tables: one count per unique
 | [Old Dominion University](https://www.linkedin.com/school/old-dominion-university/) | [Security] | 1 |
 | [Ontario Tech University](https://www.linkedin.com/company/iot-research-lab/) | [OT/IoT] | 1 |
 | [OpenAGI Research Foundation](https://www.linkedin.com/company/agiopen-org/) | [Testing] | 1 |
-| OpenManus | [Testing] | 1 |
 | [Oregon Health & Science University](https://www.linkedin.com/company/ohsu-knight-cancer-institute/) | [Healthcare] | 1 |
 | [Oregon State University](https://www.linkedin.com/school/oregon-state-university/) | [Research] | 1 |
-| OriginHub Technology | [Automation] | 1 |
 | [Palisade Research](https://www.linkedin.com/company/palisaderesearch/) | [Ethics and Safety] | 1 |
 | [Peer AI](https://www.linkedin.com/company/peer-techbio/) | [Framework] | 1 |
 | [Pegasystems](https://www.linkedin.com/company/pegasystems/) | [Research] | 1 |
 | [Photon Fund](https://www.linkedin.com/company/photonfund) | [Testing] | 1 |
 | [PIMCO](https://www.linkedin.com/company/pimco/) | [Testing] | 1 |
-| Polish Society of Bioinformatics and Data Science BioData | [Networking] | 1 |
 | [Pusan National University](https://www.linkedin.com/school/pusan.ac.kr/) | [Framework] | 1 |
 | [Qatar Computing Research Institute](https://www.linkedin.com/company/qatar-computing-research-institute/) | [Security] | 1 |
 | [QiAnXin Technology Group](https://www.linkedin.com/company/qax-group/) | [Security] | 1 |
-| Qiyuan Lab | [Framework] | 1 |
 | [Queen’s University](https://www.linkedin.com/school/queen%27s-university/) | [Software Engineering] | 1 |
 | [Recursive Superintelligence](https://www.linkedin.com/company/recursive-si/) | [Healthcare] | 1 |
 | [RISE Research Institutes of Sweden](https://www.linkedin.com/company/rise-research-institutes-of-sweden/) | [Smart Cities] | 1 |
@@ -408,7 +388,6 @@ Counts use the recorded affiliations in all section tables: one count per unique
 | [SciLifeLab](https://www.linkedin.com/company/scilifelab/) | [Testing] | 1 |
 | [SemiAnalysis](https://www.linkedin.com/company/semianalysis/) | [Framework] | 1 |
 | [Sentient Foundation](https://www.linkedin.com/company/sentient-foundation/) | [Reasoning] | 1 |
-| Sequome | [Research] | 1 |
 | [Shanda Group](https://www.linkedin.com/company/shanda-group/) | [Reasoning] | 1 |
 | [Shandong University](https://www.linkedin.com/school/shandong-university/) | [Framework] | 1 |
 | [ShanghaiTech University](https://www.linkedin.com/school/%E4%B8%8A%E6%B5%B7%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6/) | [Automation] | 1 |
@@ -502,9 +481,7 @@ Counts use the recorded affiliations in all section tables: one count per unique
 | [Whitehead Institute for Biomedical Research](https://www.linkedin.com/company/whitehead-institute/) | [Research] | 1 |
 | [Wichita State University](https://www.linkedin.com/school/wichita-state-university/) | [Security] | 1 |
 | [William & Mary](https://www.linkedin.com/school/william-and-mary/) | [Research] | 1 |
-| Wuhan AI Research | [Research] | 1 |
 | [Wuhan University](https://www.linkedin.com/school/wuhan-university/) | [Software Engineering] | 1 |
-| X School | [Testing] | 1 |
 | [X-camp Academy](https://www.linkedin.com/company/x-camp-academy) | [Testing] | 1 |
 | [Xiaohongshu](https://www.linkedin.com/company/xiaohongshu/) | [Framework] | 1 |
 | [Xidian University](https://www.linkedin.com/school/%E8%A5%BF%E5%AE%89%E7%94%B5%E5%AD%90%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6/) | [Reasoning] | 1 |
