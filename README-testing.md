@@ -2,6 +2,7 @@
 
 | Research | Companies / Institutions (author affiliations) | Links |
 |----------|-----------------------------------------------|-----------|
+| agent-qa: self-improving web and mobile regression testing with memidex memory, CLI and MCP | [Code](https://github.com/vostride/agent-qa) · [Docs](https://vostride.com/docs/agent-qa) |
 | 🖥️ PersonaCUABench: Benchmarking Computer-Use Agents Serving Diverse Personas 🖥️ | Not verified from paper | [Post](https://lnkd.in/p/d2hb-Wgk) · [Paper](https://arxiv.org/abs/2610.22990) |
 | 🧠🔄 Are Self-Evolving Agents Continual Learners? 🔄🧠 | Not verified from paper | [Post](https://lnkd.in/p/dna69SWR) · [Paper](https://arxiv.org/abs/2610.25858) |
 | 🔎🧠 VeriHarness: Scaling Agentic Verification for Long-Horizon Tasks 🧠🔎 | [University of Cambridge](https://www.linkedin.com/school/university-of-cambridge/); [Google Cloud AI Research](https://www.linkedin.com/showcase/google-cloud/) | [Post](https://lnkd.in/p/dTYpACZY) · [Paper](https://arxiv.org/abs/2610.00972) |
