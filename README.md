@@ -42,7 +42,7 @@ If this saves you research time, starring the repo helps more builders discover 
 | --- | ---: | --- |
 | [🔬 Research](README-research.md) | 67 | AI scientists, deep research, autonomous discovery |
 | [⚙️ Framework](README-framework.md) | 67 | Agent runtimes, memory, tools, orchestration |
-| [🛡️ Security](README-security.md) | 57 | Prompt injection, red teaming, cyber agents, defenses |
+| [🛡️ Security](README-security.md) | 58 | Prompt injection, red teaming, cyber agents, defenses |
 | [🧠 Reasoning](README-reasoning.md) | 26 | Inference, deliberation, cognitive architectures |
 | [🧪 Testing](README-testing.md) | 27 | Benchmarks, harnesses, evaluation methodology |
 | [💊 Healthcare](README-healthcare.md) | 16 | Medical agents, diagnosis, pharma, biomedical research |
@@ -241,6 +241,7 @@ Counts use the recorded affiliations in all section tables: one count per unique
 | [Beijing Academy of Artificial Intelligence](https://www.linkedin.com/company/beijingbaai/) | [Reasoning] | 1 |
 | [Beijing Institute of Technology](https://www.linkedin.com/school/beijing-institute-of-technology/) | [Framework] | 1 |
 | [Bioinformatics Institute, A*STAR](https://sg.linkedin.com/company/astarbii) | [Physical AI/Robotics] | 1 |
+| [Bocconi University](https://www.linkedin.com/school/universita-bocconi/) | [Security] | 1 |
 | [Boston College](https://www.linkedin.com/school/boston-college/) | [Healthcare] | 1 |
 | [Boston University](https://www.linkedin.com/school/boston-university/) | [Testing] | 1 |
 | [BRAC University](https://www.linkedin.com/school/brac-university/) | [Security] | 1 |
@@ -324,6 +325,7 @@ Counts use the recorded affiliations in all section tables: one count per unique
 | [Lancaster University](https://www.linkedin.com/company/lancaster-university-scc/) | [Security] | 1 |
 | [Lerna AI](https://www.linkedin.com/company/lerna-ai/) | [Framework] | 1 |
 | [Likelihood Lab](https://www.linkedin.com/company/likelihood-lab) | [Testing] | 1 |
+| [LKA NRW](https://www.linkedin.com/company/landeskriminalamt-nrw/) | [Security] | 1 |
 | [LMU Munich](https://www.linkedin.com/school/lmu.muenchen/) | [Ethics and Safety] | 1 |
 | [LogicStar AI](https://www.linkedin.com/company/logicstar-ai/) | [Software Engineering] | 1 |
 | [Lovely Professional University](https://www.linkedin.com/school/lovely-professional-university/) | [Healthcare] | 1 |
@@ -446,6 +448,7 @@ Counts use the recorded affiliations in all section tables: one count per unique
 | [University of Connecticut](https://www.linkedin.com/school/university-of-connecticut/) | [Reasoning] | 1 |
 | [University of Florida](https://www.linkedin.com/school/uflorida/) | [Hardware Design] | 1 |
 | [University of Georgia](https://www.linkedin.com/school/university-of-georgia/) | [Security] | 1 |
+| [University of Göttingen](https://www.linkedin.com/school/-university-of-goettingen/) | [Security] | 1 |
 | [University of Groningen](https://www.linkedin.com/school/rijksuniversiteit-groningen/) | [Security] | 1 |
 | [University of Hamburg](https://www.linkedin.com/school/unihamburg/) | [Research] | 1 |
 | [University of Ioannina](https://www.linkedin.com/school/university-of-ioannina/) | [Transportation] | 1 |
