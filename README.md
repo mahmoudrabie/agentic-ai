@@ -42,7 +42,7 @@ If this saves you research time, starring the repo helps more builders discover 
 | --- | ---: | --- |
 | [🔬 Research](README-research.md) | 67 | AI scientists, deep research, autonomous discovery |
 | [⚙️ Framework](README-framework.md) | 67 | Agent runtimes, memory, tools, orchestration |
-| [🛡️ Security](README-security.md) | 56 | Prompt injection, red teaming, cyber agents, defenses |
+| [🛡️ Security](README-security.md) | 57 | Prompt injection, red teaming, cyber agents, defenses |
 | [🧠 Reasoning](README-reasoning.md) | 26 | Inference, deliberation, cognitive architectures |
 | [🧪 Testing](README-testing.md) | 27 | Benchmarks, harnesses, evaluation methodology |
 | [💊 Healthcare](README-healthcare.md) | 16 | Medical agents, diagnosis, pharma, biomedical research |
@@ -101,6 +101,7 @@ Counts use the recorded affiliations in all section tables: one count per unique
 | [Fudan University](https://www.linkedin.com/school/fudan-university/) | [Foundation Models], [Framework], [Healthcare], [Reasoning] | 7 |
 | [IBM](https://www.linkedin.com/company/ibm/) | [Education], [Ethics and Safety], [Framework], [Research], [Security], [Testing] | 7 |
 | [KAIST](https://www.linkedin.com/company/kaist/) | [Foundation Models], [Framework], [Research], [Software Engineering], [Vision] | 7 |
+| [New York University](https://www.linkedin.com/school/new-york-university/) | [Framework], [Security], [Software Engineering], [Testing] | 7 |
 | [Rutgers University](https://www.linkedin.com/school/rutgersu/) | [Framework], [Reasoning], [Recommendation], [Security], [Software Engineering], [Vision] | 7 |
 | [Salesforce](https://www.linkedin.com/company/salesforce/) | [Framework], [Healthcare], [Reasoning], [Software Engineering] | 7 |
 | [The University of Hong Kong](https://www.linkedin.com/school/universityofhongkong/) | [Foundation Models], [Framework], [Research], [Software Engineering], [Vision] | 7 |
@@ -111,7 +112,6 @@ Counts use the recorded affiliations in all section tables: one count per unique
 | [ETH Zurich](https://www.linkedin.com/school/eth-zurich/) | [Foundation Models], [Research], [Software Engineering], [Testing] | 6 |
 | [Johns Hopkins University](https://www.linkedin.com/school/johns-hopkins-university/) | [Framework], [Research], [Security], [Testing] | 6 |
 | [Mohamed bin Zayed University of Artificial Intelligence](https://www.linkedin.com/school/mbzuai/) | [Framework], [Gaming], [Healthcare], [Reasoning] | 6 |
-| [New York University](https://www.linkedin.com/school/new-york-university/) | [Framework], [Security], [Software Engineering], [Testing] | 6 |
 | [Northeastern University](https://www.linkedin.com/school/northeastern-university/) | [Framework], [Healthcare], [Networking], [Research], [Testing], [Transportation] | 6 |
 | [University College London](https://www.linkedin.com/school/university-college-london/) | [Ethics and Safety], [Framework], [Healthcare], [Physical AI/Robotics], [Research], [Testing] | 6 |
 | [University of Maryland](https://www.linkedin.com/school/university-of-maryland/) | [Foundation Models], [Framework], [Gaming], [Hardware Design], [Testing], [Vision] | 6 |
