@@ -53,7 +53,7 @@ If this saves you research time, starring the repo helps more builders discover 
 | [🤖 Physical AI/Robotics](README-robotics.md) | 8 | Physical AI, embodied agents, and robot systems |
 | [🤖 Foundation Models](README-foundation-models.md) | 8 | Agentic capabilities in foundation models |
 | [🔧 Hardware Design](README-hardware-design.md) | 6 | EDA, chip design, verification |
-| [⚖️ Ethics and Safety](README-ethics-and-safety.md) | 6 | Alignment, fairness, trust, governance |
+| [⚖️ Ethics and Safety](README-ethics-and-safety.md) | 7 | Alignment, fairness, trust, governance |
 | [🏭 OT/IoT](README-iot.md) | 6 | Industrial systems and device control |
 | [🎯 Recommendation](README-recommendation.md) | 5 | Personalization and proactive discovery |
 | [🌆 Smart Cities](README-smart-cities.md) | 5 | Urban operations and civic systems |
@@ -74,16 +74,16 @@ Counts use the recorded affiliations in all section tables: one count per unique
 | [Stanford University](https://www.linkedin.com/school/stanford-university/) | [Ethics and Safety], [Framework], [Gaming], [Healthcare], [Planning], [Reasoning], [Research], [Security], [Software Engineering], [Testing] | 27 |
 | [University of Illinois Urbana-Champaign](https://www.linkedin.com/school/university-of-illinois-urbana-champaign/) | [Design], [Framework], [Healthcare], [Physical AI/Robotics], [Reasoning], [Recommendation], [Research], [Security], [Testing] | 24 |
 | [Google](https://www.linkedin.com/company/google/) | [Automation], [Framework], [Healthcare], [Reasoning], [Research], [Security], [Software Engineering], [Testing] | 23 |
-| [Microsoft](https://www.linkedin.com/company/microsoft/) | [Automation], [Ethics and Safety], [Foundation Models], [Framework], [Reasoning], [Research], [Security], [Software Engineering], [Testing] | 20 |
+| [Microsoft](https://www.linkedin.com/company/microsoft/) | [Automation], [Ethics and Safety], [Foundation Models], [Framework], [Reasoning], [Research], [Security], [Software Engineering], [Testing] | 21 |
 | [University of California, Berkeley](https://www.linkedin.com/school/uc-berkeley/) | [Foundation Models], [Framework], [Physical AI/Robotics], [Research], [Security], [Testing] | 20 |
 | [National University of Singapore](https://www.linkedin.com/school/national-university-of-singapore/) | [Foundation Models], [Framework], [Healthcare], [Physical AI/Robotics], [Reasoning], [Research], [Security], [Testing] | 18 |
 | [NVIDIA](https://www.linkedin.com/company/nvidia/) | [Foundation Models], [Framework], [Gaming], [Hardware Design], [Physical AI/Robotics], [Reasoning], [Research], [Security], [Software Engineering], [Vision] | 18 |
 | [Meta](https://www.linkedin.com/company/meta/) | [Framework], [Reasoning], [Recommendation], [Research], [Security], [Testing], [Vision] | 16 |
 | [Carnegie Mellon University](https://www.linkedin.com/school/carnegie-mellon-university/) | [Ethics and Safety], [Foundation Models], [Framework], [Healthcare], [Physical AI/Robotics], [Reasoning], [Research], [Security], [Software Engineering], [Testing] | 15 |
 | [Nanyang Technological University](https://www.linkedin.com/school/ntusg/) | [Foundation Models], [Framework], [Reasoning], [Recommendation], [Research], [Security], [Software Engineering], [Testing] | 14 |
+| [Georgia Institute of Technology](https://www.linkedin.com/school/georgia-institute-of-technology/) | [Automation], [Ethics and Safety], [Foundation Models], [Framework], [Reasoning], [Research], [Testing] | 13 |
 | [University of Washington](https://www.linkedin.com/school/university-of-washington/) | [Ethics and Safety], [Foundation Models], [Framework], [Healthcare], [Research], [Security], [Testing], [Vision] | 13 |
 | [Amazon](https://www.linkedin.com/company/amazon/) | [Framework], [Reasoning], [Recommendation], [Research], [Security], [Testing] | 12 |
-| [Georgia Institute of Technology](https://www.linkedin.com/school/georgia-institute-of-technology/) | [Automation], [Foundation Models], [Framework], [Reasoning], [Research], [Testing] | 12 |
 | [Tsinghua University](https://www.linkedin.com/school/tsinghua-university/) | [Design], [Framework], [Healthcare], [Reasoning], [Recommendation], [Research], [Security] | 12 |
 | [University of California, San Diego](https://www.linkedin.com/school/ucsandiego/) | [Framework], [Healthcare], [Networking], [Planning], [Reasoning], [Recommendation], [Research], [Security], [Testing] | 12 |
 | [Alibaba Group](https://www.linkedin.com/company/alibaba-group/) | [Automation], [Framework], [Reasoning], [Research], [Software Engineering], [Testing] | 11 |
