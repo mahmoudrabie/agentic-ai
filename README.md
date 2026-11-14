@@ -149,7 +149,7 @@ Counts use the recorded affiliations in all section tables: one count per unique
 | [University of Notre Dame](https://www.linkedin.com/school/university-of-notre-dame/) | [Ethics and Safety], [Framework], [Recommendation], [Research] | 4 |
 | [University of Science and Technology of China](https://www.linkedin.com/school/university-of-science-and-technology-of-china/) | [Framework], [Reasoning] | 4 |
 | [University of Southern California](https://www.linkedin.com/school/university-of-southern-california/) | [Framework], [Gaming], [Healthcare], [Testing] | 4 |
-| [University of Waterloo](https://www.linkedin.com/school/uwaterloo/) | [Research], [Testing] | 4 |
+| [University of Waterloo](https://www.linkedin.com/school/university-of-waterloo/) | [Research], [Testing] | 4 |
 | [Virginia Tech](https://www.linkedin.com/school/virginia-tech/) | [Framework], [Security], [Vision] | 4 |
 | [Washington University in St. Louis](https://www.linkedin.com/school/washington-university-in-st-louis/) | [Framework], [Security], [Testing] | 4 |
 | [Westlake University](https://www.linkedin.com/school/westlakeuniversity/) | [Framework], [Hardware Design], [Research], [Vision] | 4 |
