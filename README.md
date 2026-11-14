@@ -124,7 +124,7 @@ Counts use the recorded affiliations in all section tables: one count per unique
 | [Peking University](https://www.linkedin.com/school/peking-university/) | [Automation], [Design], [Healthcare], [Reasoning], [Software Engineering] | 5 |
 | [Pennsylvania State University](https://www.linkedin.com/school/penn-state-university/) | [Automation], [Framework], [Reasoning], [Research], [Security] | 5 |
 | [Purdue University](https://www.linkedin.com/school/purdue-university/) | [Automation], [Framework], [Security], [Testing] | 5 |
-| [ServiceNow](https://www.linkedin.com/company/servicenow/) | [Automation], [Framework], [Research], [Security] | 5 |
+| [ServiceNow](https://www.linkedin.com/company/servicenow/) | [Automation], [Framework], [Research], [Security], [Testing] | 5 |
 | [Shanghai Innovation Institute](https://www.linkedin.com/company/sii2024/) | [Automation], [Framework], [Reasoning] | 5 |
 | [Texas A&M University](https://www.linkedin.com/school/texas-a%26m-university/) | [Framework], [Planning], [Research], [Testing] | 5 |
 | [University of Pennsylvania](https://www.linkedin.com/school/university-of-pennsylvania/) | [Framework], [Research], [Security], [Testing] | 5 |
