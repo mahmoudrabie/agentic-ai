@@ -42,7 +42,7 @@ If this saves you research time, starring the repo helps more builders discover 
 | --- | ---: | --- |
 | [🔬 Research](README-research.md) | 67 | AI scientists, deep research, autonomous discovery |
 | [⚙️ Framework](README-framework.md) | 68 | Agent runtimes, memory, tools, orchestration |
-| [🛡️ Security](README-security.md) | 59 | Prompt injection, red teaming, cyber agents, defenses |
+| [🛡️ Security](README-security.md) | 60 | Prompt injection, red teaming, cyber agents, defenses |
 | [🧠 Reasoning](README-reasoning.md) | 26 | Inference, deliberation, cognitive architectures |
 | [🧪 Testing](README-testing.md) | 27 | Benchmarks, harnesses, evaluation methodology |
 | [💊 Healthcare](README-healthcare.md) | 16 | Medical agents, diagnosis, pharma, biomedical research |
@@ -167,6 +167,7 @@ Counts use the recorded affiliations in all section tables: one count per unique
 | [Tencent](https://www.linkedin.com/company/tencentglobal/) | [Automation], [Vision] | 3 |
 | [The University of Tokyo](https://www.linkedin.com/school/university-of-tokyo/) | [Foundation Models], [Framework], [Testing] | 3 |
 | [Tongji University](https://www.linkedin.com/school/tongji-university/) | [Framework], [Reasoning] | 3 |
+| [University of California, Davis](https://www.linkedin.com/school/uc-davis/) | [Framework], [Security], [Vision] | 3 |
 | [University of Chinese Academy of Sciences](https://www.linkedin.com/school/university-of-chinese-academy-of-sciences/) | [Automation], [Reasoning], [Research] | 3 |
 | [University of Illinois Chicago](https://www.linkedin.com/school/thisisuic/) | [Framework], [Healthcare], [Research] | 3 |
 | [University of Massachusetts Amherst](https://www.linkedin.com/school/umassamherst/) | [Framework], [Testing] | 3 |
@@ -187,12 +188,12 @@ Counts use the recorded affiliations in all section tables: one count per unique
 | [Indian Institute of Technology Kanpur](https://www.linkedin.com/school/indian-institute-of-technology-kanpur/) | [Security] | 2 |
 | [Iowa State University](https://www.linkedin.com/school/iowastateu) | [Physical AI/Robotics], [Testing] | 2 |
 | [Karlsruhe Institute of Technology](https://www.linkedin.com/school/kit/) | [OT/IoT], [Testing] | 2 |
-| [Lehigh University](https://www.linkedin.com/school/lehigh-university/) | [Software Engineering], [Testing] | 2 |
+| [Lehigh University](https://www.linkedin.com/school/lehigh-university/) | [Software Engineering] | 2 |
 | [Leiden University](https://www.linkedin.com/school/leiden-university/) | [Framework], [Research] | 2 |
 | [LG AI Research](https://www.linkedin.com/company/lgairesearch/) | [Research], [Testing] | 2 |
 | [McGill University](https://www.linkedin.com/school/mcgill-university/) | [Research], [Testing] | 2 |
 | [MemTensor](https://www.linkedin.com/company/memtensor/) | [Reasoning] | 2 |
-| [MiroMind](https://www.linkedin.com/company/miromind-ai/) | [Research], [Testing] | 2 |
+| [MiroMind](https://www.linkedin.com/company/miromind-ai/) | [Research] | 2 |
 | [National Technical University of Athens](https://www.linkedin.com/school/national-technical-university-of-athens/) | [Ethics and Safety], [Transportation] | 2 |
 | [OPPO](https://www.linkedin.com/company/oppo/) | [Software Engineering], [Testing] | 2 |
 | [Oracle](https://www.linkedin.com/company/oracle/) | [Security], [Testing] | 2 |
@@ -208,7 +209,6 @@ Counts use the recorded affiliations in all section tables: one count per unique
 | [The University of Texas at Dallas](https://www.linkedin.com/school/university-of-texas-at-dallas/) | [Framework] | 2 |
 | [UK AI Security Institute](https://www.linkedin.com/company/ai-security-institute/) | [Security] | 2 |
 | [University of British Columbia](https://www.linkedin.com/school/universityofbc/) | [Research] | 2 |
-| [University of California, Davis](https://www.linkedin.com/school/uc-davis/) | [Framework], [Vision] | 2 |
 | [University of California, Irvine](https://www.linkedin.com/school/university-of-california-irvine/) | [Security], [Testing] | 2 |
 | [University of Colorado Anschutz Medical Campus](https://www.linkedin.com/school/cuanschutz/) | [Research], [Testing] | 2 |
 | [University of Colorado Boulder](https://www.linkedin.com/school/cuboulder/) | [Framework], [Testing] | 2 |
@@ -435,6 +435,7 @@ Counts use the recorded affiliations in all section tables: one count per unique
 | [U.S. National Institutes of Health](https://www.linkedin.com/company/national-institutes-of-health/) | [Testing] | 1 |
 | [UMass Chan Medical School](https://www.linkedin.com/school/umasschan/) | [Testing] | 1 |
 | [UNINOVA](https://www.linkedin.com/company/uninova/) | [Automation] | 1 |
+| [Uniphore](https://www.linkedin.com/company/uniphore/) | [Security] | 1 |
 | [University College Cork](https://www.linkedin.com/company/school-of-computer-science-information-technology-ucc/) | [Framework] | 1 |
 | [University of Aberdeen](https://www.linkedin.com/school/university-of-aberdeen/) | [Framework] | 1 |
 | [University of Alberta](https://www.linkedin.com/school/university-of-alberta/) | [Framework] | 1 |
