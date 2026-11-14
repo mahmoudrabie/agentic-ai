@@ -483,7 +483,7 @@ Counts use the recorded affiliations in all section tables: one count per unique
 | [Washington State University](https://www.linkedin.com/school/washington-state-university-tri-cities/) | [OT/IoT] | 1 |
 | [Wayne State University](https://www.linkedin.com/school/wayne-state-university/) | [Testing] | 1 |
 | [Wellstar Health System](https://www.linkedin.com/company/wellstar-health-system/) | [Healthcare] | 1 |
-| [Whitehead Institute for Biomedical Research](https://www.linkedin.com/school/whitehead-institute/) | [Research] | 1 |
+| [Whitehead Institute for Biomedical Research](https://www.linkedin.com/company/whitehead-institute/) | [Research] | 1 |
 | [Wichita State University](https://www.linkedin.com/school/wichita-state-university/) | [Security] | 1 |
 | [William & Mary](https://www.linkedin.com/school/william-and-mary/) | [Research] | 1 |
 | [Wuhan University](https://www.linkedin.com/school/wuhan-university/) | [Software Engineering] | 1 |
