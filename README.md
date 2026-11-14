@@ -188,12 +188,12 @@ Counts use the recorded affiliations in all section tables: one count per unique
 | [Indian Institute of Technology Kanpur](https://www.linkedin.com/school/indian-institute-of-technology-kanpur/) | [Security] | 2 |
 | [Iowa State University](https://www.linkedin.com/school/iowastateu) | [Physical AI/Robotics], [Testing] | 2 |
 | [Karlsruhe Institute of Technology](https://www.linkedin.com/school/kit/) | [OT/IoT], [Testing] | 2 |
-| [Lehigh University](https://www.linkedin.com/school/lehigh-university/) | [Software Engineering] | 2 |
+| [Lehigh University](https://www.linkedin.com/school/lehigh-university/) | [Software Engineering], [Testing] | 2 |
 | [Leiden University](https://www.linkedin.com/school/leiden-university/) | [Framework], [Research] | 2 |
 | [LG AI Research](https://www.linkedin.com/company/lgairesearch/) | [Research], [Testing] | 2 |
 | [McGill University](https://www.linkedin.com/school/mcgill-university/) | [Research], [Testing] | 2 |
 | [MemTensor](https://www.linkedin.com/company/memtensor/) | [Reasoning] | 2 |
-| [MiroMind](https://www.linkedin.com/company/miromind-ai/) | [Research] | 2 |
+| [MiroMind](https://www.linkedin.com/company/miromind-ai/) | [Research], [Testing] | 2 |
 | [National Technical University of Athens](https://www.linkedin.com/school/national-technical-university-of-athens/) | [Ethics and Safety], [Transportation] | 2 |
 | [OPPO](https://www.linkedin.com/company/oppo/) | [Software Engineering], [Testing] | 2 |
 | [Oracle](https://www.linkedin.com/company/oracle/) | [Security], [Testing] | 2 |
