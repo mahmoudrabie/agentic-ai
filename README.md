@@ -41,7 +41,7 @@ If this saves you research time, starring the repo helps more builders discover 
 | Domain | Researches | Focus |
 | --- | ---: | --- |
 | [🔬 Research](README-research.md) | 67 | AI scientists, deep research, autonomous discovery |
-| [⚙️ Framework](README-framework.md) | 68 | Agent runtimes, memory, tools, orchestration |
+| [⚙️ Framework](README-framework.md) | 69 | Agent runtimes, memory, tools, orchestration |
 | [🛡️ Security](README-security.md) | 60 | Prompt injection, red teaming, cyber agents, defenses |
 | [🧠 Reasoning](README-reasoning.md) | 26 | Inference, deliberation, cognitive architectures |
 | [🧪 Testing](README-testing.md) | 27 | Benchmarks, harnesses, evaluation methodology |
@@ -74,7 +74,7 @@ Counts use the recorded affiliations in all section tables: one count per unique
 | [Stanford University](https://www.linkedin.com/school/stanford-university/) | [Ethics and Safety], [Framework], [Gaming], [Healthcare], [Planning], [Reasoning], [Research], [Security], [Software Engineering], [Testing] | 27 |
 | [University of Illinois Urbana-Champaign](https://www.linkedin.com/school/university-of-illinois-urbana-champaign/) | [Design], [Framework], [Healthcare], [Physical AI/Robotics], [Reasoning], [Recommendation], [Research], [Security], [Testing] | 26 |
 | [Google](https://www.linkedin.com/company/google/) | [Automation], [Framework], [Healthcare], [Reasoning], [Research], [Security], [Software Engineering], [Testing] | 24 |
-| [Microsoft](https://www.linkedin.com/company/microsoft/) | [Automation], [Ethics and Safety], [Foundation Models], [Framework], [Reasoning], [Research], [Security], [Software Engineering], [Testing] | 21 |
+| [Microsoft](https://www.linkedin.com/company/microsoft/) | [Automation], [Ethics and Safety], [Foundation Models], [Framework], [Reasoning], [Research], [Security], [Software Engineering], [Testing] | 22 |
 | [University of California, Berkeley](https://www.linkedin.com/school/uc-berkeley/) | [Foundation Models], [Framework], [Physical AI/Robotics], [Research], [Security], [Testing] | 21 |
 | [National University of Singapore](https://www.linkedin.com/school/national-university-of-singapore/) | [Foundation Models], [Framework], [Healthcare], [Physical AI/Robotics], [Reasoning], [Research], [Security], [Testing] | 18 |
 | [NVIDIA](https://www.linkedin.com/company/nvidia/) | [Foundation Models], [Framework], [Gaming], [Hardware Design], [Physical AI/Robotics], [Reasoning], [Research], [Security], [Software Engineering], [Vision] | 18 |
@@ -172,6 +172,7 @@ Counts use the recorded affiliations in all section tables: one count per unique
 | [University of Illinois Chicago](https://www.linkedin.com/school/thisisuic/) | [Framework], [Healthcare], [Research] | 3 |
 | [University of Massachusetts Amherst](https://www.linkedin.com/school/umassamherst/) | [Framework], [Testing] | 3 |
 | [University of Toronto](https://www.linkedin.com/school/university-of-toronto/) | [Security], [Testing] | 3 |
+| [University of Virginia](https://www.linkedin.com/school/university-of-virginia/) | [Framework], [Healthcare], [Software Engineering] | 3 |
 | [Accenture](https://www.linkedin.com/company/accenture/) | [Framework], [Reasoning] | 2 |
 | [AG2AI](https://www.linkedin.com/company/ag2ai/) | [Framework], [Security] | 2 |
 | [Allen Institute for AI](https://www.linkedin.com/company/allen-ai/) | [Ethics and Safety], [Vision] | 2 |
@@ -221,7 +222,6 @@ Counts use the recorded affiliations in all section tables: one count per unique
 | [University of Science and Technology Beijing](https://www.linkedin.com/school/%E5%8C%97%E4%BA%AC%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6/) | [Blockchain], [Networking] | 2 |
 | [University of Utah](https://www.linkedin.com/school/university-of-utah/) | [Reasoning], [Testing] | 2 |
 | [Université de Montréal](https://www.linkedin.com/school/universite-de-montreal/) | [Automation], [Framework] | 2 |
-| [University of Virginia](https://www.linkedin.com/school/university-of-virginia/) | [Healthcare], [Software Engineering] | 2 |
 | [Verdent AI](https://www.linkedin.com/company/verdent-ai/) | [Research] | 2 |
 | [Virtue AI](https://www.linkedin.com/company/virtue-ai/) | [Security] | 2 |
 | [Zoom](https://www.linkedin.com/company/zoom/) | [Framework], [Testing] | 2 |
