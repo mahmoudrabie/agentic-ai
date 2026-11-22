@@ -40,11 +40,11 @@ If this saves you research time, starring the repo helps more builders discover 
 
 | Domain | Researches | Focus |
 | --- | ---: | --- |
-| [🔬 Research](README-research.md) | 67 | AI scientists, deep research, autonomous discovery |
 | [⚙️ Framework](README-framework.md) | 69 | Agent runtimes, memory, tools, orchestration |
+| [🔬 Research](README-research.md) | 67 | AI scientists, deep research, autonomous discovery |
 | [🛡️ Security](README-security.md) | 60 | Prompt injection, red teaming, cyber agents, defenses |
-| [🧠 Reasoning](README-reasoning.md) | 26 | Inference, deliberation, cognitive architectures |
 | [🧪 Testing](README-testing.md) | 27 | Benchmarks, harnesses, evaluation methodology |
+| [🧠 Reasoning](README-reasoning.md) | 26 | Inference, deliberation, cognitive architectures |
 | [💊 Healthcare](README-healthcare.md) | 16 | Medical agents, diagnosis, pharma, biomedical research |
 | [💻 Software Engineering](README-software-engineering.md) | 16 | Coding agents, debugging, refactoring, code review |
 | [⚡ Automation](README-automation.md) | 15 | Process automation and workflow optimization |
@@ -52,8 +52,8 @@ If this saves you research time, starring the repo helps more builders discover 
 | [👁️ Vision](README-vision.md) | 9 | Visual agents and multimodal grounding |
 | [🤖 Physical AI/Robotics](README-robotics.md) | 8 | Physical AI, embodied agents, and robot systems |
 | [🤖 Foundation Models](README-foundation-models.md) | 8 | Agentic capabilities in foundation models |
-| [🔧 Hardware Design](README-hardware-design.md) | 6 | EDA, chip design, verification |
 | [⚖️ Ethics and Safety](README-ethics-and-safety.md) | 7 | Alignment, fairness, trust, governance |
+| [🔧 Hardware Design](README-hardware-design.md) | 6 | EDA, chip design, verification |
 | [🏭 OT/IoT](README-iot.md) | 6 | Industrial systems and device control |
 | [🎯 Recommendation](README-recommendation.md) | 5 | Personalization and proactive discovery |
 | [🌆 Smart Cities](README-smart-cities.md) | 5 | Urban operations and civic systems |
